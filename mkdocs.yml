@@ -1,0 +1,23 @@
+site_name: Summer 2021 of Open Source Promotion Plan
+site_dir: public
+
+theme:
+  name: material
+  language: 'en'
+  features:
+    - navigation.expand
+
+plugins:
+    - search
+
+nav:
+  - Frequencyly Asked: index.md
+  - Roles: roles.md
+  - Timeline: timeline.md
+  - Student Guide:
+    - Question: student.md
+    - Suggestions: proj_apply.md
+  - Community: community.md
+  - Mentor: mentor.md
+  - Cooperation: cooperation.md
+  - Contactus: contactus.md
