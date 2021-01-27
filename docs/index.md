@@ -12,7 +12,6 @@ Other help guide:
 - [The Role in Summer 2021](roles.md)
 - [Activity Timeline](timeline.md)
 - [Cooperative Extension](cooperation.md)
-- [Resources](resources.md)
 - [Contact us](contactus.md)
 
 ## What is Summer 2021 of Open Source Promotion Plan
