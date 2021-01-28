@@ -10,10 +10,12 @@
 
 Feel free to contact us, we will contact you as soon as possible.
 
-## Github
+## Projects of official website
 
-<https://github.com/summer-ospp>
+- Homepage: <https://github.com/summer-ospp/homepage>
+- Help documents: <https://github.com/summer-ospp/help>
 
 ## Public discussion mailing list
 
-[summer-ospp@googlegroups.com](mailto:summer-ospp@googlegroups.com)
+- Maillist: [summer-ospp@googlegroups.com](mailto:summer-ospp@googlegroups.com)
+- Talking Group: <https://groups.google.com/g/summer-ospp>

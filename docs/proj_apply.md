@@ -4,11 +4,11 @@
 
 Communication with mentor is a vital link, in which students can obtain the following benefits:
 
-    - Answer questions and embrace a comprehensive understanding of open source projects;
+- Answer questions and embrace a comprehensive understanding of open source projects;
 
-    - Refine the plan so that students can communicate their solutions with their mentors, and learn from them to improve feasibility;
+- Refine the plan so that students can communicate their solutions with their mentors, and learn from them to improve feasibility;
 
-    - Demonstarting good communication skills will also help to improve students'chances of being selected;
+- Demonstarting good communication skills will also help to improve students'chances of being selected;
 
 ## How to Write Project Application
 
