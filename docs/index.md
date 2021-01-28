@@ -16,7 +16,7 @@ Other help guide:
 
 ## What is Summer 2021 of Open Source Promotion Plan
 
-`What is Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and open enrollment to college students around the world.
+Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and open enrollment to college students around the world.
 
 Students can choose the projects they are interested in to apply for, and obtain the opportunity of the senior maintainer (community tutor) to guide them. According to the difficulty and completion of the project, participants will also receive the trophy and bonus of "Summer 2021 of Open Source Promotion Plan" .
 
@@ -73,7 +73,7 @@ For the open source community focusing on promoting open source, welcome to cont
 
 ## How does the community sign up
 
-Please fill in the relevant information of the community according to the [* * community registration template * *] (. / assets / community registration template. Txt) and send it to the email `summer@iscas.ac.cn` The organizer will connect with the community to discuss the follow-up cooperation.
+Please send the relevant information of the community to the email `summer@iscas.ac.cn` The organizer will connect with the community to discuss the follow-up cooperation.
 
 Please refer to the [community guide](community.md) for detailed description of community participation activities。
 

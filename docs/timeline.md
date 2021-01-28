@@ -23,4 +23,4 @@ See [Community Guide](community.md)
 
 See [Mentor Guide](mentor.md)
 
-*Tips：The default timezone is ‘GMT+8’*
+    *Tips：The default timezone is ‘GMT+8’*

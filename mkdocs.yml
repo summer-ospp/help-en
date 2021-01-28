@@ -1,4 +1,4 @@
-site_name: Summer 2021 of Open Source Promotion Plan
+site_name: Guide | Summer 2021 of Open Source Promotion Plan
 site_dir: public
 
 theme:
@@ -11,13 +11,14 @@ plugins:
     - search
 
 nav:
-  - Frequencyly Asked: index.md
+  - Frequently Asked: index.md
   - Roles: roles.md
   - Timeline: timeline.md
   - Student Guide:
-    - Question: student.md
+    - Questions: student.md
     - Suggestions: proj_apply.md
   - Community: community.md
   - Mentor: mentor.md
   - Cooperation: cooperation.md
-  - Contactus: contactus.md
+  - Contact Us: contactus.md
+  - Acknowledgements: acknowledgements.md

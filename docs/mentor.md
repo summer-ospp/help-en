@@ -1,14 +1,8 @@
 # Mentor Guide
 
-
-
-Please read: [Mentor Participation Agreement] (. /assets/mentor-Rules.txt)
-
-
 How to become a mentor
 
-The mentor of the project is recommended by the community. Each mentor could guide up to three projects in "summer 2021".
-
+The mentor of the project is recommended by the community. Each mentor could guide up to three projects in "Summer 2021".
 
 ## Responsibilities of mentors
 
@@ -30,13 +24,11 @@ The mentor of the project is recommended by the community. Each mentor could gui
 
 9. Promote student contributions could be accepted by the community.
 
-
 ## Whether the mentor can assist the student in development process
 
 The mentor cannot help students to develope the project by coding directly or help the student debug the project. The project should be completed independently. Mentors can guide students around the project in laying out plans, providing links to relevant recommendation documents, instructing students on how to participate in the community, and providing directional suggestions for improvement in the implementation of the program.
 
 ## Instructions about mentors' bonus
-
 
 1. Each project will be awarded RMB 5,000 before tax, and each mentor is responsible for up to 3 projects, which means the bonus is up to RMB 15,000 before tax.
 
