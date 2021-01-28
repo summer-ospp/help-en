@@ -1,16 +1,8 @@
 # Project Application Recommendations
 
-
-
-
-
 ## Purpose of communicating with mentors
 
-
-
 Communication with mentor is a vital link, in which students can obtain the following benefits:
-
-
 
 - Answer questions and embrace a comprehensive understanding of open source projects;
 
@@ -18,43 +10,31 @@ Communication with mentor is a vital link, in which students can obtain the foll
 
 - Demonstarting good communication skills will also help to improve students'chances of being selected;
 
-
-
-How to Write Project Application
-
-
+## How to Write Project Application
 
 In addition to the detailed technical plan and detailed time plan, students can describe the reasons for choosing the project, past development experiences related to the project technology, courses, etc. in the project application and express their willingness to participate in the project and contribute to the community.
 
-
-
-Technical Solutions
-
-
+### Technical Solutions
 
 1. In principle, the more detailed the technical program shows, the better understanding and recognition for the community will have;
 
 2. In the technical program, students should show their understanding of the target open source project from the following points:
 
-- Disassemble the target open source project according to your own understanding and clearly describe the functions of each module;
+   - Disassemble the target open source project according to your own understanding and clearly describe the functions of each module;
 
-- Based on project dismantling, analyze the requirements raised in the project description;
+   - Based on project dismantling, analyze the requirements raised in the project description;
 
-- Explicitly describe which files in which modules your schema will be modified;
+   - Explicitly describe which files in which modules your schema will be modified;
 
-- Or, which modules will be added to your solution and how they communicate with existing modules;
+   - Or, which modules will be added to your solution and how they communicate with existing modules;
 
 3. It is best to find a basis for your own project and list it as a reference in the project application, including, but not limited to:
 
-- Successful experience in other projects;
+   - Successful experience in other projects;
 
-- Thesis and other theoretical basis provided;
-
-
+   - Thesis and other theoretical basis provided;
 
 ### Time Planning
-
-
 
 1. The granularity of the proposed time plan is not more than one week;
 
@@ -62,11 +42,7 @@ Technical Solutions
 
 3. In each stage, describe the tasks you plan to accomplish in a week in weeks;
 
-
-
 ## Write something on your resume
-
-
 
 1. Resumes are designed to enable the community to have a clear understanding of each applicant's technical capabilities;
 
