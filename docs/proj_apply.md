@@ -50,12 +50,12 @@ In addition to the detailed technical plan and detailed time plan, students can 
 
 3. Students should never include irrelevant information in their resumes. Each information should be as relevant as possible to the project they are applying for, including, but not limited to:
 
-   - has contribution to some open source community;
+  - Past contribution on this open source community;
 
-   - Contributed to similar open source software and its community;
+  - Contributed to similar open source projects or communities;
 
-   - Experience with open source contributions, although not participating in related community contributions;
+  - Experience with open source contributions, although not participating in related community contributions;
 
-   - Not involved in open source, but have experience in developing similar functional software;
+  - Not involved in open source, but have experience in developing similar functional software;
 
-   - If you have no experience at all, you should emphasize your mastery of using the technology stack in the community and demonstrate your learning ability.
+  - If you have no experience at all, you should emphasize your mastery of using the technology stack in the community and demonstrate your learning ability.

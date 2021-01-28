@@ -15,9 +15,9 @@ Other help guide:
 
 ## What is Summer 2021 of Open Source Promotion Plan
 
-`Summer 2021 of Open Source Promotion Plan` (hereinafter referred to as `summer 2021`) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and open enrollment to college students around the world.
+Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and will open enrollment to college students around the world.
 
-Students can choose the projects they are interested in to apply for, and obtain the opportunity of the senior maintainer (community tutor) to guide them. According to the difficulty and completion of the project, participants will also receive the trophy and bonus of "Summer 2021 of Open Source Promotion Plan" .
+Students can choose the projects they are interested in to apply, and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive the bonus of "Summer 2021 of Open Source Promotion Plan" .
 
 ## What is different from GSoC
 
@@ -54,7 +54,7 @@ The main roles of participants are students, community and mentor.
 - The difficulty of each project is divided into high, medium and low levels, and the corresponding pre tax bonus is high (12000 RMB), medium (9000 RMB) and low (6000 RMB). (Note: the amount of bonus is RMB before tax).
 - The difficulty level is determined by the community according to the project task.
 
-## For which group of students
+## Student Eligibility
 
 This activity is for the students over 18 years old. Please refer to the student guide for specific conditions（ student.md# For which students)
 
@@ -72,7 +72,7 @@ For the open source community focusing on promoting open source, welcome to cont
 
 ## How does the community sign up
 
-Please send the relevant information of the community to the email `summer@iscas.ac.cn` The organizer will connect with the community to discuss the follow-up cooperation.
+Please send the relevant information of the community to the email `summer@iscas.ac.cn`. The organizer will connect with the community to discuss the follow-up cooperation.
 
 Please refer to the [community guide](community.md) for detailed description of community participation activities。
 
@@ -100,8 +100,8 @@ No, whether it is merged into the main line is only used as a reference for the 
 
 ## Where should the mid-term assessment codes and reports be submitted respectively
 
--Need to submit the latest complete code of the project to the warehouse;
--The report needs to be submitted to the corresponding issue (created by the Organizing Committee);
+- Need to submit the latest complete code of the project to the warehouse;
+- The report needs to be submitted to the corresponding issue (created by the Organizing Committee);
 
 ## What is supposed to do after finishing the mid-term task
 
