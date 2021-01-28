@@ -1,12 +1,6 @@
-<<<<<<< docs/index.md
-# Summer 2021 Participation Guidelines
-
-## Activity participation Guide
-=======
 # Frequently Asked
 
 ## Participation Guide
->>>>>>> docs/index.md
 
 - If you are a student, see [student guide](student.md).
 - If you are a community, see [community guide](community.md).
@@ -60,21 +54,13 @@ The main roles of participants are students, community and mentor.
 - The difficulty of each project is divided into high, medium and low levels, and the corresponding pre tax bonus is high (12000 RMB), medium (9000 RMB) and low (6000 RMB). (Note: the amount of bonus is RMB before tax).
 - The difficulty level is determined by the community according to the project task.
 
-<<<<<<< docs/index.md
 ## Student Eligibility
-=======
-## For which group of students
->>>>>>> docs/index.md
 
 This activity is for the students over 18 years old. Please refer to the student guide for specific conditions（ student.md# For which students)
 
 ## How to apply for a project
 
-<<<<<<< docs/index.md
-Please refer to [student guide] for details of [student participation](student.md)。 *Note: the default time zone 'GMT + 8'*
-=======
 Please refer to [student guide](student.md) for details of student participation. *Note: the default time zone 'GMT + 8'*
->>>>>>> docs/index.md
 
 ## Which communities can sign up for participation
 
@@ -86,11 +72,7 @@ For the open source community focusing on promoting open source, welcome to cont
 
 ## How does the community sign up
 
-<<<<<<< docs/index.md
-Please fill in the relevant information of the community according to the [* * community registration template * *] (. / assets / community registration template. Txt) and send it to the email `summer@iscas.ac.cn` The organizer will connect with the community to discuss the follow-up cooperation.
-=======
-Please send the relevant information of the community to the email `summer@iscas.ac.cn` The organizer will connect with the community to discuss the follow-up cooperation.
->>>>>>> docs/index.md
+Please send the relevant information of the community to the email `summer@iscas.ac.cn`. The organizer will connect with the community to discuss the follow-up cooperation.
 
 Please refer to the [community guide](community.md) for detailed description of community participation activities。
 
@@ -118,13 +100,8 @@ No, whether it is merged into the main line is only used as a reference for the 
 
 ## Where should the mid-term assessment codes and reports be submitted respectively
 
-<<<<<<< docs/index.md
 - Need to submit the latest complete code of the project to the warehouse;
 - The report needs to be submitted to the corresponding issue (created by the Organizing Committee);
-=======
--Need to submit the latest complete code of the project to the warehouse;
--The report needs to be submitted to the corresponding issue (created by the Organizing Committee);
->>>>>>> docs/index.md
 
 ## What is supposed to do after finishing the mid-term task
 
