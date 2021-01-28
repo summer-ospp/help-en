@@ -2,7 +2,7 @@
 
 How to become a mentor
 
-The mentor of the project is recommended by the community. Each mentor could guide up to three projects in "Summer 2021".
+The mentor of the project is recommended by the community. Each mentor could guide up to three projects in `Summer 2021`.
 
 ## Responsibilities of mentors
 
@@ -10,7 +10,7 @@ The mentor of the project is recommended by the community. Each mentor could gui
 
 2. During the preparation of the student's project plan, the instructor should provide positive directional guidance and share related technical materials to assist the students in conducting more feasible and rational project development plans.
 
-3. Instruct students how to become a member of the community and use common communication tools (e-mail, IRC, mailing lists, etc.).
+3. Instruct students how to become a member of the community and use common communication tools (E-mail, IRC, mailing lists, etc.).
 
 4. Instruct students to follow the rules of the community and use the community's code management platform and other tools.
 
@@ -18,7 +18,7 @@ The mentor of the project is recommended by the community. Each mentor could gui
 
 6. Avoid telling students the answer directly. Mentor is supposed to guide them through directional guidance.
 
-7. Maintain regular communication with students during project development and keep up with the progress of students'development. The organizing committee recommends that communication should be guaranteed at least once or twice a week.
+7. Maintain regular communication with students during project development and keep up with the progress of students' development. The organizing committee recommends that communication should be guaranteed at least once or twice a week.
 
 8. Take into account the skill level and age of students, maintain friendly and patient communication, and encourage students to develop independently and actively.
 

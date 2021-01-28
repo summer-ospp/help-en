@@ -1,14 +1,13 @@
-# Summer 2021 Participation Guidelines
+# Frequently Asked
 
-## Activity participation Guide
+## Participation Guide
 
--If you are a student, see [student guide](student.md).
--If you are a community, see [community guide](community.md).
--If you are a community mentor, see [mentor guide](mentor.md).
+- If you are a student, see [student guide](student.md).
+- If you are a community, see [community guide](community.md).
+- If you are a community mentor, see [mentor guide](mentor.md).
 
 Other help guide:
 
-- [Key Issues](index.md)
 - [The Role in Summer 2021](roles.md)
 - [Activity Timeline](timeline.md)
 - [Cooperative Extension](cooperation.md)
@@ -16,7 +15,7 @@ Other help guide:
 
 ## What is Summer 2021 of Open Source Promotion Plan
 
-Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and open enrollment to college students around the world.
+`Summer 2021 of Open Source Promotion Plan` (hereinafter referred to as `summer 2021`) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and open enrollment to college students around the world.
 
 Students can choose the projects they are interested in to apply for, and obtain the opportunity of the senior maintainer (community tutor) to guide them. According to the difficulty and completion of the project, participants will also receive the trophy and bonus of "Summer 2021 of Open Source Promotion Plan" .
 
@@ -61,7 +60,7 @@ This activity is for the students over 18 years old. Please refer to the student
 
 ## How to apply for a project
 
-Please refer to [student guide] for details of [student participation](student.md)。 *Note: the default time zone 'GMT + 8'*
+Please refer to [student guide](student.md) for details of student participation. *Note: the default time zone 'GMT + 8'*
 
 ## Which communities can sign up for participation
 

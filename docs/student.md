@@ -149,7 +149,7 @@ After the selected student list is published on the official website, they will 
 
 ## Whether the students who will graduate in summer can participate or not
 
-You can submit your application as long as your student ID card is valid. 
+You can submit your application as long as your student ID card is valid.
 
 ## Which programming language should students use to develop projects
 
