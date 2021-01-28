@@ -92,7 +92,7 @@ After the selected student list is published on the official website, they will 
 
 - Receive the platform account and help provided by the organizing committee.
 
-  - By default, The organizing committee chooses the email address used by students when submitting project applications to create a slack account, and establishes a discussion group for contestants to facilitate students' communication (the organizing committee also has members in the group to facilitate online Q & A);
+  - By default, the organizing committee chooses the mailbox used by students to create the platform gitlab account. If students need to modify it, they can contact the organizing committee by email to apply for modification;
 
   - By default, the Organizing Committee establishes a project repository for each student, in which the code repository and Wiki pages are publicly accessible, and the mentors and students have operation rights. Additionally, the repository contains the following contents:
 
