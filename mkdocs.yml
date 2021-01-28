@@ -11,7 +11,7 @@ plugins:
     - search
 
 nav:
-  - Frequencyly Asked: index.md
+  - Frequently Asked: index.md
   - Roles: roles.md
   - Timeline: timeline.md
   - Student Guide:
@@ -20,4 +20,4 @@ nav:
   - Community: community.md
   - Mentor: mentor.md
   - Cooperation: cooperation.md
-  - Contactus: contactus.md
+  - Contact Us: contactus.md

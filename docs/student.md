@@ -3,7 +3,7 @@
 
 Before students participate in the activity, please read the student participation agreement (. / assets / student)- rules.txt )
 
-## For which group of students
+## Student Eligibility
 
 This activity is for the students over 18 years old.
 
@@ -39,7 +39,7 @@ Follow up information on the official website.
 
 
 
-## How many projects can a student apply
+## How many projects each student can apply
 
 
 
@@ -83,7 +83,7 @@ Follow up information on the official website.
 
 
 
-## How can the students communicate with community mentors
+## How does the students communicate with community mentors
 
 
 
@@ -172,19 +172,19 @@ After the selected student list is published on the official website, they will 
 
 
 
-1. Students submit the interim report of the project in the designated position of the platform
+1.Students submit the mid-term report of the project on Github
 
-2. The tutor gives the review opinions from the following aspects and submits the review opinions to the designated position of the platform.
+2.The mentor provides the review opinions from the following aspects and submits the review opinions to the platform
 
-1. Is the project on schedule
+  a. Is the project on schedule?
+   
+  b. Whether the project code and output have been submitted to the repository as planned?
+  
+3.The organizing committee judges whether the mid-term assessment is passed or not according to the evaluation opinions of the mentor.
 
-2. Whether the project code and output have been submitted to the platform warehouse as planned
+4.Students who pass the mid-term assessment will receive 50% of the project bonus (before tax) to continue the project.
 
-3. The Organizing Committee judges whether the mid-term assessment is passed or not according to the evaluation opinions of the tutor.
-
-4. Students who pass the mid-term assessment will receive 50% of the project bonus (before tax) to continue the project.
-
-5. Students who fail to pass the mid-term assessment will stop participating in the project, and the organizing committee will no longer support the project.
+5.Students who fail to pass the mid-term assessment will stop participating in the project, and the organizing committee will no longer support the project.
 
 
 
@@ -192,25 +192,25 @@ After the selected student list is published on the official website, they will 
 
 
 
-1. Students submit the project closing report at the designated location of the platform
+11.Students submit the project final report on Github
 
-2. Community members of community organizations (tutors and other community developers, the specific number of which is decided by the community) give evaluation opinions referring to the following aspects, and submit the evaluation opinions to the designated location of the platform:
+2.Community members (mentors and other community developers, the specific number of which is assigned by the community) provide evaluation opinions referring to the following aspects, and submit the evaluation opinions to the designated location of the platform:
 
-1. Evaluate whether the project output meets the initial objectives and requirements of the project.
+  a. Evaluate whether the project output meets the initial objectives and requirements of the project.
 
-2. List of contributions submitted to the community.
+  b. List of contributions submitted to the community.
 
-3. Evaluate the operation of project output.
+  c. Evaluate the operation of project output.
 
-4. The perfection of project related documents.
+  d. The perfection of project related documents.
 
-5. For R & D projects, whether the closing report provides the corresponding test verification results.
+  e. Whether the final report provides the corresponding test verification results.
 
-6. Other aspects that the community and tutors think need to be evaluated.
+  f. Other aspects that the community and mentors are considered to be evaluated.
 
-3. The organizing committee organizes a review panel to review the project output, and gives the final review conclusion (pass, fail) based on the review opinions of the community.
+3.The organizing committee organizes a review panel towards the project output, and gives the final review conclusion (pass or fail) based on the review opinions of the community.
 
-4. The organizing committee will pay the remaining project bonus (before tax) to the students who pass the assessment according to the assessment conclusion of the jury.
+4.The organizing committee will pay the remaining project bonus (before tax) to the students who pass the assessment according to the review conclusion.
 
 
 

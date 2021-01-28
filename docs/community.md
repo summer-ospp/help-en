@@ -4,11 +4,11 @@
 
 This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/), and other open and shared licenses are all supported by this activity.
 For the list of recommended licenses supported by ODI organization, please refer to [ODI organization approved and recommended Open Knowledge License (# - ODI organization approved and recommended Open Knowledge License).
-With regards to the open source community focusing on promoting open source, welcome to contact the organizing committee to communicate how to promote this activity and to conduct the subsequent cooperation.
+Regarding the open source community focusing on promoting open source, welcome to contact the organizing committee to negotiate how to promote this activity and to conduct the subsequent cooperation.
 
 ## How does the community sign up
 
-Please send the community information to email summer@iscas.ac.cn The organizer will connect with the community to discuss the subsequent cooperation.
+Please send the community information to email summer@iscas.ac.cn. The organizer will connect with the community to discuss the subsequent cooperation.
 
 ## What kind of projects are supported
 
@@ -21,7 +21,7 @@ It can be proposed, but the following conditions should be met:
 1. The agreement of upstream open source software warehouse should belong to [OSI organization certified open source agreement](https://opensource.org/licenses) Or  [recommended open knowledge protocol certified by ODI organization](# - Recommended open knowledge protocol certified by ODI organization).
 2. The tutor designated by the community has the ability to guide the students to complete the development work of the corresponding project. For example, the tutor is an active developer in the upstream community.
 
-## What is the bonus of one project
+## What is the bonus of each project
 
 - The difficulty of the project is divided into high, medium and low levels, and the corresponding pre tax bonus is high (12000 RMB), medium (9000 RMB) and low (6000 RMB) (Note: the amount of bonus is pre tax RMB).
 - The difficulty level is determined by the community according to the project task.
@@ -75,7 +75,7 @@ The following open knowledge agreement projects are accepted in this activity:
 - [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://opendefinition.org/licenses/cc-by-sa)
 - [Open Data Commons Open Database License (ODbL)](https://opendefinition.org/licenses/odc-odbl)
 
-## Organizer's statement
+## Organizer's Statement
 
 1. The organizer has no intellectual property claim for the development achievements of the students in this activity;
 2. Relevant intellectual property achievements are determined by the community and students according to the guidelines for participating in the community development (for instance, signing CLA with student developers);

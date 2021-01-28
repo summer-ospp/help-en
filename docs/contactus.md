@@ -1,4 +1,4 @@
-# Contact us
+# Contact Us
 
 ## Official website of organizing committee
 
