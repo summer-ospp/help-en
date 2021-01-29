@@ -1,6 +1,6 @@
 # Help | Summer 2021 of Open Source Promotion Plan
 
-English | [简体中文](https://github.com/summer-ospp/help-en/)
+English | [简体中文](https://github.com/summer-ospp/help/)
 
 Welcome to Summer 2021 of Open Source Promotion Plan
 
