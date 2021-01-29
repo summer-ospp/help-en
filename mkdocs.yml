@@ -1,14 +1,29 @@
 site_name: Guide | Summer 2021 of Open Source Promotion Plan
 site_dir: public
+repo_url: https://summer.iscas.ac.cn/help/
+repo_name: 中文版
+
+copyright: Copyright &copy; 2020 - 2021 Organizing Committee, Summer 2021 of Open Source Promotion Plan
 
 theme:
   name: material
   language: 'en'
   features:
     - navigation.expand
+  icon:
+    repo: fontawesome/solid/link
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:summer@iscas.ac.cn
+
+extra_javascript:
+    - 'js/tongji.js'
 
 plugins:
-    - search
+  - git-revision-date
+  - search
 
 nav:
   - Frequently Asked: index.md
