@@ -3,22 +3,25 @@
 ## Which communities can participate
 
 This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/), and other open and shared licenses are all supported by this activity.
-For the list of recommended licenses supported by ODI organization, please refer to [ODI organization approved and recommended Open Knowledge License (# - ODI organization approved and recommended Open Knowledge License).
+For the list of recommended licenses supported by ODI organization, please refer to [ODI organization approved and recommended Open Knowledge License](#odi-organization-approved-and-recommended-open-knowledge-license).
+
+The list of communities which were accepted is on [website of Summer 2020](https://isrc.iscas.ac.cn/summer2020/#/organisations).
+
 Regarding the open source community focusing on promoting open source, welcome to contact the organizing committee to negotiate how to promote this activity and to conduct the subsequent cooperation.
 
 ## How does the community sign up
 
-Please send the community information to email summer@iscas.ac.cn. The organizer will connect with the community to discuss the subsequent cooperation.
+Please fill the [Template for Community Application](./assets/template-for-community-application.txt) and send it to [summer@iscas.ac.cn](mailto:summer@iscas.ac.cn).The organizer will connect with the community to discuss the subsequent cooperation.
 
 ## What kind of projects are supported
 
-"Summer 2021" activities give priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [ODI organization certified recommended open knowledge protocol] (# ODI organization certified recommended open knowledge protocol).
+"Summer 2021" activities give priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [ODI organization certified recommended open knowledge protocol](#odi-organization-approved-and-recommended-open-knowledge-license).
 
 ## Can the community propose development projects for upstream open source software repository
 
 It can be proposed, but the following conditions should be met:
 
-1. The agreement of upstream open source software warehouse should belong to [OSI organization certified open source agreement](https://opensource.org/licenses) Or  [recommended open knowledge protocol certified by ODI organization](# - Recommended open knowledge protocol certified by ODI organization).
+1. The agreement of upstream open source software warehouse should belong to [OSI organization certified open source agreement](https://opensource.org/licenses) Or  [recommended open knowledge protocol certified by ODI organization](#odi-organization-approved-and-recommended-open-knowledge-license).
 2. The tutor designated by the community has the ability to guide the students to complete the development work of the corresponding project. For example, the tutor is an active developer in the upstream community.
 
 ## What is the bonus of each project
