@@ -17,6 +17,12 @@ Please fill the [Template for Community Application](./assets/template-for-commu
 
 "Summer 2021" activities give priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [ODI organization certified recommended open knowledge protocol](#odi-organization-approved-and-recommended-open-knowledge-license).
 
+## Whether the project whose license is not approved by OSI will have change to be accepted
+
+The licenses in OSI list and ODI list is suggested.
+
+We understand the OSI list is dynamic, and some licenses is under review. we are open for more type of open source projects. But if the community whose license is not in OSI list or ODI list, organizing committee need to spend more time on investagting and evaluating the commnity.
+
 ## Can the community propose development projects for upstream open source software repository
 
 It can be proposed, but the following conditions should be met:
