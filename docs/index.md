@@ -72,7 +72,7 @@ For the open source community focusing on promoting open source, welcome to cont
 
 ## How does the community sign up
 
-Please send the relevant information of the community to the email `summer@iscas.ac.cn`. The organizer will connect with the community to discuss the follow-up cooperation.
+Please fill the [Template for Community Application](./assets/template-for-community-application.txt) and send it to [summer@iscas.ac.cn](mailto:summer@iscas.ac.cn).The organizer will connect with the community to discuss the subsequent cooperation.
 
 Please refer to the [community guide](community.md) for detailed description of community participation activities。
 
