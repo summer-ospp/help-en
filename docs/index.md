@@ -19,11 +19,9 @@ Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 202
 
 Students can choose the projects they are interested in to apply, and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive the bonus of "Summer 2021 of Open Source Promotion Plan" .
 
-## What is different from GSoC
+## What is different from other Summer of Code activities
 
-Inspired by Google Summer of Code (GSoC), this event hopes to further promote the development of open source communities in China.
-
-According to the specific situation in China, this activity is different from GSoC in the following aspects:
+Inspired by other Summer of Code activities, this event hopes to further promote the development of open source communities, and the main highlights reflect as follows:
 
 1. The difficulty range of supporting projects is wider
 
