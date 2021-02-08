@@ -41,7 +41,7 @@ Feel free to contact us, we will contact you as soon as possible.
 
 #### Organizing committee: [summer-ospp-committee@googlegroups.com](mailto:summer-ospp-committee@googlegroups.com)
 
-- For discussion about rules and organizing affairs of Summer 2021.
-- Anyone can send mail to this list, subscribe this and view mail archive.
-- How to Subcribe: Send one mail to [summer-ospp-committee+subscribe@googlegroups.com](mailto:summer-ospp-committee+subscribe@googlegroups.com), and later you will receive the confirmation email, and then you reply the email to confirm.
-- Visit mail archive: <https://groups.google.com/g/summer-ospp-committee>
+- For feedback to committee , and committee members' discussing organizing of Summer 2021.
+- Anyone can send mail to this list.
+- How to Subcribe: By invitation.
+- Visit mail archive(For members): <https://groups.google.com/g/summer-ospp-committee>

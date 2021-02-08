@@ -29,7 +29,7 @@ Inspired by other Summer of Code activities, this event hopes to further promote
 
 2. Support more types of open source projects
 
-   - This activity supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended open knowledge protocol certified by ODI organization](https://opendefinition.org/licenses/) Open source knowledge projects, such as technical documents, knowledge documents, etc.
+   - This activity supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended Open Knowledge License](community.md#recommended-open-knowledge-license) Open source knowledge projects, such as technical documents, knowledge documents, etc.
 
 3. More diverse forms of activity organization
 
@@ -54,7 +54,7 @@ The main roles of participants are students, community and mentor.
 
 ## Student Eligibility
 
-This activity is for the students over 18 years old. Please refer to the student guide for specific conditions（ student.md# For which students)
+This activity is for the students over 18 years old. Please refer to the [student guide](student.md) for specific conditions.
 
 ## How to apply for a project
 
@@ -62,9 +62,7 @@ Please refer to [student guide](student.md) for details of student participation
 
 ## Which communities can sign up for participation
 
-This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/), and other open and shared licenses are all supported by this activity.
-
-Please refer to the community guide for the recommended license list of ODI organization certification supported by this activity（ community.md )。
+This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](community.md#recommended-open-knowledge-license), and other open and shared licenses are all supported by this activity.
 
 For the open source community focusing on promoting open source, welcome to contact the organizing committee to communicate how to promote this open source activity and subsequent cooperation.
 
