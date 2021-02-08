@@ -8,8 +8,8 @@
 
 Other help guide:
 
-- [The Role in Summer 2021](roles.md)
 - [Activity Timeline](timeline.md)
+- [Communities List](communities-list.md)
 - [Cooperative Extension](cooperation.md)
 - [Contact us](contactus.md)
 
@@ -18,6 +18,8 @@ Other help guide:
 Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and will open enrollment to college students around the world.
 
 Students can choose the projects they are interested in to apply, and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive the bonus of "Summer 2021 of Open Source Promotion Plan" .
+
+The website of Summer 2020: <https://isrc.iscas.ac.cn/summer2020/#/started>
 
 ## What is different from other Summer of Code activities
 
