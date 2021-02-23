@@ -6,7 +6,6 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 
 | No. | English name            | Chinese name            | Official Website                                       | State of application |
 | --- | ----------------------- | ----------------------- | ------------------------------------------------------ | -------------------- |
-| 001 |                         |                         |                                                        |                      |
 | 001 | Apache DolphinScheduler | Apache DolphinScheduler | [link](https://dolphinscheduler.apache.org/)           | Accepted             |
 | 002 | Apache ShardingSphere   | Apache ShardingSphere   | [link](http://shardingsphere.apache.org/index_zh.html) | Accepted             |
 | 003 | ChubaoFS                | ChubaoFS                | [link](https://github.com/chubaofs/chubaofs)           | Accepted             |
