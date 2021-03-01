@@ -20,6 +20,9 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 012 | Simple-XX               | Simple-XX               | [link](https://github.com/Simple-XX)                   | Accepted             |
 | 013 |                         | 清华大学 TUNA 协会      | [link](https://tuna.moe/)                              | Accepted             |
 | 014 | OI Wiki                 | OI Wiki                 | [link](https://oi-wiki.org)                            | Accepted             |
+| 015 | openLooKeng             | openLooKeng             | [link](https://openlookeng.io/)                        | Accepted             |
+| 016 | openGauss               | openGauss               | [link](https://opengauss.org)                          | Accepted             |
+| 017 | ZStack                  | ZStack                  | [link](https://www.zstack.io/)                         | Accepted             |
 | ... | ...                     | ...                     | ...                                                    | ...                  |
 
 Note: If your community has send email of application and still not in the list, the application is still under review. Generally, The list will be updated after committee weekly meeting on every Monday.
