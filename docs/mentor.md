@@ -30,6 +30,43 @@ The mentor cannot help students to develope the project by coding directly or he
 
 ## Instructions about mentors' bonus
 
-1. Each project will be awarded RMB 5,000 before tax, and each mentor is responsible for up to 3 projects, which means the bonus is up to RMB 15,000 before tax.
+1. How much bonus amount will I receive?
 
-2. The bonus of mentors' bonus is not determined by whether the students complete the project or not.
+Each project will be awarded RMB 5,000 before tax, and each mentor is responsible for up to 3 projects, which means the bonus is up to RMB 15,000 before tax.
+
+2. When will the bonus be paid?
+
+The bonus of mentors' bonus will be paid after the students passed final project evaluation. 
+
+3. How to pay the mentors’ bonus?
+
+The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+- Name
+- ID number
+- Bank account and branch information
+
+*Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
+
+4. How to pay the foreign mentors’ bonus?
+- The foreign mentor's bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
+
+- The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+  - Name and address of receiving bank
+  - Bank account
+  - Swiftcode
+  - Mentor’s name
+  - Mentor’s address:
+ 
+*Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
+
+- The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (unit: yuan)
+
+  Below 3750, 3% tax rate (80% * 3%)
+
+  Below 15000, 10% tax rate (bonus 80% * 10% - 210)
+
+  Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
+
+5. Notice
+
+The mentor is requested to confirm the matters needing attention in the local law, such as: confirm whether I can legally take part-time jobs, etc. In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
