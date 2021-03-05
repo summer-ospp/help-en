@@ -2,7 +2,7 @@
 
 ## Which communities can participate
 
-This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](#recommended-open-knowledge-license), and other open and shared licenses are all supported by this activity.
+This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](#_10), and other open and shared licenses are all supported by this activity.
 
 Regarding the open source community focusing on promoting open source, welcome to contact the organizing committee to negotiate how to promote this activity and to conduct the subsequent cooperation.
 
@@ -12,7 +12,7 @@ Please fill the [Template for Community Application](./assets/template-for-commu
 
 ## What kind of projects are supported
 
-"Summer 2021" activities give priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [recommended Open Knowledge License](#recommended-open-knowledge-license).
+"Summer 2021" activities give priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [recommended Open Knowledge License](#_10).
 
 ## Whether the project whose license is not approved by OSI will have change to be accepted
 
@@ -24,7 +24,7 @@ We understand the OSI list is dynamic, and some licenses is under review. we are
 
 It can be proposed, but the following conditions should be met:
 
-1. The agreement of upstream open source software warehouse should belong to [OSI organization certified open source agreement](https://opensource.org/licenses) Or  [recommended Open Knowledge License](#recommended-open-knowledge-license).
+1. The agreement of upstream open source software warehouse should belong to [OSI organization certified open source agreement](https://opensource.org/licenses) Or  [recommended Open Knowledge License](#_10).
 2. The tutor designated by the community has the ability to guide the students to complete the development work of the corresponding project. For example, the tutor is an active developer in the upstream community.
 
 ## What is the bonus of each project
@@ -52,7 +52,7 @@ After informing the Organizing Committee of the link address of the "summer 2021
 General requirements for funded projects:
 
 1. The open source software corresponding to the development project adopts [OSI organization certified open source license](https://opensource.org/licenses)
-2. The repository corresponding to the open knowledge project adopts [recommended Open Knowledge License](community.md#recommended-open-knowledge-license)
+2. The repository corresponding to the open knowledge project adopts [recommended Open Knowledge License](community.md#_10)
 
 The organizing committee will evaluate whether the project will be supported or not according to the application of the students.
 
