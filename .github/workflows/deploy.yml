@@ -34,10 +34,10 @@ jobs:
       with:
         args: --acl public-read --follow-symlinks --exclude '*.txt'
       env:
-        AWS_S3_BUCKET: ${{ secrets.HELP_BUCKET }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.HELP_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.HELP_SECRET_ACCESS_KEY }}
-        AWS_S3_ENDPOINT: ${{ secrets.HELP_ENDPOINT }}
+        AWS_S3_BUCKET: ${{ secrets.HELP_EN_BUCKET }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.HELP_EN_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HELP_EN_SECRET_ACCESS_KEY }}
+        AWS_S3_ENDPOINT: ${{ secrets.HELP_EN_ENDPOINT }}
         SOURCE_DIR: 'public'
         DEST_DIR: 'help/en'
   
@@ -46,10 +46,10 @@ jobs:
       with:
         args: --acl public-read --follow-symlinks --exclude '*' --include '*.txt' --content-type 'text/plain;charset=UTF-8'
       env:
-        AWS_S3_BUCKET: ${{ secrets.HELP_BUCKET }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.HELP_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.HELP_SECRET_ACCESS_KEY }}
-        AWS_S3_ENDPOINT: ${{ secrets.HELP_ENDPOINT }}
+        AWS_S3_BUCKET: ${{ secrets.HELP_EN_BUCKET }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.HELP_EN_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HELP_EN_SECRET_ACCESS_KEY }}
+        AWS_S3_ENDPOINT: ${{ secrets.HELP_EN_ENDPOINT }}
         SOURCE_DIR: 'public'
         DEST_DIR: 'help/en'        
 
