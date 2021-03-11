@@ -18,11 +18,14 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 010 | Apache APISIX           | Apache APISIX           | [link](https://apisix.apache.org/)                     | Accepted             |
 | 011 | Apache IoTDB            | Apache IoTDB            | [link](http://iotdb.apache.org/)                       | Accepted             |
 | 012 | Simple-XX               | Simple-XX               | [link](https://github.com/Simple-XX)                   | Accepted             |
-| 013 | Tsinghua University TUNA Association | 清华大学 TUNA 协会      | [link](https://tuna.moe/)                              | Accepted             |
+| 013 | Tsinghua University TUNA Association | 清华大学 TUNA 协会      | [link](https://tuna.moe/)                  | Accepted             |
 | 014 | OI Wiki                 | OI Wiki                 | [link](https://oi-wiki.org)                            | Accepted             |
 | 015 | openLooKeng             | openLooKeng             | [link](https://openlookeng.io/)                        | Accepted             |
 | 016 | openGauss               | openGauss               | [link](https://opengauss.org)                          | Accepted             |
-| 017 | ZStack Cloud            | ZStack Cloud 平台 | [link](https://www.zstack.io/)                         | Accepted             |
+| 017 | ZStack Cloud            | ZStack Cloud 平台 | [link](https://www.zstack.io/)                               | Accepted             |
+| 018  | Jenkins Chinese Community | Jenkins 中文社区       | [link](https://jenkins-zh.cn/)                         | Accepted            |
+| 019  | openEuler Community     | openEuler 社区          | [link](https://openeuler.org/)                         | Accepted             |
+| 020  | The Debian Project      | The Debian Project      | [link](https://www.debian.org)                         | Accepted             |
 | ... | ...                     | ...                     | ...                                                    | ...                  |
 
 Note: If your community has send email of application and still not in the list, the application is still under review. Generally, The list will be updated after committee weekly meeting on every Monday.
