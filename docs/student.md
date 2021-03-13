@@ -164,4 +164,4 @@ Students can submit applications for up to three projects, but can only undertak
 
 ## If I have already been a member of the community, can I apply for the community projects
 
-You can apply. However, the applicant can not participate in the activity as the mentor of any project in this activity at the same time.
+Yes, You can apply. But the applicant can not participate in the activity as the mentor of any project in this activity at the same time.
