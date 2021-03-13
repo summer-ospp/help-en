@@ -94,7 +94,7 @@ Each project will be awarded RMB 12000, RMB 9000 and RMB 6000 (before tax), whic
 
 2. When will the bonus be paid?
 
-Students who pass the mid-term assessment will receive 50% of the project bonus first. According to the final project evaluation results, the remaining project bonus will be paid in proportion. If the student fails the final evaluation, the rest bonus will not be paid.
+Students who pass the mid-term assessment will receive 50% of the project bonus first, the remaining 50% bonus will be paid after the students pass the final project evaluation. Accordingly, the student will not receive the rest bonus if he/she fails the final evaluation.
 
 3. How to pay the students’ bonus?
 
@@ -102,7 +102,7 @@ The students’ bonus will be paid by credit transfer method. There is no restri
 
 - Name
 
-- ID number
+- Passport No.
 
 - Bank account and branch information
 
@@ -111,16 +111,23 @@ The students’ bonus will be paid by credit transfer method. There is no restri
 4. How to pay the foreign students’ bonus?
 
 - The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
-- The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
-  - Name and address of receiving bank
-  - Bank account
+- The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
+
+  - Payee’s Bank Name
+
+  - Payee’s Bank Address
+
+  - Bank Account No. 
+
   - Swiftcode
-  - Student’s name
-  - Student’s address
+
+  - First Name/Last Name
+
+  - Address
   
 *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
 
-The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (unit: yuan)
+The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (unit: Yuan)
 
     Below 3750, 3% tax rate (80% * 3%)
     Below 15000, 10% tax rate (bonus 80% * 10% - 210)
