@@ -6,12 +6,7 @@ Milestone of Summer 2021, **The default timezone is ‘GMT+8’*
 
 | Date                  | Stage                                                             |
 | --------------------- | ----------------------------------------------------------------- |
-| Jan. 2021 - Mar. 2021 | Cooperation Registration                                          |
-| Jan. 2021 - Mar. 2021 | Community Registration                                            |
-| Apr. 2021             | Community Project Submission                                      |
-| May 2021 - Jun. 2021  | Student Application and Review                                    |
-| Jul. 2021 - Sep. 2021 | Project Development                                               |
-| Jan 29th              | Open of application for open source community                     |
+| Jan 29th              | Open application for open source community                     |
 | Apr 2nd               | Announcement of the first list of accepted open source community  |
 | Apr 30th              | Deadline of application for open source community                 |
 | May 2nd               | Announcement of the second list of accepted open source community |
