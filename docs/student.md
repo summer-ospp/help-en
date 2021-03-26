@@ -2,15 +2,15 @@
 
 ## Student Eligibility
 
-This activity is for the students over 18 years old.
+Must be at least 18 years old at time of registration.
 
 ## How to apply for a project
 
-Follow up information on the official website later.
+Follow up information on the official website.
 
 ## Application channel
 
-Follow up information on the official website later.
+Follow up information on the official website.
 
 ## Criteria for the selected students
 
@@ -20,15 +20,17 @@ It is strongly recommended that students should actively communicate with the co
 
 ## Where can you find the list of projects supported by Summer 2021
 
-Follow up information on the official website later.
+Follow up information on the official website.
 
 ## How many projects can a student apply
 
-A student can apply for up to three projects at the same time, but can only undertake one project in the end. The organizing committee will coordinate with the community to ensure that a student can only undertake one project in the end.
+You can apply for up to three projects at the same time, but can only undertake one project in the end. 
+
+When submitting the project applications, you need to rank the selected priority of all the projects you apply for. If you are selected by multiple projects at the same time, the project with higher priority will be selected according to the project ranking submitted.
 
 ## Can students apply for projects not in the community project list
 
-Follow up information on the official website later.
+Follow up information on the official website.
 
 ## Suggestions for students participation
 
@@ -36,7 +38,7 @@ Follow up information on the official website later.
 
 2. Confirm your schedule to ensure that you can participate in the project at least 30 hours a week.
 
-3. It is vital to devote the open source project with personal initiative. We hope that students can find solutions by themselves before contacting us. At least read the student guide, key issues as well as activity agenda, etc.
+3. It is vital to devote the open source project with personal initiative. We hope that students can find solutions by themselves before contacting us. At least read the student guide, key issues as well as timeline, etc.
 
 4. Before participating in open source projects, please sort out your professional skills, interested technologies, interested programming languages, etc., which are conducive to the selection of appropriate projects.
 
@@ -56,7 +58,7 @@ Follow up information on the official website later.
 
 ## How can the students communicate with community mentors
 
-Students can enter into the project list of each community through the official website page of the activity. There will be a designated mentor name and e-mail in each project description. It is suggested that students communicate with tutors through e-mail. E-mail is also the basic way to participate in the community.
+Students can enter into the project list of each community through the official website page of the program. There will be a designated mentor name and e-mail in each project description. It is suggested that students communicate with tutors through e-mail. E-mail is also the basic way to participate in the community.
 
 Please pay attention to the basic etiquette of communication with the tutor. The mentor only provides guidance and suggestions withintheir  capability. The application, design and development of the project are completed by the students themselves.
 
@@ -68,9 +70,9 @@ After the organizing committee officially announced the selected students.
 
 Before the organizing committee publishes the list of selected students, the candidates of the funded students of the project are in an uncertain state, and any student's application may be rejected due to other students' better project plan or other reasons.
 
-The organizing committee does not recommend that students start research and development work in advance, instead, should focus on improving the project application and project scheme. Whether it is the project of this activity or the work project in the future, the early project planning and scheme design are very important.
+The organizing committee does not recommend that students start research and development work in advance, instead, should focus on improving the project application and project scheme. Whether it is the project of this program or the work project in the future, the early project planning and scheme design are very important.
 
-## What kind of support can the selected students gain in the activities
+## What kind of support can the selected students gain in the program
 
 - Professional guidance of community mentors.
 
@@ -85,6 +87,56 @@ The organizing committee does not recommend that students start research and dev
   - Students who pass the mid-term assessment will receive 50% of the project bonus first.
 
   - According to the final project evaluation results, the remaining project bonus will be paid in proportion.
+
+## Instruction of students bonus
+
+1. How much bonus can each student get?
+
+  The total amount of bonus for each project can be divided into RMB12,000, RMB9,000 and RMB6,000 on the basis of the dfficulty of each project (Note: the amount of bonus is RMB before tax)
+
+2. When will the bonus be paid?
+
+  The students who pass the mid-term assessment will receive 50% of the bonus, and the remaining will be paid after the final project evaluation. If the final assessment fails, the remaining bonus will not be paid.
+
+3. How to pay the students’ bonus?
+
+  The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+
+  - Name
+  - ID number
+  - Bank account and branch information
+  
+*Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
+
+4. How to pay the foreign students’ bonus?
+
+- The foreign students' bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
+
+- The students' bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
+
+  - Name and address of receiving bank
+  - Bank account
+  - Swiftcode
+  - Mentor’s name
+  - Address:
+  
+*Note: 
+
+  The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
+
+- The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (Unit: CNY)
+
+  - Below 3750, 3% tax rate (80% * 3%)
+
+  - Below 15000, 10% tax rate (bonus 80% * 10% - 210)
+
+  - Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
+
+- Notice:
+
+The mentor is requested to confirm the matters needing attention in the local law, such as: confirm whether I can legally take part-time jobs, etc. 
+
+In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
 
 ## How to carry out project development for the selected students
 
@@ -124,7 +176,7 @@ After the selected student list is published on the official website, they will 
 
 ## Process of final term assessment
 
-1. Students submit the project closing report at the designated location of the platform
+1. Students submit the project closing report at the designated location of the platform.
 
 2. Community members of community organizations (tutors and other community developers, the specific number of which is decided by the community) give evaluation opinions referring to the following aspects, and submit the evaluation opinions to the designated location of the platform:
 
@@ -160,8 +212,10 @@ The language of communication with mentors can be decided according to community
 
 ## Can students submit several project applications
 
-Students can submit applications for up to three projects, but can only undertake up to one project in the end.
+You can submit applications for up to three projects, but can only undertake up to one project in the end. 
+
+When submitting the project applications, you need to rank the selected priority of all the projects you apply for. If you are selected by multiple projects at the same time, the project with higher priority will be selected according to the project ranking submitted.
 
 ## If I have already been a member of the community, can I apply for the community projects
 
-Yes, You can apply. But the applicant can not participate in the activity as the mentor of any project in this activity at the same time.
+Yes, You can apply. But the applicant can not participate as the mentor of any projects in this program at the same time.
