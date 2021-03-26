@@ -1,13 +1,13 @@
-# Community Participation Guide
+# Community Guidelines
 
 ## Which communities can participate
 
-This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/), and other open and shared licenses are all supported by this activity.
+This program is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/), and other open and shared licenses are all supported by this program.
 For the list of recommended licenses supported by ODI organization, please refer to [ODI organization approved and recommended Open Knowledge License](#odi-organization-approved-and-recommended-open-knowledge-license).
 
 The list of communities which were accepted is on [website of Summer 2020](https://isrc.iscas.ac.cn/summer2020/#/organisations).
 
-Regarding the open source community focusing on promoting open source, welcome to contact the organizing committee to negotiate how to promote this activity and to conduct the subsequent cooperation.
+Regarding the open source community focusing on promoting open source, welcome to contact the organizing committee to negotiate how to promote this program and to conduct the subsequent cooperation.
 
 ## How does the community sign up
 
@@ -32,10 +32,10 @@ It can be proposed, but the following conditions should be met:
 
 In general, the committee will respect the difficulty setting of the community and the committee will also check the difficulty setting in the community page. If the difficulty setting is not reasonable, it will communicate with the community to adjust the difficulty level.
 
-## What does the community need to do after signing up for the activity
+## What does the community need to do after the registration for program
 
 1. The community should launch the "Summer 2021" page (HTML, Wiki, etc.) on the community official website (or project open repository), including the detailed list of all project tasks provided by the community / project team, providing the project task information and corresponding reference materials with the estimated development workload of 3 months.
-2. The community should inform the Organizing Committee of the link address after launching the "Summer 2021" page. The organizing committee should <https://summer.iscas.ac.cn/> will introduce the information of the community online, and provide links to jump to the activity description page of the community; all project lists will be provided synchronously on the official website of the activity, but subject to the project details on the community page.
+2. The community should inform the Organizing Committee of the link address after launching the "Summer 2021" page. The organizing committee should <https://summer.iscas.ac.cn/> will introduce the information of the community online, and provide links to jump to the program description page of the community; all project lists will be provided synchronously on the official website of the program, but subject to the project details on the community page.
 3. The community needs to appoint a community mentor for each project, which is generally the developer (maintainer, committer, contributor) related to the project. Each mentor can be the mentor of three projects at most at the same time. Please refer to [Mentor guide](mentor.md) for tutor participation, specifically responsible for:
    - Provide project task details by project template
    - Communicate with potential applicants for the project, review the application and confirm the chosen student
@@ -44,7 +44,7 @@ In general, the committee will respect the difficulty setting of the community a
 
 ## How does the community know which projects are supported
 
-After informing the Organizing Committee of the link address of the "summer 2021" page of the community, the organizing committee will add the "summer 2021" project link of the community in the open source community page of the official website of the activity, thus the project list in this page is the candidate supported projects.
+After informing the Organizing Committee of the link address of the "summer 2021" page of the community, the organizing committee will add the "summer 2021" project link of the community in the open source community page of the official website of the program, thus the project list in this page is the candidate supported projects.
 
 General requirements for funded projects:
 
@@ -60,16 +60,16 @@ The difficulty of the project is divided into high, medium and low levels, and t
 The following are the reference standards of difficulty:
 
 - High: bonus RMB 12000
-- A competent master student majoring in computer science
-- The typical high difficulty is to optimize the class work, improve the time, reduce the memory occupation, provide performance and so on.
+  - A competent master student majoring in computer science
+  - The typical high difficulty is to optimize the class work, improve the time, reduce the memory occupation, provide performance and so on.
 - Medium: bonus RMB 9000
-- Objective: the ability is equivalent to the graduate freshmen or graduate sophomore master majoring in computer science
+  - Objective: the ability is equivalent to the graduate freshmen or graduate sophomore master majoring in computer science
 - Low: bonus RMB 6000
-- Objective: the ability is equivalent to the junior and senior computer major bachelor students
+  - Objective: the ability is equivalent to the junior and senior computer major bachelor students
 
 ## ODI organization approved and recommended Open Knowledge License
 
-The following open knowledge agreement projects are accepted in this activity:
+The following open knowledge agreement projects are accepted in this program:
 
 - [Creative Commons CCZero (CC0)](https://opendefinition.org/licenses/cc-zero)
 - [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendefinition.org/licenses/odc-pddl)
@@ -80,5 +80,5 @@ The following open knowledge agreement projects are accepted in this activity:
 
 ## Organizer's Statement
 
-1. The organizer has no intellectual property claim for the development achievements of the students in this activity;
+1. The organizer has no intellectual property claim for the development achievements of the students in this program;
 2. Relevant intellectual property achievements are determined by the community and students according to the guidelines for participating in the community development (for instance, signing CLA with student developers);
