@@ -30,6 +30,7 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 022  | KubeSphere Community    | KubeSphere 开源社区      | [link](https://kubesphere.io/)                         | Accepted             |
 | 023  | Curve                   | Curve社区                | [link](https://www.opencurve.io/)                      | Accepted             |
 | 024  | Bookos                  | Bookos社区               | [link]( https://www.book-os.org)                       | Accepted             |
+| 025  | WebCell                 | WebCell                 | [link](https://web-cell.dev/)                           | 审核通过    |
 | ...  | ...                     | ...                      | ...                                                    | ...                  |
 
 Note: If your community has send email of application and still not in the list, the application is still under review. Generally, The list will be updated after committee weekly meeting on every Monday.
