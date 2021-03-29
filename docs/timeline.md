@@ -1,26 +1,21 @@
 # Calendar of Events
 
-## General Milestone
+## Summer 2021 of Open Souce Promotion Plan Timeline
 
-Milestone of Summer 2021, **The default timezone is ‘GMT+8’*
+ **The default timezone is ‘GMT+8’*
 
-| Date                  | Stage                                                             |
+| Date                  | Event                                                            |
 | --------------------- | ----------------------------------------------------------------- |
-| Jan. 2021 - Mar. 2021 | Cooperation Registration                                          |
-| Jan. 2021 - Mar. 2021 | Community Registration                                            |
-| Apr. 2021             | Community Project Submission                                      |
-| May 2021 - Jun. 2021  | Student Application and Review                                    |
-| Jul. 2021 - Sep. 2021 | Project Development                                               |
-| Jan 29th              | Open of application for open source community                     |
-| Apr 2nd               | Announcement of the first list of accepted open source community  |
+| Jan 29th              | Open application for community                     |
+| Apr 2nd               | The 1st list of accepted communities published  |
 | Apr 30th              | Deadline of application for open source community                 |
-| May 2nd               | Announcement of the second list of accepted open source community |
+| May 2nd               | The 2nd list of accepted communities published |
 | May 24th - Jun 13th   | Student application period                                        |
-| Jun 30th              | Announcement of accepted student application                      |
-| Jul 1st - Aug 15th    | The first phase of developing project                             |
-| Aug 30th              | Announcement of the students who pass mid-term assessment         |
-| Aug 16th - Sep 30th   | The second phase of developing project                            |
-| Oct 22th              | Announcement of the students who pass final assessment            |
+| Jun 30th              | Accepted student projects announced                      |
+| Jul 1st - Aug 15th    | The 1st phase of developing project                             |
+| Aug 30th              | Announcement of the mid-term results       |
+| Aug 16th - Sep 30th   | The 2nd phase of developing project                            |
+| Oct 22th              | Announcement of the final results            |
 | Early November        | Announcement of excellent projects                                |
 
 Tips: All students who pass final assessment will receive full awards of his/her project, no matter whether the project will be rated as excellent.
