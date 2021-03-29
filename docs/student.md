@@ -24,7 +24,7 @@ Follow up information on the official website.
 
 ## How many projects can a student apply
 
-You can apply for up to three projects at the same time, but can only undertake one project in the end. 
+You can apply for up to three projects at the same time, but can only undertake one project in the end.
 
 When submitting the project applications, you need to rank the selected priority of all the projects you apply for. If you are selected by multiple projects at the same time, the project with higher priority will be selected according to the project ranking submitted.
 
@@ -82,60 +82,50 @@ The organizing committee does not recommend that students start research and dev
 
 - The organizing committee will award the selected students three times:
 
-  - All the selected students will receive a gift package from the organizing committee, including commemorative T-shirt, USB disk, etc.
-
-  - Students who pass the mid-term assessment will receive 50% of the project bonus first.
-
-  - According to the final project evaluation results, the remaining project bonus will be paid in proportion.
+    - All the selected students will receive a gift package from the organizing committee, including commemorative T-shirt, USB disk, etc.
+    - Students who pass the mid-term assessment will receive 50% of the project bonus first.
+    - According to the final project evaluation results, the remaining project bonus will be paid in proportion.
 
 ## Student bonus instruction
 
 1. How much bonus amount will each student receive?
 
-Each project will be awarded RMB 12000, RMB 9000 and RMB 6000 (before tax), which based on the level of project difficulty.
+    Each project will be awarded RMB 12000, RMB 9000 and RMB 6000 (before tax), which based on the level of project difficulty.
 
 2. When will the bonus be paid?
 
-Students who pass the mid-term assessment will receive 50% of the project bonus first, the remaining 50% bonus will be paid after the students pass the final project evaluation. Accordingly, the student will not receive the rest bonus if he/she fails the final evaluation.
+    Students who pass the mid-term assessment will receive 50% of the project bonus first, the remaining 50% bonus will be paid after the students pass the final project evaluation. Accordingly, the student will not receive the rest bonus if he/she fails the final evaluation.
 
 3. How to pay the students’ bonus?
 
-The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+    The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
 
-- Name
+        - Name
+        - Passport No.
+        - Bank account and branch information
 
-- Passport No.
-
-- Bank account and branch information
-
-*Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
+    *Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
 
 4. How to pay the foreign students’ bonus?
 
-In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
+    In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
 
-- The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
-- The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
-
-  - Payee’s Bank Name
-
-  - Payee’s Bank Address
-
-  - Bank Account No. 
-
-  - Swiftcode
-
-  - First Name/Last Name
-
-  - Address
+    - The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
+    - The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
+        - Payee’s Bank Name
+        - Payee’s Bank Address
+        - Bank Account No.
+        - Swiftcode
+        - First Name/Last Name
+        - Address
   
-*Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
+    *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
 
-The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (unit: Yuan)
+    The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (unit: Yuan)
 
-    Below 3750, 3% tax rate (80% * 3%)
-    Below 15000, 10% tax rate (bonus 80% * 10% - 210)
-    Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
+        - Below 3750, 3% tax rate (80% * 3%)
+        - Below 15000, 10% tax rate (bonus 80% * 10% - 210)
+        - Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
 
 ## How to carry out project development for the selected students
 
@@ -143,34 +133,30 @@ After the selected student list is published on the official website, they will 
 
 - Receive the platform account and help provided by the organizing committee.
 
-  - By default, the organizing committee chooses the mailbox used by students to create the platform gitlab account. If students need to modify it, they can contact the organizing committee by email to apply for modification;
+- By default, the organizing committee chooses the mailbox used by students to create the platform gitlab account. If students need to modify it, they can contact the organizing committee by email to apply for modification;
 
-  - By default, the Organizing Committee establishes a project repository for each student, in which the code repository and Wiki pages are publicly accessible, and the mentors and students have operation rights. Additionally, the repository contains the following contents:
+- By default, the Organizing Committee establishes a project repository for each student, in which the code repository and Wiki pages are publicly accessible, and the mentors and students have operation rights. Additionally, the repository contains the following contents:
 
-  - The project repository has the community set license by default;
+    - The project repository has the community set license by default;
 
     - The wiki page provides the project application with hidden student information by default;
 
     - The code repository used by students in the process of project development can be communicated and determined by the community. It can be stored in the open repository of the designated platform in the community, or in the repository provided by the organizing committee. If students only use the organizing committee repository to submit milestone achievements, they need to publicize the actual repository address in the wiki page;
 
-    - Students need to submit the complete project code to the organizing committee platform warehouse before the milestone node (this requirement is mainly for students whose process output code is not stored in the organizing committee platform), and submit the corresponding report to the corresponding issue (created by the Organizing Committee in advance)
+- Students need to submit the complete project code to the organizing committee platform warehouse before the milestone node (this requirement is mainly for students whose process output code is not stored in the organizing committee platform), and submit the corresponding report to the corresponding issue (created by the Organizing Committee in advance)
 
 - Students can communicate with tutors through email and project platform.
 
 ## Process of mid-term assessment
 
 1. Students submit the interim report of the project in the designated position of the platform
-
 2. The tutor gives the review opinions from the following aspects and submits the review opinions to the designated position of the platform.
 
-   a. Is the project on schedule
-
-   b. Whether the project code and output have been submitted to the platform warehouse as planned
+    - Is the project on schedule
+    - Whether the project code and output have been submitted to the platform warehouse as planned
 
 3. The Organizing Committee judges whether the mid-term assessment is passed or not according to the evaluation opinions of the tutor.
-
 4. Students who pass the mid-term assessment will receive 50% of the project bonus (before tax) to continue the project.
-
 5. Students who fail to pass the mid-term assessment will stop participating in the project, and the organizing committee will no longer support the project.
 
 ## Process of final term assessment
@@ -179,17 +165,17 @@ After the selected student list is published on the official website, they will 
 
 2. Community members of community organizations (tutors and other community developers, the specific number of which is decided by the community) give evaluation opinions referring to the following aspects, and submit the evaluation opinions to the designated location of the platform:
 
-   a. Evaluate whether the project output meets the initial objectives and requirements of the project.
+    a. Evaluate whether the project output meets the initial objectives and requirements of the project.
 
-   b. List of contributions submitted to the community.
+    b. List of contributions submitted to the community.
 
-   c. Evaluate the operation of project output.
+    c. Evaluate the operation of project output.
 
-   d. The perfection of project related documents.
+    d. The perfection of project related documents.
 
-   e. For R & D projects, whether the closing report provides the corresponding test verification results.
+    e. For R & D projects, whether the closing report provides the corresponding test verification results.
 
-   f. Other aspects that the community and tutors think need to be evaluated.
+    f. Other aspects that the community and tutors think need to be evaluated.
 
 3. The organizing committee organizes a review panel to review the project output, and gives the final review conclusion (pass, fail) based on the review opinions of the community.
 
@@ -211,7 +197,7 @@ The language of communication with mentors can be decided according to community
 
 ## Can students submit several project applications
 
-You can submit applications for up to three projects, but can only undertake up to one project in the end. 
+You can submit applications for up to three projects, but can only undertake up to one project in the end.
 
 When submitting the project applications, you need to rank the selected priority of all the projects you apply for. If you are selected by multiple projects at the same time, the project with higher priority will be selected according to the project ranking submitted.
 
