@@ -35,7 +35,7 @@ These descriptions will be displayed on the organization list page (Short Descri
   - Open source license:
 
 
-## Application Questionaire
+## Application Questionnaire
 
 1. What would you like to gain from "Summer 2021"?
 

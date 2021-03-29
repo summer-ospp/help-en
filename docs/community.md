@@ -2,10 +2,7 @@
 
 ## Which communities can participate
 
-This program is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/), and other open and shared licenses are all supported by this program.
-For the list of recommended licenses supported by ODI organization, please refer to [ODI organization approved and recommended Open Knowledge License](#odi-organization-approved-and-recommended-open-knowledge-license).
-
-The list of communities which were accepted is on [website of Summer 2020](https://isrc.iscas.ac.cn/summer2020/#/organisations).
+This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](#_10), and other open and shared licenses are all supported by this activity.
 
 Regarding the open source community focusing on promoting open source, welcome to contact the organizing committee to negotiate how to promote this program and to conduct the subsequent cooperation.
 
@@ -15,13 +12,19 @@ Please fill the [Template for Community Application](./assets/template-for-commu
 
 ## What kind of projects are supported
 
-"Summer 2021" activities give priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [ODI organization certified recommended open knowledge protocol](#odi-organization-approved-and-recommended-open-knowledge-license).
+"Summer 2021" activities give priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [recommended Open Knowledge License](#_10).
+
+## Whether the project whose license is not approved by OSI will have change to be accepted
+
+Yes, open and shared licenses could be accepted. The licenses in OSI list and recommended Open Knowledge License is suggested.
+
+We understand the OSI list is dynamic, and some licenses is under review. we are open for more type of open source projects. But if the community whose license is not in OSI list, organizing committee need to spend more time on investagting and evaluating the commnity.
 
 ## Can the community propose development projects for upstream open source software repository
 
 It can be proposed, but the following conditions should be met:
 
-1. The agreement of upstream open source software warehouse should belong to [OSI organization certified open source agreement](https://opensource.org/licenses) Or  [recommended open knowledge protocol certified by ODI organization](#odi-organization-approved-and-recommended-open-knowledge-license).
+1. The agreement of upstream open source software warehouse should belong to [OSI organization certified open source agreement](https://opensource.org/licenses) Or  [recommended Open Knowledge License](#_10).
 2. The tutor designated by the community has the ability to guide the students to complete the development work of the corresponding project. For example, the tutor is an active developer in the upstream community.
 
 ## What is the bonus of each project
@@ -35,7 +38,9 @@ In general, the committee will respect the difficulty setting of the community a
 ## What does the community need to do after the registration for program
 
 1. The community should launch the "Summer 2021" page (HTML, Wiki, etc.) on the community official website (or project open repository), including the detailed list of all project tasks provided by the community / project team, providing the project task information and corresponding reference materials with the estimated development workload of 3 months.
-2. The community should inform the Organizing Committee of the link address after launching the "Summer 2021" page. The organizing committee should <https://summer.iscas.ac.cn/> will introduce the information of the community online, and provide links to jump to the program description page of the community; all project lists will be provided synchronously on the official website of the program, but subject to the project details on the community page.
+
+2. The community should inform the Organizing Committee of the link address after launching the "Summer 2021" page. The organizing committee <https://summer.iscas.ac.cn/> will introduce the information of the community online, and provide links to jump to the activity description page of the community; all project lists will be provided synchronously on the official website of the activity, but subject to the project details on the community page.
+
 3. The community needs to appoint a community mentor for each project, which is generally the developer (maintainer, committer, contributor) related to the project. Each mentor can be the mentor of three projects at most at the same time. Please refer to [Mentor guide](mentor.md) for tutor participation, specifically responsible for:
    - Provide project task details by project template
    - Communicate with potential applicants for the project, review the application and confirm the chosen student
@@ -49,7 +54,7 @@ After informing the Organizing Committee of the link address of the "summer 2021
 General requirements for funded projects:
 
 1. The open source software corresponding to the development project adopts [OSI organization certified open source license](https://opensource.org/licenses)
-2. The repository corresponding to the open knowledge project adopts [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/) For the specific list, please refer to: [ODI organization approved and recommended Open Knowledge License] (# ODI organization approved and recommended Open Knowledge License)
+2. The repository corresponding to the open knowledge project adopts [recommended Open Knowledge License](community.md#_10)
 
 The organizing committee will evaluate whether the project will be supported or not according to the application of the students.
 
@@ -67,16 +72,16 @@ The following are the reference standards of difficulty:
 - Low: bonus RMB 6000
   - Objective: the ability is equivalent to the junior and senior computer major bachelor students
 
-## ODI organization approved and recommended Open Knowledge License
+## Recommended Open Knowledge License
 
 The following open knowledge agreement projects are accepted in this program:
 
-- [Creative Commons CCZero (CC0)](https://opendefinition.org/licenses/cc-zero)
-- [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendefinition.org/licenses/odc-pddl)
-- [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://opendefinition.org/licenses/cc-by)
-- [Open Data Commons Attribution License (ODC-BY)](https://opendefinition.org/licenses/odc-by)
-- [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://opendefinition.org/licenses/cc-by-sa)
-- [Open Data Commons Open Database License (ODbL)](https://opendefinition.org/licenses/odc-odbl)
+- [Creative Commons CCZero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
+- [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
+- [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendatacommons.org/licenses/pddl/)
+- [Open Data Commons Attribution License (ODC-BY)](https://opendatacommons.org/licenses/by/)
+- [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/)
 
 ## Organizer's Statement
 

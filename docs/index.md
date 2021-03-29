@@ -8,8 +8,8 @@
 
 Other help guide:
 
-- [The Role in Summer 2021](roles.md)
 - [Activity Timeline](timeline.md)
+- [Communities List](communities-list.md)
 - [Cooperative Extension](cooperation.md)
 - [Contact us](contactus.md)
 
@@ -19,11 +19,11 @@ Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 202
 
 Students can choose the projects they are interested in to apply, and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive the bonus of "Summer 2021 of Open Source Promotion Plan" .
 
-## What is different from GSoC
+The website of Summer 2020: <https://isrc.iscas.ac.cn/summer2020/#/started>
 
-Inspired by Google Summer of Code (GSoC), this event hopes to further promote the development of open source communities in China.
+## What is different from other Summer of Code activities
 
-According to the specific situation in China, this activity is different from GSoC in the following aspects:
+Inspired by other Summer of Code activities, this event hopes to further promote the development of open source communities, and the main highlights reflect as follows:
 
 1. The difficulty range of supporting projects is wider
 
@@ -31,7 +31,7 @@ According to the specific situation in China, this activity is different from GS
 
 2. Support more types of open source projects
 
-   - This activity supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended open knowledge protocol certified by ODI organization](https://opendefinition.org/licenses/) Open source knowledge projects, such as technical documents, knowledge documents, etc.
+   - This activity supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended Open Knowledge License](community.md#recommended-open-knowledge-license) Open source knowledge projects, such as technical documents, knowledge documents, etc.
 
 3. More diverse forms of activity organization
 
@@ -56,7 +56,7 @@ The main roles of participants are students, community and mentor.
 
 ## Student Eligibility
 
-This activity is for the students over 18 years old. Please refer to the student guide for specific conditions（ student.md# For which students)
+This activity is for the students over 18 years old. Please refer to the [student guide](student.md) for specific conditions.
 
 ## How to apply for a project
 
@@ -64,9 +64,7 @@ Please refer to [student guide](student.md) for details of student participation
 
 ## Which communities can sign up for participation
 
-This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [ODI organization approved and recommended Open Knowledge License](https://opendefinition.org/licenses/), and other open and shared licenses are all supported by this activity.
-
-Please refer to the community guide for the recommended license list of ODI organization certification supported by this activity（ community.md )。
+This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](community.md#recommended-open-knowledge-license), and other open and shared licenses are all supported by this activity.
 
 For the open source community focusing on promoting open source, welcome to contact the organizing committee to communicate how to promote this open source activity and subsequent cooperation.
 
