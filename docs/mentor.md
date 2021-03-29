@@ -44,6 +44,7 @@ The mentors’ bonus will be paid by credit transfer method. There is no restric
 - Name
 - ID number
 - Bank account and branch information
+- Contact mobile number: 
 
 *Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
 
