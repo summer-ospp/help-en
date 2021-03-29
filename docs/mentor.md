@@ -1,10 +1,10 @@
-# Mentor Guide
+# Mentor Guides
 
 How to become a mentor
 
 The mentor of the project is recommended by the community. Each mentor could guide up to three projects in `Summer 2021`.
 
-## Responsibilities of mentors
+## Responsibilities of Mentors
 
 1. Responsible for answering students'questions about the details of the project, and actively answer students' questions about the project before the deadline for students application.
 
@@ -48,25 +48,30 @@ The mentors’ bonus will be paid by credit transfer method. There is no restric
 *Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
 
 4. How to pay the foreign mentors’ bonus?
+
 - The foreign mentor's bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
 
 - The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
-  - Name and address of receiving bank
+
+  - Payee’s Bank Name
+  - Payee’s Bank Address
   - Bank account
   - Swiftcode
-  - Mentor’s name
+  - First name/Last name
   - Mentor’s address:
  
 *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
 
-- The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (unit: yuan)
+- The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (Unit: CNY)
 
-  Below 3750, 3% tax rate (80% * 3%)
+  Below RMB 3,750, 3% tax rate (80% * 3%)
 
-  Below 15000, 10% tax rate (bonus 80% * 10% - 210)
+  Below RMB 15,000, 10% tax rate (bonus 80% * 10% - 210)
 
-  Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
+  Below RMB 31,250, 20% tax rate is (bonus 80% * 20% - 1410)
 
 5. Notice
 
-The mentor is requested to confirm the matters needing attention in the local law, such as: confirm whether I can legally take part-time jobs, etc. In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
+The mentor is requested to confirm the matters needing attention in the local law, such as: confirm whether I can legally take part-time jobs, etc. 
+
+In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
