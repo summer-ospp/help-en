@@ -103,7 +103,7 @@ The organizing committee does not recommend that students start research and dev
   The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
 
   - Name
-  - ID number
+  - Citizen ID No.
   - Bank account and branch information
   
 *Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
@@ -114,23 +114,22 @@ The organizing committee does not recommend that students start research and dev
 
 - The students' bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
 
-  - Name and address of receiving bank
-  - Bank account
+  - Payee’s bank name
+  - Payee’s bank address
+  - Bank account No.
   - Swiftcode
-  - Mentor’s name
-  - Address:
+  - First name/Last name
+  - Student address
   
-*Note: 
-
-  The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
+*Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
 
 - The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (Unit: CNY)
 
-  - Below 3750, 3% tax rate (80% * 3%)
+  - Below RMB3,750, 3% tax rate (80% * 3%)
 
-  - Below 15000, 10% tax rate (bonus 80% * 10% - 210)
+  - Below RMB15,000, 10% tax rate (bonus 80% * 10% - 210)
 
-  - Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
+  - Below RMB3,1250, 20% tax rate is (bonus 80% * 20% - 1410)
 
 - Notice:
 
