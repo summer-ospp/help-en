@@ -31,6 +31,7 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 023  | Curve                   | Curve社区                | [link](https://www.opencurve.io/)                      | Accepted             |
 | 024  | Bookos                  | Bookos社区               | [link]( https://www.book-os.org)                       | Accepted             |
 | 025  | WebCell                 | WebCell                 | [link](https://web-cell.dev/)                           | Accepted             |
+| 026  | PiFlow                 | 大数据流水线系统 PiFlow 社区 | [link](https://github.com/cas-bigdatalab/piflow)      | Accepted             |
 | ...  | ...                     | ...                      | ...                                                    | ...                  |
 
 Note: If your community has send email of application and still not in the list, the application is still under review. Generally, The list will be updated after committee weekly meeting on every Monday.
