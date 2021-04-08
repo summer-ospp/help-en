@@ -36,7 +36,7 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 028  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | Accepted             |
 | 029  | Tiny Lab                | 泰晓科技                   | [link](http://tinylab.org)                             | Accepted             |
 | 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://aosc.io)                        | Accepted             |
-| 032  | GoodERP                 | GoodERP开源俱乐部          | [link](https://gooderp.org)                        | Accepted             |
+| 031  | GoodERP                 | GoodERP开源俱乐部          | [link](https://gooderp.org)                        | Accepted             |
 | ...  | ...                     | ...                      | ...                                                    | ...                  |
 
 
