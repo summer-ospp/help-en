@@ -43,7 +43,7 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 035  | Milvus                 | Milvus          | [link](https://www.milvus.io/cn/)                        | Accepted    |
 | 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | Accepted    |
 | 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | Accepted    |
-| 038  | Apache CarbonData                 | Apache CarbonData          | [link](carbondata.apache.org)                        | Accepted    |
+| 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | Accepted    |
 | ...  | ...                     | ...                      | ...                                                    | ...                  |
 
 
