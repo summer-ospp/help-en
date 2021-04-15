@@ -44,7 +44,12 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | Accepted    |
 | 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | Accepted    |
 | 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | Accepted    |
-| ...  | ...                     | ...                      | ...                                                    | ...                  |
+| 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | 审核通过    |
+| 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | 审核通过    |
+| 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | 审核通过    |
+| 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | 审核通过    |
+| 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | 审核通过    |
+| 044  | ...                     | ...                      | ...                                                    | ...                  |
 
 
 Note: If your community has send email of application and still not in the list, the application is still under review. Generally, The list will be updated after committee weekly meeting on every Monday.
