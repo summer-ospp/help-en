@@ -8,8 +8,8 @@
 | --------------------- | ----------------------------------------------------------------- |
 | Jan 29th              | Open application for community                     |
 | Apr 2nd               | The 1st list of accepted communities published  |
-| Apr 30th              | Deadline of application for open source community                 |
-| May 2nd               | The 2nd list of accepted communities published |
+| May 20th              | Deadline of application for open source community                 |
+| May 21st               | The 2nd list of accepted communities published |
 | May 24th - Jun 13th   | Student application period                                        |
 | Jun 30th              | Accepted student projects announced                      |
 | Jul 1st - Aug 15th    | The 1st phase of developing project                             |

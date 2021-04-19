@@ -26,12 +26,35 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 018  | Jenkins Chinese Community | Jenkins 中文社区       | [link](https://jenkins-zh.cn/)                         | Accepted            |
 | 019  | openEuler Community     | openEuler 社区          | [link](https://openeuler.org/)                         | Accepted             |
 | 020  | The Debian Project      | The Debian Project      | [link](https://www.debian.org)                         | Accepted             |
-| 021	 | cskefu                  |	春松客服                |	[link](https://github.com/chatopera/cskefu)            | Accepted             |
-| 022  | KubeSphere Community    | KubeSphere 开源社区      | [link](https://kubesphere.io/)                         | Accepted             |
-| 023  | Curve                   | Curve社区                | [link](https://www.opencurve.io/)                      | Accepted             |
-| 024  | Bookos                  | Bookos社区               | [link]( https://www.book-os.org)                       | Accepted             |
-| 025  | WebCell                 | WebCell                 | [link](https://web-cell.dev/)                           | Accepted             |
-| ...  | ...                     | ...                      | ...                                                    | ...                  |
+| 021  | KubeSphere Community    | KubeSphere 开源社区      | [link](https://kubesphere.io/)                         | Accepted             |
+| 022  | Curve                   | Curve社区                | [link](https://www.opencurve.io/)                      | Accepted             |
+| 023  | Bookos                  | Bookos社区               | [link]( https://www.book-os.org)                       | Accepted             |
+| 024  | WebCell                 | WebCell                 | [link](https://web-cell.dev/)                           | Accepted             |
+| 025  | PiFlow                 | 大数据流水线系统 PiFlow 社区 | [link](https://github.com/cas-bigdatalab/piflow)      | Accepted             |
+| 026  | Wechaty                 | Wechaty 社区              | [link](https://wechaty.js.org/)                        | Accepted             |
+| 027  | Kaiyuanshe              | 开源社                    | [link](https://kaiyuanshe.cn/)                         | Accepted             |
+| 028  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | Accepted             |
+| 029  | Tiny Lab                | 泰晓科技                   | [link](http://tinylab.org)                             | Accepted             |
+| 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://aosc.io)                        | Accepted             |
+| 031  | GoodERP                 | GoodERP开源俱乐部          | [link](https://gooderp.org)                        | Accepted             |
+| 032  | EduOJ                 | EduOJ          | [link](https://github.com/EduOJ)                        | Accepted    |
+| 033  | OneFlow                 | OneFlow          | [link](https://github.com/Oneflow-Inc)                        | Accepted    |
+| 034  | China PostgreSQL association             | 中国开源软件推进联盟PostgreSQL分会       | [link](https://www.postgresqlchina.com/)               | Accepted    |
+| 035  | Milvus                 | Milvus          | [link](https://www.milvus.io/cn/)                        | Accepted    |
+| 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | Accepted    |
+| 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | Accepted    |
+| 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | Accepted    |
+| 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | 审核通过    |
+| 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | 审核通过    |
+| 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | 审核通过    |
+| 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | 审核通过    |
+| 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | 审核通过    |
+| 044  | DoKit               | dDoKit 社区                | [link](https://www.dokit.cn/   )            | 审核通过    |
+| 045 | Julia                | Julia 中文社区              | [link](https://discourse.juliacn.com/ )                     | 审核通过    |
+| 046  | Hypertrons      | Hypertrons                   | [link](https://hypertrons.io)                   | 审核通过    |
+| 047  | MaskNetwork              | MaskNetwork            | [link](https://mask.io)    | 审核通过    |
+| 048 | ...                     | ...                     | ...                                                     | ...      |
+
 
 Note: If your community has send email of application and still not in the list, the application is still under review. Generally, The list will be updated after committee weekly meeting on every Monday.
 

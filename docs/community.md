@@ -52,9 +52,13 @@ In general, the committee will respect the difficulty setting of the community a
 1. The community should launch the "Summer 2021" page (HTML, Wiki, etc.) on the community official website (or project open repository), including the detailed list of all project tasks provided by the community / project team, providing the project task information and corresponding reference materials with the estimated development workload of 3 months.
 
 2. The community needs to appoint a community mentor for each project, which is generally the developer (maintainer, committer, contributor) related to the project. Each mentor can be the mentor of three projects at most at the same time. Please refer to [Mentor guide](mentor.md) for tutor participation, specifically responsible for:
+
    - Provide project task details by project template
+   
    - Communicate with potential applicants for the project, review the application and confirm the chosen student
+   
    - Provide support towards the students in the development process
+   
    - Evaluate the development achievements of students
 
 ## How does the community know which projects are supported
