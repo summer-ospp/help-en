@@ -34,15 +34,15 @@
 
   1. How much bonus amount will I receive?
 
-  Each project will be awarded RMB 5,000 before tax, and each mentor is responsible for up to 3 projects, which means the bonus is up to RMB 15,000 before tax.
+      Each project will be awarded RMB 5,000 before tax, and each mentor is responsible for up to 3 projects, which means the bonus is up to RMB 15,000 before tax.
 
   2. When will the bonus be paid?
 
-  The bonus of mentors' bonus will be paid after the students passed final project evaluation. 
+      The bonus of mentors' bonus will be paid after the students passed final project evaluation. 
 
   3. How to pay the mentors’ bonus?
 
-  The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+      The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
 
   - Name
 
