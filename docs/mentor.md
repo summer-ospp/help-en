@@ -82,7 +82,7 @@
 
     - Below RMB 31,250, 20% tax rate is (bonus 80% * 20% - 1410)
 
-5. Notice
+## Notice
 
   - The mentor is requested to confirm the matters needing attention in the local law, such as: confirm whether I can legally take part-time jobs, etc. 
 
