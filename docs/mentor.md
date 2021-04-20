@@ -49,7 +49,7 @@
   - Bank account and branch information
   - Contact mobile number: 
 
-  **Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
+  **Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.**
 
   4. How to pay the foreign mentors’ bonus?
 
