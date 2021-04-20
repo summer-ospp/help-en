@@ -44,21 +44,18 @@
 
   The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
 
-    - Name
-
-    - ID number
-
-    - Bank account and branch information
-
-    - Contact mobile number: 
+  - Name
+  - ID number
+  - Bank account and branch information
+  - Contact mobile number: 
 
   **Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
 
   4. How to pay the foreign mentors’ bonus?
 
-  - The foreign mentor's bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
+    - The foreign mentor's bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
 
-  - The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+    - The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
 
         - Payee’s Bank Name
 
