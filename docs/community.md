@@ -10,12 +10,16 @@ Regarding the open source community focusing on promoting open source, welcome t
 
 1. The *Open Source Promotion Plan Management System* has been officially released. From now on, the community can apply for program and release projects in the system.
 
-  - Official Link: https://portal.summer-ospp.ac.cn/summer 
+  - Official Link: https://portal.summer-ospp.ac.cn/summer
+  
   - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](https://github.com/summer-ospp/help/blob/main/docs/assets/Organization%20Guideline%20for%20Open%20Source%20Promotion%20Plan%20Management%20System.pdf)
-- Official Contact E-mail: summer@iscas.ac.cn 
+  
+  - Official Contact E-mail: summer@iscas.ac.cn 
 
    **Tips:**
+  
   - The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
+ 
   - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
 
 ## What kind of projects are supported
