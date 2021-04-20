@@ -8,7 +8,15 @@ Regarding the open source community focusing on promoting open source, welcome t
 
 ## How does the community sign up
 
-Please fill the [Template for Community Application](./assets/template-for-community-application.txt) and send it to [summer@iscas.ac.cn](mailto:summer@iscas.ac.cn).The organizer will connect with the community to discuss the subsequent cooperation.
+1. The *Open Source Promotion Plan Management System* has been officially released. From now on, the community can apply for program and release projects in the system.
+
+  - Official Link: https://portal.summer-ospp.ac.cn/summer 
+  - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](https://github.com/summer-ospp/help/blob/main/docs/assets/Organization%20Guideline%20for%20Open%20Source%20Promotion%20Plan%20Management%20System.pdf)
+- Official Contact E-mail: summer@iscas.ac.cn 
+
+   **Tips:**
+  - The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
+  - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
 
 ## What kind of projects are supported
 
@@ -42,10 +50,11 @@ In general, the committee will respect the difficulty setting of the community a
 2. The community should inform the Organizing Committee of the link address after launching the "Summer 2021" page. The organizing committee <https://summer.iscas.ac.cn/> will introduce the information of the community online, and provide links to jump to the activity description page of the community; all project lists will be provided synchronously on the official website of the activity, but subject to the project details on the community page.
 
 3. The community needs to appoint a community mentor for each project, which is generally the developer (maintainer, committer, contributor) related to the project. Each mentor can be the mentor of three projects at most at the same time. Please refer to [Mentor guide](mentor.md) for tutor participation, specifically responsible for:
-   - Provide project task details by project template
-   - Communicate with potential applicants for the project, review the application and confirm the chosen student
-   - Provide support towards the students in the development process
-   - Evaluate the development achievements of students
+
+    - Provide project task details by project template
+    - Communicate with potential applicants for the project, review the application and confirm the chosen student
+    - Provide support towards the students in the development process
+    - Evaluate the development achievements of students
 
 ## How does the community know which projects are supported
 
@@ -64,13 +73,13 @@ The difficulty of the project is divided into high, medium and low levels, and t
 
 The following are the reference standards of difficulty:
 
-- High: bonus RMB 12000
-  - A competent master student majoring in computer science
-  - The typical high difficulty is to optimize the class work, improve the time, reduce the memory occupation, provide performance and so on.
-- Medium: bonus RMB 9000
-  - Objective: the ability is equivalent to the graduate freshmen or graduate sophomore master majoring in computer science
-- Low: bonus RMB 6000
-  - Objective: the ability is equivalent to the junior and senior computer major bachelor students
+1. High: bonus RMB 12000
+    - A competent master student majoring in computer science
+    - The typical high difficulty is to optimize the class work, improve the time, reduce the memory occupation, provide performance and so on.
+2. Medium: bonus RMB 9000
+    - Objective: the ability is equivalent to the graduate freshmen or graduate sophomore master majoring in computer science
+3. Low: bonus RMB 6000
+    - Objective: the ability is equivalent to the junior and senior computer major bachelor students
 
 ## Recommended Open Knowledge License
 
