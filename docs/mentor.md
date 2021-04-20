@@ -42,23 +42,23 @@
 
   3. How to pay the mentors’ bonus?
 
-      The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+  The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
 
-      - Name
+    - Name
 
-      - ID number
+    - ID number
 
-      - Bank account and branch information
+    - Bank account and branch information
 
-      - Contact mobile number: 
+    - Contact mobile number: 
 
   **Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
 
   4. How to pay the foreign mentors’ bonus?
 
-      - The foreign mentor's bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
+  - The foreign mentor's bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
 
-      - The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
+  - The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
 
         - Payee’s Bank Name
 
@@ -74,7 +74,7 @@
 
   **Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.**
 
-- The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (Unit: CNY)
+  - The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (Unit: CNY)
 
     - Below RMB 3,750, 3% tax rate (80% * 3%)
 
