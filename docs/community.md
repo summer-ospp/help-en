@@ -8,19 +8,20 @@ Regarding the open source community focusing on promoting open source, welcome t
 
 ## How does the community sign up
 
-- The *Open Source Promotion Plan Management System* has been officially released. From now on, the community can apply for program and release projects in the system.
+  The *Open Source Promotion Plan Management System* has been officially released. From now on, the community can apply for program and release projects in the system.
 
-  - Official Link: https://portal.summer-ospp.ac.cn/summer 
+  - Official Link: https://portal.summer-ospp.ac.cn/summer
   
   - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](https://github.com/summer-ospp/help/blob/main/docs/assets/Organization%20Guideline%20for%20Open%20Source%20Promotion%20Plan%20Management%20System.pdf)
   
-- Official Contact E-mail: summer@iscas.ac.cn 
+  - Official Contact E-mail: summer@iscas.ac.cn 
 
-- Tips:
-
-  - The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
+   **Tips:**
   
-  - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks
+  - The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
+ 
+  - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
+
 
 ## What kind of projects are supported
 
@@ -61,6 +62,7 @@ In general, the committee will respect the difficulty setting of the community a
    
    - Evaluate the development achievements of students
 
+
 ## How does the community know which projects are supported
 
 After informing the Organizing Committee of the link address of the "summer 2021" page of the community, the organizing committee will add the "summer 2021" project link of the community in the open source community page of the official website of the program, thus the project list in this page is the candidate supported projects.
@@ -78,13 +80,13 @@ The difficulty of the project is divided into high, medium and low levels, and t
 
 The following are the reference standards of difficulty:
 
-- High: bonus RMB 12000
-  - A competent master student majoring in computer science
-  - The typical high difficulty is to optimize the class work, improve the time, reduce the memory occupation, provide performance and so on.
-- Medium: bonus RMB 9000
-  - Objective: the ability is equivalent to the graduate freshmen or graduate sophomore master majoring in computer science
-- Low: bonus RMB 6000
-  - Objective: the ability is equivalent to the junior and senior computer major bachelor students
+1. High: bonus RMB 12000
+    - A competent master student majoring in computer science
+    - The typical high difficulty is to optimize the class work, improve the time, reduce the memory occupation, provide performance and so on.
+2. Medium: bonus RMB 9000
+    - Objective: the ability is equivalent to the graduate freshmen or graduate sophomore master majoring in computer science
+3. Low: bonus RMB 6000
+    - Objective: the ability is equivalent to the junior and senior computer major bachelor students
 
 ## Recommended Open Knowledge License
 
