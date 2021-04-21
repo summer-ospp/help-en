@@ -1,8 +1,8 @@
 # List of communities in Summer 2021
 
-When the application email of community was received, the staff member will reply to the contactor of community. When the community's information is completed, the application will be reviewed on the weekly committee meeting on Monday. Once the application is accepted, projects from this community will get support in Summer 2021.
+When the application email of community was received, the staff member will reply to the contacts of community. When the information is completed by community, the application will be reviewed on the weekly committee meeting on Monday. Once the application is accepted, projects released by community will be accepted in Summer 2021.
 
-Before the deadline (Apr 30th, 2021) of application for community, this list will be continually updated
+Before the deadline (May 20th, 2021) of application for community, this list will be continually updated
 
 | No. | English name            | Chinese name            | Official Website                                       | State of application |
 | --- | ----------------------- | ----------------------- | ------------------------------------------------------ | -------------------- |
@@ -44,15 +44,15 @@ Before the deadline (Apr 30th, 2021) of application for community, this list wil
 | 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | Accepted    |
 | 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | Accepted    |
 | 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | Accepted    |
-| 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | 审核通过    |
-| 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | 审核通过    |
-| 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | 审核通过    |
-| 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | 审核通过    |
-| 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | 审核通过    |
-| 044  | DoKit               | dDoKit 社区                | [link](https://www.dokit.cn/   )            | 审核通过    |
-| 045 | Julia                | Julia 中文社区              | [link](https://discourse.juliacn.com/ )                     | 审核通过    |
-| 046  | Hypertrons      | Hypertrons                   | [link](https://hypertrons.io)                   | 审核通过    |
-| 047  | MaskNetwork              | MaskNetwork            | [link](https://mask.io)    | 审核通过    |
+| 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | Accepted    |
+| 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | Accepted    |
+| 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | Accepted    |
+| 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | Accepted    |
+| 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | Accepted    |
+| 044  | DoKit               | dDoKit 社区                | [link](https://www.dokit.cn/   )            |Accepted    |
+| 045 | Julia                | Julia 中文社区              | [link](https://discourse.juliacn.com/ )                     | Accepted    |
+| 046  | Hypertrons      | Hypertrons                   | [link](https://hypertrons.io)                   | Accepted    |
+| 047  | MaskNetwork              | MaskNetwork            | [link](https://mask.io)    | Accepted    |
 | 048 | ...                     | ...                     | ...                                                     | ...      |
 
 
