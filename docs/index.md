@@ -8,14 +8,14 @@
 
 Other help guide:
 
-- [Activity Timeline](timeline.md)
+- [Timeline](timeline.md)
 - [Communities List](communities-list.md)
 - [Cooperative Extension](cooperation.md)
 - [Contact us](contactus.md)
 
 ## What is Summer 2021 of Open Source Promotion Plan
 
-Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and will open enrollment to college students around the world.
+Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer program for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and will open enrollment to college students around the world.
 
 Students can choose the projects they are interested in to apply, and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive the bonus of "Summer 2021 of Open Source Promotion Plan" .
 
@@ -31,17 +31,17 @@ Inspired by other Summer of Code activities, this event hopes to further promote
 
 2. Support more types of open source projects
 
-   - This activity supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended Open Knowledge License](community.md#recommended-open-knowledge-license) Open source knowledge projects, such as technical documents, knowledge documents, etc.
+   - This program supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended Open Knowledge License](community.md#recommended-open-knowledge-license) Open source knowledge projects, such as technical documents, knowledge documents, etc.
 
-3. More diverse forms of activity organization
+3. More diverse forms of organization
 
    - In addition to encouraging students to contribute to the community, the organizing committee hopes to introduce the concept of open source to the students and help them understand the open source culture and participate in the open source community.
 
 ## Who are the organizers of the event
 
-This activity is organized by Institute of software Chinese Academy of Sciences and openEuler community. 'Summer 2021' is the second series activity. More institutions are welcome to participate.
+This program is organized by Institute of software Chinese Academy of Sciences and openEuler community. 'Summer 2021' is the second series program. More institutions are welcome to participate.
 
-## What are the participants and roles of this activity
+## What are the participants and roles of this program
 
 The main roles of participants are students, community and mentor.
 
@@ -56,7 +56,7 @@ The main roles of participants are students, community and mentor.
 
 ## Student Eligibility
 
-This activity is for the students over 18 years old. Please refer to the [student guide](student.md) for specific conditions.
+This program is for the students over 18 years old. Please refer to the [student guide](student.md) for specific conditions.
 
 ## How to apply for a project
 
@@ -64,23 +64,33 @@ Please refer to [student guide](student.md) for details of student participation
 
 ## Which communities can sign up for participation
 
-This activity is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](community.md#recommended-open-knowledge-license), and other open and shared licenses are all supported by this activity.
+This program is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](community.md#recommended-open-knowledge-license), and other open and shared licenses are all supported by this program.
 
-For the open source community focusing on promoting open source, welcome to contact the organizing committee to communicate how to promote this open source activity and subsequent cooperation.
+For the open source community focusing on promoting open source, welcome to contact the organizing committee to communicate how to promote this open source program and subsequent cooperation.
 
 ## How does the community sign up
 
-Please fill the [Template for Community Application](./assets/template-for-community-application.txt) and send it to [summer@iscas.ac.cn](mailto:summer@iscas.ac.cn).The organizer will connect with the community to discuss the subsequent cooperation.
+The *Open Source Promotion Plan Management System* has been officially released. From now on, the community can apply for program and release projects in the system.
 
-Please refer to the [community guide](community.md) for detailed description of community participation activities。
+    - Official Link: https://portal.summer-ospp.ac.cn/summer
+  
+    - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](https://github.com/summer-ospp/help/blob/main/docs/assets/Organization%20Guideline%20for%20Open%20Source%20Promotion%20Plan%20Management%20System.pdf)
+  
+    - Official Contact E-mail: summer@iscas.ac.cn 
 
+   **Tips:**
+  
+    - The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
+ 
+    - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
+  
 ## What kind of projects are supported
 
 Summer 2021 give priority to supporting development projects, while taking into account all kinds of projects that are conducive to community development, such as translation technical documents and other knowledge-based open-source projects. The total proportion of non development projects supported will not exceed 20%.
 
-## What does the community need to do after signing up for the activity
+## What does the community need to do after signing up for the program
 
-Please refer to the [community guide](community.md) for detailed description of community participation activities。
+Please refer to the [community guide](community.md) for detailed description of community participation program.
 
 ## Whether the mentor can assist the student in development process
 
@@ -88,7 +98,7 @@ Tutors can't guide students to develop through code, and can't help students deb
 
 ## How to become a cooperative partner
 
-As long as it supports this open source activity, it will help promote this activity. Whether it's companies, scientific research institutes, universities or other organizations, we welcome to be our partners to promote this activity. We also hope to establish a long-term cooperative relationship to promote the development of domestic open source ecology.
+As long as it supports this open source program, it will help promote this program. Whether it's companies, scientific research institutes, universities or other organizations, we welcome to be our partners to promote this program. We also hope to establish a long-term cooperative relationship to promote the development of domestic open source ecology.
 
 For details of cooperative promotion, please check [cooperative promotion](cooperation.md)
 
@@ -108,6 +118,7 @@ It's up to the organizing committee to decide whether to continue to contribute 
 ## How does the mentor review whether the student has passed the mid-term (final-term) assessment
 
 1. In terms of progress, tutors should consider the actual development situation of students and the difficulty of development tasks to determine whether they are in line with the relevant planning of the project plan;
+
 2. In terms of results, the tutor should confirm that the interim (final) results submitted by the students meet the objectives of the project;
 
 ## Whether the mentor's review opinions should strictly refer to the template or enrich more content
