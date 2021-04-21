@@ -47,7 +47,7 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | Accepted    |
 | 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | Accepted    |
 | 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | Accepted    |
-| 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | Accepted    |
+| 042  | Codename One             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | Accepted    |
 | 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | Accepted    |
 | 044  | CHAOSS                  |CHAOSS 社区               |[link](https://chaoss.community/)                          | Accepted    |
 | 045  | DoKit                   | DoKit 社区                | [link](https://www.dokit.cn/)            | Accepted    |
