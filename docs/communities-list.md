@@ -49,11 +49,12 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | Accepted    |
 | 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | Accepted    |
 | 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | Accepted    |
-| 044  | DoKit               | dDoKit 社区                | [link](https://www.dokit.cn/   )            |Accepted    |
-| 045 | Julia                | Julia 中文社区              | [link](https://discourse.juliacn.com/ )                     | Accepted    |
-| 046  | Hypertrons      | Hypertrons                   | [link](https://hypertrons.io)                   | Accepted    |
-| 047  | MaskNetwork              | MaskNetwork            | [link](https://mask.io)    | Accepted    |
-| 048 | ...                     | ...                     | ...                                                     | ...      |
+| 044  | CHAOSS                  |CHAOSS 社区               |[link](https://chaoss.community/)                          | Accepted    |
+| 045  | DoKit                   | DoKit 社区                | [link](https://www.dokit.cn/)            | Accepted    |
+| 046  | Julia                   | Julia 中文社区              | [link](https://discourse.juliacn.com/)                      | Accepted    |
+| 047  | Hypertrons              | Hypertrons                   | [link](https://hypertrons.io)                   | Accepted    |
+| 048  | MaskNetwork             | MaskNetwork            | [link](https://mask.io)    | Accepted    |
+| 049  | ...              | ...                | ...                          | ...                                                |
 
 
 
