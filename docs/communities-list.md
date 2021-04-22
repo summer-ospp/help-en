@@ -52,9 +52,14 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 044  | CHAOSS                  |CHAOSS 社区               |[link](https://chaoss.community/)                          | Accepted    |
 | 045  | DoKit                   | DoKit 社区                | [link](https://www.dokit.cn/)            | Accepted    |
 | 046  | Julia                   | Julia 中文社区              | [link](https://discourse.juliacn.com/)                      | Accepted    |
-| 047  | Hypertrons              | Hypertrons                   | [link](https://hypertrons.io)                   | Accepted    |
-| 048  | MaskNetwork             | MaskNetwork            | [link](https://mask.io)    | Accepted    |
-| 049  | ...              | ...                | ...                          | ...                                                |
+| 047  | Hypertrons              | Hypertrons                   | [link](https://hypertrons.io)                               | Accepted    |
+| 048  | MaskNetwork             | MaskNetwork            | [link](https://mask.io)                                        | Accepted    |
+| 049  | Universal OJ               | Universal OJ 开源社区                | [link]( https://github.com/UniversalOJ   )            | Accepted    |
+| 050  | DatenLord                | DatenLord              | [link]( https://datenlord.io  )                                  | Accepted   |
+| 051  | HybridOS      | 合璧操作系统                   | [link]( https://hybridos.fmsoft.cn/)                                  | Accepted    |
+| 052  | USTCLUG              | 中科大学生 Linux 用户协会            | [link]( https://lug.ustc.edu.cn/)                         | Accepted    |
+| 053  | ArkID               | ArkID 开源社区                | [link]( https://www.longguikeji.com/product/arkid   )            | Accepted    |
+| 054  | ...              | ...                | ...                          | ...                                                |
 
 
 
