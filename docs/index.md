@@ -52,6 +52,7 @@ The main roles of participants are students, community and mentor.
 ## What is the bonus for the project
 
 - The difficulty of each project is divided into high, medium and low levels, and the corresponding pre tax bonus is high (12000 RMB), medium (9000 RMB) and low (6000 RMB). (Note: the amount of bonus is RMB before tax).
+
 - The difficulty level is determined by the community according to the project task.
 
 ## Student Eligibility
@@ -70,17 +71,17 @@ For the open source community focusing on promoting open source, welcome to cont
 
 ## How does the community sign up
 
-    - The [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/summer/login) has been officially released. From now on, the community can apply for program and release projects in the system.
+- The [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/summer/login) has been officially released. From now on, the community can apply for program and release projects in the system.
 
-    - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](./assets/Organization Guideline for Open Source Promotion Plan Management System.pdf)
+- Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](./assets/Organization Guideline for Open Source Promotion Plan Management System.pdf)
   
-    - Official Contact E-mail: summer@iscas.ac.cn 
+- Official Contact E-mail: summer@iscas.ac.cn 
 
    **Tips:**
   
-    - The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
+- The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
  
-    - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
+- The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
   
 ## What kind of projects are supported
 
