@@ -59,7 +59,8 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 051  | HybridOS      | 合璧操作系统                   | [link]( https://hybridos.fmsoft.cn/)                                  | Accepted    |
 | 052  | USTCLUG              | 中科大学生 Linux 用户协会            | [link]( https://lug.ustc.edu.cn/)                         | Accepted    |
 | 053  | ArkID               | ArkID 开源社区                | [link]( https://www.longguikeji.com/product/arkid   )            | Accepted    |
-| 054  | ...              | ...                | ...                          | ...                                                |
+| 054  | GitCourse               | GitCourse                | [link]( http://gitcourse-io.kfcoding.com/   )                     | Accepted    |
+| 055  | ...               | ...                | ...         | ...    |
 
 
 
