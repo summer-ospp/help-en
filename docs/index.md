@@ -61,7 +61,9 @@ This program is for the students over 18 years old. Please refer to the [student
 
 ## How to apply for a project
 
-Please refer to [student guide](student.md) for details of student participation. *Note: the default time zone 'GMT + 8'*
+Please refer to [student guide](student.md) for details of student participation. 
+
+**Note: the default time zone 'GMT + 8'**
 
 ## Which communities can sign up for participation
 
