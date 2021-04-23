@@ -8,19 +8,17 @@ Regarding the open source community focusing on promoting open source, welcome t
 
 ## How does the community sign up
 
-  The *Open Source Promotion Plan Management System* has been officially released. From now on, the community can apply for program and release projects in the system.
+- The [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/summer/login) has been officially released. From now on, the community can apply for program and release projects in the system.
 
-  - Official Link: https://portal.summer-ospp.ac.cn/summer
+- Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](./assets/Organization-Guideline-for-Open-Source-Promotion-Plan-Management-System.pdf)
   
-  - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](https://github.com/summer-ospp/help/blob/main/docs/assets/Organization%20Guideline%20for%20Open%20Source%20Promotion%20Plan%20Management%20System.pdf)
-  
-  - Official Contact E-mail: summer@iscas.ac.cn 
+- Official Contact E-mail: summer@iscas.ac.cn 
 
    **Tips:**
   
-  - The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
+- The communities who applied successfully via e-mail still need to register in the system and fill out the information. 
  
-  - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
+- The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
 
 
 ## What kind of projects are supported
@@ -54,13 +52,13 @@ In general, the committee will respect the difficulty setting of the community a
 
 2. The community needs to appoint a community mentor for each project, which is generally the developer (maintainer, committer, contributor) related to the project. Each mentor can be the mentor of three projects at most at the same time. Please refer to [Mentor guide](mentor.md) for tutor participation, specifically responsible for:
 
-   - Provide project task details by project template
+    - Provide project task details by project template
    
-   - Communicate with potential applicants for the project, review the application and confirm the chosen student
+    - Communicate with potential applicants for the project, review the application and confirm the chosen student
    
-   - Provide support towards the students in the development process
+    - Provide support towards the students in the development process
    
-   - Evaluate the development achievements of students
+    - Evaluate the development achievements of students
 
 
 ## How does the community know which projects are supported
