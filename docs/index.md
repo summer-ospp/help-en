@@ -27,15 +27,15 @@ Inspired by other Summer of Code activities, this event hopes to further promote
 
 1. The difficulty range of supporting projects is wider
 
-   - According to the difficulty of the project, the amount of project funding can be divided into 12000 RMB, 9000 RMB and 6000 RMB (Note: the amount of bonus is RMB before tax). Supporting more projects with different difficulty is to meet the different needs of community development, and it is also conducive to more students' Participation.
+    - According to the difficulty of the project, the amount of project funding can be divided into 12000 RMB, 9000 RMB and 6000 RMB (Note: the amount of bonus is RMB before tax). Supporting more projects with different difficulty is to meet the different needs of community development, and it is also conducive to more students' Participation.
 
 2. Support more types of open source projects
 
-   - This program supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended Open Knowledge License](community.md#recommended-open-knowledge-license) Open source knowledge projects, such as technical documents, knowledge documents, etc.
+    - This program supports the adoption of [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended Open Knowledge License](community.md#recommended-open-knowledge-license) Open source knowledge projects, such as technical documents, knowledge documents, etc.
 
 3. More diverse forms of organization
 
-   - In addition to encouraging students to contribute to the community, the organizing committee hopes to introduce the concept of open source to the students and help them understand the open source culture and participate in the open source community.
+    - In addition to encouraging students to contribute to the community, the organizing committee hopes to introduce the concept of open source to the students and help them understand the open source culture and participate in the open source community.
 
 ## Who are the organizers of the event
 
@@ -70,11 +70,9 @@ For the open source community focusing on promoting open source, welcome to cont
 
 ## How does the community sign up
 
-The *Open Source Promotion Plan Management System* has been officially released. From now on, the community can apply for program and release projects in the system.
+    - The [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/summer/login) has been officially released. From now on, the community can apply for program and release projects in the system.
 
-    - Official Link: https://portal.summer-ospp.ac.cn/summer
-  
-    - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](https://github.com/summer-ospp/help/blob/main/docs/assets/Organization%20Guideline%20for%20Open%20Source%20Promotion%20Plan%20Management%20System.pdf)
+    - Please click to view  [Organization Guideline for Open Source Promotion Plan Management System](./assets/Organization Guideline for Open Source Promotion Plan Management System.pdf)
   
     - Official Contact E-mail: summer@iscas.ac.cn 
 
