@@ -61,7 +61,7 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 053  | ArkID               | ArkID 开源社区                | [link]( https://www.longguikeji.com/product/arkid   )            | Accepted    |
 | 054  | GitCourse               | GitCourse                | [link]( http://gitcourse-io.kfcoding.com/   )                     | Accepted    |
 | 055  | Senparc Developer Community          |     盛派开发者社区             | [link]( https://dev.senparc.com/)            | Accepted    |
-| 056  |      Linuxkerneltravel       |     Linux内核之旅            | [link]( http://kerneltravel.net/ )              | Accepted    |
+| 056  | Linuxkerneltravel       |     Linux内核之旅            | [link]( http://kerneltravel.net/ )              | Accepted    |
 | 057  | ...               | ...                | ...         | ...                   |
 
 
