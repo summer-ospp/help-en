@@ -42,7 +42,7 @@ It can be proposed, but the following conditions should be met:
 
 - The difficulty of the project is divided into high, medium and low levels, and the corresponding pre tax bonus is high (12000 RMB), medium (9000 RMB) and low (6000 RMB) (Note: the amount of bonus is pre tax RMB).
 - The difficulty level is determined by the community according to the project task.
-- The sponsor will fund the projects that students will eventually apply for. Within the budget, the sponsor will support as many projects as possible, which are expected to be more than 1000.
+- The sponsor will fund the projects that students will eventually apply for. Within the budget, the sponsor will support as many projects as possible, which are expected to be more than 500.
 
 In general, the committee will respect the difficulty setting of the community and the committee will also check the difficulty setting in the community page. If the difficulty setting is not reasonable, it will communicate with the community to adjust the difficulty level.
 
