@@ -44,25 +44,28 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | Accepted    |
 | 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | Accepted    |
 | 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | Accepted    |
-| 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | Accepted    |
-| 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | Accepted    |
-| 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | Accepted    |
-| 042  | Codename One             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | Accepted    |
-| 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | Accepted    |
-| 044  | CHAOSS                  |CHAOSS 社区               |[link](https://chaoss.community/)                          | Accepted    |
-| 045  | DoKit                   | DoKit 社区                | [link](https://www.dokit.cn/)            | Accepted    |
-| 046  | Julia                   | Julia 中文社区              | [link](https://discourse.juliacn.com/)                      | Accepted    |
-| 047  | Hypertrons              | Hypertrons                   | [link](https://hypertrons.io)                               | Accepted    |
-| 048  | MaskNetwork             | MaskNetwork            | [link](https://mask.io)                                        | Accepted    |
-| 049  | Universal OJ               | Universal OJ 开源社区                | [link]( https://github.com/UniversalOJ   )            | Accepted    |
-| 050  | DatenLord                | DatenLord              | [link]( https://datenlord.io  )                                  | Accepted   |
-| 051  | HybridOS                | 合璧操作系统                   | [link]( https://hybridos.fmsoft.cn/)                                  | Accepted    |
-| 052  | USTCLUG                 | 中科大学生 Linux 用户协会            | [link]( https://lug.ustc.edu.cn/)                         | Accepted    |
-| 053  | ArkID                     | ArkID 开源社区                | [link]( https://www.longguikeji.com/product/arkid   )            | Accepted    |
-| 054  | GitCourse               | GitCourse                | [link]( http://gitcourse-io.kfcoding.com/   )                     | Accepted    |
-| 055  | Senparc Developer Community    |     盛派开发者社区             | [link]( https://dev.senparc.com/)            | Accepted    |
-| 056  | Linuxkerneltravel       | Linux内核之旅            | [link]( http://kerneltravel.net/ )              | Accepted    |
-| 057  | ...               | ...                | ...         | ...                   |
+| 039  | dubbo-go                | dubbo-go 社区                 | [link](https://github.com/apache/dubbo-go)                   | Accepted    |
+| 040  | TDengine                | TDengine                      | [link](https://www.taosdata.com/)                            | Accepted     |
+| 041  | Ubuntu Kylin            | 优麒麟                         | [link](https://www.ubuntukylin.com)                          | Accepted     |
+| 042  | Codename One            | Codename One                  | [link](https://github.com/codenameone/CodenameOne)           | Accepted     |
+| 043  | SofaStack Community     | SOFAStack 社区                 | [link](https://sofastack.tech/)                              | Accepted     |
+| 044  | CHAOSS                  | CHAOSS社区                     | [link](https://chaoss.community/)                            | Accepted     |
+| 045  | DoKit                   | DoKit 社区                     | [link](https://www.dokit.cn/)                                | Accepted     |
+| 046  | Julia                   | Julia 中文社区                  | [link](https://discourse.juliacn.com/)                      | Accepted     |
+| 047  | Hypertrons              | Hypertrons                     | [link](https://hypertrons.io)                                | Accepted     |
+| 048  | MaskNetwork             | MaskNetwork                    | [link](https://mask.io)                                      | Accepted     |
+| 049  | Universal OJ            | Universal OJ 开源社区           | [link]( https://github.com/UniversalOJ   )                   | Accepted     |
+| 050  | DatenLord               | DatenLord                      | [link]( https://datenlord.io  )                              | Accepted    |
+| 051  | HybridOS                | 合璧操作系统                    | [link]( https://hybridos.fmsoft.cn/)                          | Accepted     |
+| 052  | USTCLUG                 | 中科大学生 Linux 用户协会       | [link]( https://lug.ustc.edu.cn/)                              | Accepted     |
+| 053  | ArkID                   | ArkID 开源社区                 | [link]( https://www.longguikeji.com/product/arkid   )          | Accepted     |
+| 054  | GitCourse               | GitCourse                      | [link]( http://gitcourse-io.kfcoding.com/   )                 | Accepted     |
+| 055  | Senparc Developer Community          | 盛派开发者社区     | [link]( https://dev.senparc.com/)                             | Accepted     |
+| 056  | Linuxkerneltravel       | Linux内核之旅                   | [link]( http://kerneltravel.net/ )                            | Accepted     |
+| 057  | xmake                   | xmake 技术社区                 | [link](   https://xmake.io   )                                 | Accepted     |
+| 058  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | Accepted    |
+| 059  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | Accepted     |
+| 060  | ...                     | ...                | ...         | ...    |
 
 
 
