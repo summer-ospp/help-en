@@ -65,7 +65,8 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 057  | xmake                   | xmake 技术社区                 | [link](   https://xmake.io   )                                 | Accepted     |
 | 058  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | Accepted    |
 | 059  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | Accepted     |
-| 060  | ...                     | ...                | ...         | ...    |
+| 060  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                               | Accepted    |
+| 061  | ...                     | ...                | ...         | ...    |
 
 
 
