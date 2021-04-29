@@ -68,7 +68,8 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 060  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | Accepted    |
 | 061  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | Accepted     |
 | 062  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                              | Accepted    |
-| 063  | ...                     | ...                | ...         | ...    |
+| 063  | MindSpore               | MindSpore                       | [link]( https://www.mindspore.cn)                            | Accepted    |
+| 064  | ...                     | ...                | ...         | ...    |
 
 
 
