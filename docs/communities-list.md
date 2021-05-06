@@ -69,7 +69,12 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 061  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | Accepted     |
 | 062  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                              | Accepted    |
 | 063  | MindSpore               | MindSpore                       | [link]( https://www.mindspore.cn)                            | Accepted    |
-| 064  | ...                     | ...                | ...         | ...    |
+| 064  | rCORE OS                | rCORE OS                        | [link]( https://github.com/rcore-os/)                         | Accepted    |
+| 065  | RIOS Lab                | RIOS Lab                        | [link]( https://rioslab.org)                                  | Accepted    |
+| 066  | OpenMessaging           | OpenMessaging                   | [link]( http://openmessaging.cloud/)                          | Accepted    |
+| 067  | Apache EventMesh(Incubating)    | Apache EventMesh(Incubating)社区       | [link]( https://eventmesh.apache.org)          | Accepted    |
+| 068  | Sentinel                | Sentinel                        | [link]( https://sentinelguard.io)                             | Accepted    |
+| 069  | ...                     | ...                | ...         | ...    |
 
 
 
