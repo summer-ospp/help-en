@@ -68,13 +68,16 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 060  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | Accepted    |
 | 061  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | Accepted     |
 | 062  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                              | Accepted    |
-| 063  | MindSpore               | MindSpore                       | [link]( https://www.mindspore.cn)                            | Accepted    |
+| 063  | MindSpore               | MindSpore                       | [link]( https://www.mindspore.cn)                             | Accepted    |
 | 064  | rCORE OS                | rCORE OS                        | [link]( https://github.com/rcore-os/)                         | Accepted    |
 | 065  | RIOS Lab                | RIOS Lab                        | [link]( https://rioslab.org)                                  | Accepted    |
 | 066  | OpenMessaging           | OpenMessaging                   | [link]( http://openmessaging.cloud/)                          | Accepted    |
 | 067  | Apache EventMesh(Incubating)    | Apache EventMesh(Incubating)社区       | [link]( https://eventmesh.apache.org)          | Accepted    |
 | 068  | Sentinel                | Sentinel                        | [link]( https://sentinelguard.io)                             | Accepted    |
-| 069  | ...                     | ...                | ...         | ...    |
+| 069  | KubeEdge                | KubeEdge                        | [link]( kubeedge.io)                                          | Accepted    |
+| 070  | Apache Local Community Beijing      | Apache Local Community Beijing       | [link](   https://alc-beijing.github.io/alc-site/)       | Accepted    |
+| 071  | OpenDigger              | OpenDigger                      | [link](   https://github.com/X-lab2017/open-digger)           | Accepted    |
+| 072  | ...                     | ...                | ...         | ...    |
 
 
 
