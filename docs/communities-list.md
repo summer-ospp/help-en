@@ -74,9 +74,9 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 066  | OpenMessaging           | OpenMessaging                   | [link]( http://openmessaging.cloud/)                          | Accepted    |
 | 067  | Apache EventMesh(Incubating)    | Apache EventMesh(Incubating)社区       | [link]( https://eventmesh.apache.org)          | Accepted    |
 | 068  | Sentinel                | Sentinel                        | [link]( https://sentinelguard.io)                             | Accepted    |
-| 069  | KubeEdge                | KubeEdge                        | [link]( kubeedge.io)                                          | Accepted    |
-| 070  | Apache Local Community Beijing      | Apache Local Community Beijing       | [link](   https://alc-beijing.github.io/alc-site/)       | Accepted    |
-| 071  | OpenDigger              | OpenDigger                      | [link](   https://github.com/X-lab2017/open-digger)           | Accepted    |
+| 069  | KubeEdge                | KubeEdge                        | [link]( https://kubeedge.io)                                          | Accepted    |
+| 070  | Apache Local Community Beijing      | Apache Local Community Beijing       | [link]( https://alc-beijing.github.io/alc-site/)       | Accepted    |
+| 071  | OpenDigger              | OpenDigger                      | [link]( https://github.com/X-lab2017/open-digger)           | Accepted    |
 | 072  | ...                     | ...                | ...         | ...    |
 
 
