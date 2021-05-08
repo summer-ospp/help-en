@@ -77,7 +77,14 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 069  | KubeEdge                | KubeEdge                        | [link]( https://kubeedge.io)                                          | Accepted    |
 | 070  | Apache Local Community Beijing      | Apache Local Community Beijing       | [link]( https://alc-beijing.github.io/alc-site/)       | Accepted    |
 | 071  | OpenDigger              | OpenDigger                      | [link]( https://github.com/X-lab2017/open-digger)           | Accepted    |
-| 072  | ...                     | ...                | ...         | ...    |
+| 072  | LCUI                    | LCUI                            | [link]( https://lcui.lc-soft.io)                               | Accepted    |
+| 073  | Dragonfly               | Dragonfly                       | [link]( https://d7y.io/en-us/)                                 | Accepted    |
+| 074  | Apache RocketMQ         | Apache RocketMQ 社区            | [link]( https://rocketmq.apache.org/)                          | Accepted    |
+| 075  | Serverless Devs         | Serverless Devs                | [link]( http://www.serverless-devs.com/#/home)                  | Accepted    |
+| 076  | Arthas                  | Arthas                          | [link]( https://arthas.aliyun.com/en-us/)                      | Accepted    |
+| 077  | OpenKruise              | OpenKruise                      | [link]( https://github.com/openkruise/kruise)                  | Accepted    |
+| 078  | Apache Dubbo            | Apache Dubbo                    | [link]( https://dubbo.apache.org/zh/)                          | Accepted    |
+| 079  | ...                     | ...                | ...         | ...    |
 
 
 
