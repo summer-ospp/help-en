@@ -1,5 +1,29 @@
 # Project Application Recommendations
 
+## Suggestions for students participation
+
+1. Read the information and help provided in this document in detail, and the organizing committee will try our best to write the contents considered in this help document.
+
+2. Confirm your schedule to ensure that you can participate in the project at least 30 hours a week.
+
+3. It is vital to devote the open source project with personal initiative. We hope that students can find solutions by themselves before contacting us. At least read the student guide, key issues as well as timeline, etc.
+
+4. Before participating in open source projects, please sort out your professional skills, interested technologies, interested programming languages, etc., which are conducive to the selection of appropriate projects.
+
+5. Carefully check the community's documents, not only the list of projects provided by the community, but also be familiar with the community's participation methods, communication channels, community software design documents and community open source repository, etc.
+
+6. Focusing on 1-2 communities of interest, applying for multiple communities will reduce the probability of being selected.
+
+7. Carefully prepare the project application. No matter which school or major you come from, the quality of the project application is the main factor to be selected.
+
+8. Read the requirements of the application carefully to ensure that the application materials submitted meet the requirements of the organizing committee, including project application, identity certificate, etc.
+
+9. The order of application will not affect whether it is selected or not. The organizing committee will sort out the application materials together after the deadline and transfer them to the corresponding community for review.
+
+10. However, please do not submit on the last day to avoid not being familiar with the application process, such as lack of application materials, network and other problems, resulting in unable to complete the application within the specified time. The organizing committee will collect applications in strict accordance with the deadline, and applications submitted late will not be accepted.
+
+11. Students should abide by the relevant norms of the corresponding community to contribute to the development.
+
 ## Purpose of communicating with mentors
 
 Communication with mentor is a vital link, in which students can obtain the following benefits:
@@ -9,6 +33,12 @@ Communication with mentor is a vital link, in which students can obtain the foll
 - Refine the plan so that students can communicate their solutions with their mentors, and learn from them to improve feasibility;
 
 - Demonstarting good communication skills will also help to improve students'chances of being selected;
+
+## Criteria for the selected students
+
+The selected students by community chosen are based on the project application (including project plan, project implementation plan, etc.) submitted by students and their resumes. Each project can only be undertaken by one student.
+
+It is strongly recommended that students should actively communicate with the community mentor about the project details and plans before applying. The project application is the focus of the selection criteria.
 
 ## How to Write Project Application
 
