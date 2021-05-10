@@ -47,7 +47,7 @@
 
 ##### Pick the projects
 
-  - Follow up the [website-Project List](https://summer.iscas.ac.cn/#/org/projectlist?lang=en) 
+  - Follow up the [Project List](https://summer.iscas.ac.cn/#/org/projectlist?lang=en) 
   - You can apply for up to three projects at the same time, but can only undertake one project in the end. 
   - Can students apply for projects not in the community project list?
     
@@ -124,7 +124,7 @@ The result will be released on the official webiste.
 
 Please see *Student Bonus Instruction* for details.
 
-#### 6. The 2nd phase of developing project<br />Submit the developing output for final-term review
+#### 6. The 2nd phase of developing project and submit the developing output for final-term review
 
   i. Students submit the project final report at the designated platform.
 
@@ -186,7 +186,7 @@ Students can choose the programming language according to the needs of community
         - Passport No.
         - Bank account and branch information
 
-    *Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information
+    *Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.*
 
 4. How to pay the foreign students’ bonus?
 
@@ -195,17 +195,17 @@ Students can choose the programming language according to the needs of community
     - The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
     - The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
     
-        - Payee’s Bank Name
-        - Payee’s Bank Address
-        - Bank Account No.
-        - Swiftcode
-        - First Name/Last Name
-        - Address
+     - Payee’s Bank Name
+     - Payee’s Bank Address
+     - Bank Account No.
+     - Swiftcode
+     - First Name/Last Name
+     - Address
   
-    *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
+    *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.*
 
     The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (unit: Yuan)
 
-        - Below 3750, 3% tax rate (80% * 3%)
-        - Below 15000, 10% tax rate (bonus 80% * 10% - 210)
-        - Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
+      - Below 3750, 3% tax rate (80% * 3%)
+      - Below 15000, 10% tax rate (bonus 80% * 10% - 210)
+      - Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)
