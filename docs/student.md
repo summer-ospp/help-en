@@ -192,8 +192,9 @@ Students can choose the programming language according to the needs of community
 
     In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
 
-    - The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
-    - The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
+    i. The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
+    
+    ii. The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
     
      - Payee’s Bank Name
      - Payee’s Bank Address
