@@ -84,7 +84,9 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 076  | Arthas                  | Arthas                          | [link]( https://arthas.aliyun.com/en-us/)                      | Accepted    |
 | 077  | OpenKruise              | OpenKruise                      | [link]( https://github.com/openkruise/kruise)                  | Accepted    |
 | 078  | Apache Dubbo            | Apache Dubbo                    | [link]( https://dubbo.apache.org/zh/)                          | Accepted    |
-| 079  | ...                     | ...                | ...         | ...    |
+| 079  | Apollo                  | Apollo                          | [link]( https://www.apolloconfig.com/#/)                       | Accepted    |
+| 080  | ...                     | ...                | ...         | ...    |
+
 
 
 
