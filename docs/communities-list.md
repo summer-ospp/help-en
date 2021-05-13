@@ -88,7 +88,11 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 080  | Nacos                   | Nacos                           | [link]( https://nacos.io/en-us/)                               | Accepted    |
 | 081  | Project C               | Project C                       | [link]( https://gitlab.com/alfredchen/projectc)                | Accepted    |
 | 082  | JustAuth                | JustAuth                        | [link]( https://justauth.wiki)                                 | Accepted    |
-| 083  | ...                     | ...                | ...         | ...    |
+| 083  | Vineyard                | Vineyard                        | [link]( https://v6d.io)                                        | Accepted    |
+| 084  | Wine                    | Wine                            | [link]( https://www.winehq.org)                                | Accepted    |
+| 085  | MaxKey                  | MaxKey社区                       | [link]( https://maxkeytop.gitee.io/)                           | Accepted    |
+| 086  | ROS                     | ROS                             | [link]( http://ros.org/)                                        | Accepted    |
+| 087  | ...                     | ...                | ...         | ...    |
 
 
 
