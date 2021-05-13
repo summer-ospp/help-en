@@ -85,7 +85,11 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 077  | OpenKruise              | OpenKruise                      | [link]( https://github.com/openkruise/kruise)                  | Accepted    |
 | 078  | Apache Dubbo            | Apache Dubbo                    | [link]( https://dubbo.apache.org/zh/)                          | Accepted    |
 | 079  | Apollo                  | Apollo                          | [link]( https://www.apolloconfig.com/#/)                       | Accepted    |
-| 080  | ...                     | ...                | ...         | ...    |
+| 080  | Nacos                   | Nacos                           | [link]( https://nacos.io/en-us/)                               | Accepted    |
+| 081  | Project C               | Project C                       | [link]( https://gitlab.com/alfredchen/projectc)                | Accepted    |
+| 082  | JustAuth                | JustAuth                        | [link]( https://justauth.wiki)                                 | Accepted    |
+| 083  | ...                     | ...                | ...         | ...    |
+
 
 
 
