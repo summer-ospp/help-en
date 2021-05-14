@@ -93,7 +93,14 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 085  | MaxKey                  | MaxKey社区                       | [link]( https://maxkeytop.gitee.io/)                           | Accepted    |
 | 086  | ROS                     | ROS                             | [link]( https://ros.org/)                                       | Accepted    |
 | 087  | TensorBase              | TensorBase                      | [link]( https://github.com/tensorbase/tensorbase)               | Accepted    |
-| 088  | ...                     | ...                | ...         | ...    |
+| 088  | Joomla!                 | Joomla!                         | [link]( https://www.joomla.org/)                                | 审核通过    |
+| 089  | NGINX                   | NGINX开源社区                    | [link]( https://www.nginx.org.cn/)                              | 审核通过    |
+| 090  | ChaosBlade              | ChaosBlade                      | [link]( https://chaosblade.io/)                                  | 审核通过    |
+| 091  | NoneBot                 | NoneBot                         | [link]( https://github.com/nonebot)                              | 审核通过    |
+| 092  | KubeVela                | KubeVela                        | [link]( https://kubevela.io)                                     | 审核通过    |
+| 093  | mica                    | mica                            | [link]( https://wiki.dreamlu.net)                                | 审核通过    |
+| 094  | The Turing Way          | The Turing Way                  | [link]( https://github.com/alan-turing-institute/the-turing-way)  | 审核通过    |
+| 095  | ...                     | ...                | ...         | ...    |
 
 
 
