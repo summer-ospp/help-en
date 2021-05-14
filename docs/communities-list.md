@@ -100,7 +100,9 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 092  | KubeVela                | KubeVela                        | [link]( https://kubevela.io)                                     | Accepted    |
 | 093  | mica                    | mica                            | [link]( https://wiki.dreamlu.net)                                | Accepted    |
 | 094  | The Turing Way          | The Turing Way                  | [link]( https://github.com/alan-turing-institute/the-turing-way)  | Accepted    |
-| 095  | ...                     | ...                | ...         | ...    |
+| 095  | OpenYurt                | OpenYurt                        | [link]( https://github.com/openyurtio/openyurt)                   | Accepted    |
+| 096  | LibreOffice             | LibreOffice                     | [link]( https://www.libreoffice.org/)                             | Accepted    |
+| 097  | ...                     | ...                | ...         | ...    |
 
 
 
