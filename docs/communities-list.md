@@ -102,7 +102,10 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 094  | The Turing Way          | The Turing Way                  | [link]( https://github.com/alan-turing-institute/the-turing-way)  | Accepted    |
 | 095  | OpenYurt                | OpenYurt                        | [link]( https://github.com/openyurtio/openyurt)                   | Accepted    |
 | 096  | LibreOffice             | LibreOffice                     | [link]( https://www.libreoffice.org/)                             | Accepted    |
-| 097  | ...                     | ...                | ...         | ...    |
+| 097  | openSUSE                | openSUSE                        | [link]( https://www.opensuse.org/)                                | Accepted    |
+| 098  | SIMD Everywhere         | SIMD Everywhere                 | [link]( https://github.com/simd-everywhere/simde)                 | Accepted    |
+| 099  | Seata                   | Seata                           | [link]( https://seata.io/zh-cn/)                                  | Accepted    |
+| 100  | ...                     | ...                | ...         | ...    |
 
 
 
