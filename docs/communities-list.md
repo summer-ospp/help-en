@@ -105,7 +105,8 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 097  | openSUSE                | openSUSE                        | [link]( https://www.opensuse.org/)                                | Accepted    |
 | 098  | SIMD Everywhere         | SIMD Everywhere                 | [link]( https://github.com/simd-everywhere/simde)                 | Accepted    |
 | 099  | Seata                   | Seata                           | [link]( https://seata.io/zh-cn/)                                  | Accepted    |
-| 100  | ...                     | ...                | ...         | ...    |
+| 100  | OpenMS                  | OpenMS                          | [link]( https://www.openms.org)                                           | Accepted    |
+| 101  | ...                     | ...                | ...         | ...    |
 
 
 
