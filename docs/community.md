@@ -20,11 +20,6 @@ Regarding the open source community focusing on promoting open source, welcome t
  
 - The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks. 
 
-
-## What kind of projects are supported
-
-"Summer 2021" program gives priority to supporting development projects, while taking into account all kinds of projects conducive to community development, such as knowledge-based open-source projects such as the Sinicization of technical documents, and the total proportion of non development projects supported will not exceed 20%. Non development open source projects need to adopt [recommended Open Knowledge License](#_10).
-
 ## Whether the project whose license is not approved by OSI will have change to be accepted
 
 Yes, open and shared licenses could be accepted. The licenses in OSI list and recommended Open Knowledge License is suggested.
@@ -68,7 +63,8 @@ After informing the Organizing Committee of the link address of the "summer 2021
 General requirements for funded projects:
 
 1. The open source software corresponding to the development project adopts [OSI organization certified open source license](https://opensource.org/licenses)
-2. The repository corresponding to the open knowledge project adopts [recommended Open Knowledge License](community.md#_10)
+2. The repository corresponding to the open knowledge project adopts [recommended Open Knowledge License](community.md#_10)、
+3. It is suggested that the projects that have been open source and open for more than half a year will be supported.
 
 The organizing committee will evaluate whether the project will be supported or not according to the application of the students.
 
