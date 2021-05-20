@@ -196,14 +196,18 @@ Students can choose the programming language according to the needs of community
 
     i. The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
     
-    ii. The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student:
+    ii. The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student on the basis of requirements of State Taxation Administration of The People's Republic of China:
     
      - Payee’s Bank Name
      - Payee’s Bank Address
      - Bank Account No.
      - Swiftcode
-     - First Name/Last Name
+     - Full Name
      - Address
+     - Passport No.
+     - Gender
+     - Nationality
+     - Date of Birth
   
     *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.*
 
