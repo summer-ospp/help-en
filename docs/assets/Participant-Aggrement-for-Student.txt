@@ -1,0 +1,99 @@
+## Summer 2021 of Open Source Promotion Plan
+
+## STUDENT PARTICIPANT AGREEMENT
+
+The words "**include**" and "**including**" as used in this Agreement mean “including but not limited to.
+
+1. Representations and Warranties. You represent and warrant that:
+
+1.1 you are eligible, as described in the Program Rules, to participate in the Program as a Student, aged over 18 and with a valid student ID and ID card;
+
+1.2 the information you provide about yourself during registration and in subsequent communications with Organizers is truthful and accurate;
+
+1.3 you own all rights in your Submissions; and
+
+1.4 your Submissions:
+
+(a)  are original;
+
+(b)  are not malicious, defamatory, libelous, pornographic, or obscene;
+
+(c)  do not violate any applicable laws; and
+
+(d)  do not violate any rights of any other person or entity or any obligation you may have with them.
+
+2. Submissions.
+
+2.1 **“Submissions”** means any materials you submit to us in connection with the Program, including Project Submissions and Evaluations.
+
+2.2 Ownership. You retain all ownership rights you had in your Submissions before submitting them.
+
+2.3 License. You grant Organizers a non-exclusive, worldwide, perpetual, irrevocable, free license (with right to sublicense) to reproduce, prepare derivative works of, distribute, perform, display, and otherwise use your Submissions for the purpose of administering the Program and promoting Summer 2021 of Open Source Promotion Plan .
+
+3. Privacy.
+
+3.1 Organizers will process the personal information provided during registration and in any subsequent communications to administer the Program (including verifying eligibility to participate in the Program, running the Program, and sending notifications regarding the Program).
+
+3.2 Organizers will also use aggregated, non-personally identifiable information for statistical purposes.
+
+3.3 The display name that Participants create during registration will be displayed publicly on the Program Website and any archives of the Program Website, and will be shared with Organizations for the purpose of communicating with the Participants to answer their questions and reviewing Student proposals and work.
+
+3.4 Student’s Project Submissions and contact information (email address and display name) will be shared with the Organizations (including Members) to administer the Program.
+
+3.5 Organizers may publicize your participation in the Program and the results of the Program, including announcements of accepted Project Proposals, the text of accepted Project Proposals, and the resulting code from your work on the Project. Organizers may display your information, including your display name, Project abstract, and Final Project Materials, on Organizers-run websites, including ISCAS Official Website, Intelligent Software Research Center Official Website, openEuler Community Official Website and the Program Website.
+
+3.6 Participants can access, update, remove and restrict the processing of their personal information in their Program profile during the Program Period. If you would like to edit such information after the Program has concluded, object to the processing of the information, or export it to another service, you may write to Organizers (Official Website, E-mail, WeChat Official Accounts).
+
+4. Indemnities.
+
+You will indemnify Organizers and its affiliates, directors, officers, and employees against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent arising from:
+
+4.1 your acts or omissions related to applying for and participating in the Program, and
+
+4.2 your Submissions violating any rights of any other person or entity or any obligation you may have with them.
+
+5. Limitation of Liability.
+
+5.1 Liability. IN THIS SECTION (LIMITATION OF LIABILITY), “LIABILITY” MEANS ANY LIABILITY, WHETHER UNDER CONTRACT, TORT, OR OTHERWISE, INCLUDING FOR NEGLIGENCE.
+
+5.2 Limitations. LIABILITY UNDER THIS AGREEMENT IS LIMITED TO DIRECT DAMAGES, WHICH WILL NOT EXCEED CNY¥6,000 IN AGGREGATE.
+
+5.3 Exceptions to Limitations. NOTHING IN THIS AGREEMENT EXCLUDES OR LIMITS OUR LIABILITY FOR MATTERS FOR WHICH LIABILITY CANNOT BE LIMITED UNDER APPLICABLE LAW.
+
+6. General.
+
+6.1 Stipends. Organizers are not required to pay any stipends to you if you breach this Agreement.
+
+6.2 Not an Offer or Contract of Employment
+
+(a)  You acknowledge that your participation in the Program is voluntary.
+
+(b)  You acknowledge that no confidential, fiduciary, agency or other relationship or implied-in-fact contract now exists between you and the Organizations and that no such relationship is established by your Submissions to the Program.
+
+(c)  You understand and agree that nothing in this Agreement may be construed as an offer or contract of employment with any Organization.
+
+6.3 Organizations’ Affiliates, Consultants, and Contractors. Organizations may use its affiliates, consultants, and contractors in connection with the performance of its obligations and exercise of its rights under this Agreement.
+
+6.4 Governing Law. ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE PROGRAM WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING CALIFORNIA'S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
+
+6.5 Assignment. You may not assign this Agreement or any part of it without Organizations’ prior written consent. Organizations may assign this Agreement or any part of it upon notification, which may be posted on the Program Website or sent to the contact information you provided upon registration.
+
+6.6 No Waiver. Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.
+
+6.7 No Agency. This Agreement does not create any agency, partnership, or joint venture between the parties.
+
+6.8 No Third-Party Beneficiaries. This Agreement does not confer any benefits on any third party unless it expressly states that it does.
+
+6.9 Amendments. Except as set forth in the Program Rules, any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
+
+6.10 Entire Agreement. This Agreement sets out all terms agreed between the parties and supersedes all other agreements between the parties relating to its subject matter. In entering into this Agreement neither party has relied on, and neither party will have any right or remedy based on, any statement, representation or warranty (whether made negligently or innocently), except those expressly set out in this Agreement.
+
+6.11 Severability. If any term (or part of a term) of this Agreement is invalid, illegal or unenforceable, the rest of the Agreement will remain in effect.
+
+7. Translations. In the event of any discrepancy between the Chinese version of this Agreement and a translated version, the Chinese version will govern.
+
+8. Payment rules
+
+8.1 50% of the project bonus will be paid after passing the mid-term assessment and 50% of the project bonus will be paid after passing the final assessment.
+
+8.2 The bonus will be paid to the personal account designated by the participant of this activity and the person signing this agreement.
