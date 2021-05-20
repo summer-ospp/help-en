@@ -1,5 +1,7 @@
 # Mentor Guides
 
+Please see [Participant Aggrement for Mentor](./assets/Participant-Aggrement-for-Mentor.txt)
+
 ## How to become a mentor
 
   The mentor of the project is recommended by the community. Each mentor could guide up to three projects in `Summer 2021`.
@@ -40,18 +42,7 @@
 
       The bonus of mentors' bonus will be paid after the students passed final project evaluation. 
 
-  3. How to pay the mentors’ bonus?
-
-  The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
-
-  - Name
-  - ID number
-  - Bank account and branch information
-  - Contact mobile number: 
-
-  **Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.**
-
-  4. How to pay the foreign mentors’ bonus?
+  3. How to pay the foreign mentors’ bonus?
 
     - The foreign mentor's bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
 
