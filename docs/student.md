@@ -178,17 +178,8 @@ Students can choose the programming language according to the needs of community
 
     Students who pass the mid-term assessment will receive 50% of the project bonus first, the remaining 50% bonus will be paid after the students pass the final project evaluation. Accordingly, the student will not receive the rest bonus if he/she fails the final evaluation.
 
-3. How to pay the students’ bonus?
 
-    The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor:
-
-        - Name
-        - Passport No.
-        - Bank account and branch information
-
-    *Note: the organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.*
-
-4. How to pay the foreign students’ bonus?
+3. How to pay the foreign students’ bonus?
 
     In case of disputes or legal consequences, the organizing committee will not bear any liability for breach of contract or any other legal liability.
 
