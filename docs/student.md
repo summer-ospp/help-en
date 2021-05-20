@@ -1,5 +1,7 @@
 # Student Guide
 
+Please see [Participant Aggrement for Student](./assets/Participant-Aggrement-for-Student.txt)
+
 ## What kind of support can the selected students gain in the program
 
 - Professional guidance of community mentors.
