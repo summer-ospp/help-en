@@ -113,7 +113,8 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 105  | Sureness                | Sureness社区                    | [link]( https://su.usthe.com/)                                    | Accepted    |
 | 106  | DTP                     | DTP                             | [link]( https://star-tsinghua.github.io/DTP/)                     | Accepted    |
 | 107  | Spring Cloud Alibaba    | Spring Cloud Alibaba            | [link]( https://github.com/alibaba/spring-cloud-alibaba)           | Accepted    |
-
+| 108  | OpenCT                  | 北京师范大学 OpenCT 社区         | [link]( https://open-ct.com/landing)                               | Accepted    |
+| 109  | KubeDL                  | KubeDL                          | [link]( https://kubedl.io/)                                        | Accepted    |
 
 
 
