@@ -1,5 +1,9 @@
 # Mentor Guides
 
+Please see [Participant Aggrement for Mentor](./assets/Participant-Aggrement-for-Mentor.txt). Participating this program represents you acknowledge and agree this aggrement.
+
+After the announcement of selected students, you need to sign manually, scan and upload this aggrement: [Participant Aggrement for Student-Signature](./assets/SIGNATURE-MENTOR-PARTICIPANT-AGREEMENT.pdf)
+
 ## How to become a mentor
 
   The mentor of the project is recommended by the community. Each mentor could guide up to three projects in `Summer 2021`.
