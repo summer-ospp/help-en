@@ -1,5 +1,9 @@
 # Student Guide
 
+Please see [Participant Aggrement for Student](./assets/Participant-Aggrement-for-Student.txt). Participating this program represents you acknowledge and agree this aggrement.
+
+After the announcement of selected students, you need to sign manually, scan and upload this aggrement: [Participant Aggrement for Student-Signature](./assets/SIGNATURE-MENTOR-PARTICIPANT-AGREEMENT. pdf)
+
 ## What kind of support can the selected students gain in the program
 
 - Professional guidance of community mentors.
