@@ -38,7 +38,9 @@ After the announcement of selected students, you need to sign manually, scan and
 
   1. How much bonus amount will I receive?
 
-      Each project will be awarded RMB 5,000 before tax, and each mentor is responsible for up to 3 projects, which means the bonus is up to RMB 15,000 before tax.
+    - Each project will be awarded RMB 5,000 before tax, and each mentor is responsible for up to 3 projects, which means the bonus is up to RMB 15,000 before tax.
+    
+    - The bonus will be paid on the basis of the number of project and will be transferred to the bank account of main mentor.
 
   2. When will the bonus be paid?
 
