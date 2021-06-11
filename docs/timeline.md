@@ -14,8 +14,8 @@
 | Aug 30th            | Announcement of the mid-term results |
 | Aug 16th - Sep 30th | The 2nd phase of developing project  |
 | Oct 1st - Oct 14th  | Mentors review final-term report     |
-| Oct 22th            | Announcement of the final results    |
-| Early November      | Announcement of excellent projects   |
+| Oct 22th            | Announcement of the final results     |
+| Early November      | Announcement of excellent projects    |
 
 Tips: All students who pass final assessment will receive full awards of his/her project, no matter whether the project will be rated as excellent.
 
