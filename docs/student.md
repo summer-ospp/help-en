@@ -192,16 +192,19 @@ Students can choose the programming language according to the needs of community
     
     ii. The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student on the basis of the requirements of State Taxation Administration of The People's Republic of China:
     
-     - Payee’s Bank Name
-     - Payee’s Bank Address
-     - Bank Account No.
-     - Swiftcode
-     - Full Name
-     - Address
-     - Passport No.
-     - Gender
-     - Nationality
-     - Date of Birth
+- Payee's Full Name
+
+- Mobile Number
+
+- Payee's Address
+
+- Payee's Bank Name and Address
+
+- Payee's Bank Account
+
+- Swiftcode
+
+- Payee's Address
   
     *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.*
 
