@@ -36,7 +36,7 @@ Before the deadline (May 20th, 2021) of application for community, this list wil
 | 028  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | Accepted             |
 | 029  | Tiny Lab                | 泰晓科技                   | [link](http://tinylab.org)                             | Accepted             |
 | 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://aosc.io)                        | Accepted             |
-| 031  | GoodERP                 | GoodERP开源俱乐部          | [link](https://gooderp.org)                        | Accepted             |
+| 031  | GoodERP                 | GoodERP开源俱乐部          | [link](http://www.gooderp.org/)                        | Accepted             |
 | 032  | EduOJ                 | EduOJ          | [link](https://github.com/EduOJ)                        | Accepted    |
 | 033  | OneFlow                 | OneFlow          | [link](https://github.com/Oneflow-Inc)                        | Accepted    |
 | 034  | China PostgreSQL association             | 中国开源软件推进联盟PostgreSQL分会       | [link](https://www.postgresqlchina.com/)               | Accepted    |
