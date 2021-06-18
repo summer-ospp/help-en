@@ -52,19 +52,19 @@ After the announcement of selected students, you need to sign manually, scan and
 
     - The mentors’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the mentor on the basis of the requirements of State Taxation Administration of The People's Republic of China::
 
-    - Payee's Full Name
-   
-    - Mobile Number
+       - Payee's Full Name
+    
+       - Mobile Number
+       
+       - Payee's Address
 
-    - Payee's Address
+       - Payee's Bank Name and Address
 
-    - Payee's Bank Name and Address
+       - Payee's Account
 
-    - Payee's Bank Account
+       - Swiftcode
 
-    - Swiftcode
-
-    - Payee's Address
+       - Payee's Nationality
     
     
   **Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.**

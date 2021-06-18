@@ -204,7 +204,7 @@ Students can choose the programming language according to the needs of community
 
       - Swiftcode
 
-      - Payee's Address
+      - Payee's Nationality
   
     *Note: the above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.*
 
