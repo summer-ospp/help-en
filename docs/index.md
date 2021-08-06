@@ -110,7 +110,7 @@ No, whether it is merged into the main line is only used as a reference for the 
 ## Where should the mid-term assessment codes and reports be submitted respectively
 
 - Need to submit the latest complete code of the project to the warehouse;
-- The report needs to be submitted to the corresponding issue (created by the Organizing Committee);
+- The report needs to be submitted to [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/summer/login)
 
 ## What is supposed to do after finishing the mid-term task
 
