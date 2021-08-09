@@ -2,7 +2,6 @@
 
 Please see [Guidelines for Open Source Promotion Plan Management System](./assets/Student-Guideline-for-Open-Source-Promotion-Plan-Management-System.pdf)
 
-After the announcement of selected students, you need to sign manually, scan and upload this aggrement: [Participant Aggrement for Student-Signature](./assets/STUDENT-PARTICIPANT-AGREEMENT.pdf)
 
 ## What kind of support can the selected students gain in the program
 
