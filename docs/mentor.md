@@ -1,7 +1,5 @@
 # Mentor Guides
 
-Please see [Participant Aggrement for Mentor](./assets/Participant-Aggrement-for-Mentor.txt). Participating this program represents you acknowledge and agree this aggrement.
-
 After the announcement of selected students, you need to sign manually, scan and upload this aggrement: [Participant Aggrement for Mentor-Signature](./assets/MENTOR-PARTICIPANT-AGREEMENT.pdf)
 
 ## How to become a mentor
