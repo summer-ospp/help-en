@@ -106,7 +106,7 @@ The organizing committee will not support the unaccepted student to develop the 
 
   - The code repository used by students in the process of project development can be communicated and determined by the community. It can be stored in the open repository of the designated platform in the community, or in the repository provided by the organizing committee. If students only use the organizing committee repository to submit milestone achievements, they need to publicize the actual repository address in the wiki page;
 
-  - Students need to submit the complete project code to the organizing committee platform respository before the mid-term submission deadline (this requirement is mainly for students whose output code is not stored in the organizing committee platform), and submit the report to t[Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/summer/login)
+  - Students need to submit the complete project code to the organizing committee platform respository before the mid-term submission deadline (this requirement is mainly for students whose output code is not stored in the organizing committee platform), and submit the report to [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/summer/login)
 
 ##### Mid-term review 
 
