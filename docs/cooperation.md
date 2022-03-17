@@ -3,7 +3,7 @@
 
 ## How to become a cooperative partner
 
-As long as you support to promote this activity, whether you are companies, scientific research institutes, universities or other organizations, welcome to be our partners. In the meantime, we hope to establish a long-term cooperative relationship to promote the development of open source ecology.
+As long as you support to promote this program, whether you are companies, scientific research institutes, universities or other organizations, welcome to be our partners. In the meantime, we hope to establish a long-term cooperative relationship to promote the development of open source ecology.
 
 ## How to apply for cooperation partner
 
