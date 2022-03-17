@@ -88,7 +88,7 @@ Summer of Open Source gives priority to supporting development projects, while t
 
 ## What does the community need to do after signing up for the program
 
-Please refer to the [community guide](community.m) for detailed description of community participation program.
+Please refer to the [community guide](community.md) for detailed description of community participation program.
 
 ## Whether the mentor can assist the student in development process
 
