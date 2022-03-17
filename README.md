@@ -1,12 +1,12 @@
-# Help | Summer 2021 of Open Source Promotion Plan
+# Help | Open Source Promotion Plan
 
 English | [简体中文](https://github.com/summer-ospp/help/)
 
-Welcome to Summer 2021 of Open Source Promotion Plan
+Welcome to Open Source Promotion Plan
 
 ## Overview
 
-Summer 2021 of Open Source Promotion Plan (hereinafter referred to as summer 2021) is a summer activity for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community.
+Open Source Promotion Plan is a summer program for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community.
 
 Official Website: <https://summer.iscas.ac.cn/>.
 
