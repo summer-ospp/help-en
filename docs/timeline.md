@@ -1,21 +1,24 @@
 # Calendar of Events
 
-## Summer 2021 of Open Souce Promotion Plan Timeline
+## Open Souce Promotion Plan Timeline
 
- **The default timezone is ‘GMT+8’*
-
-| Date                  | Event                                                            |
-| --------------------- | ----------------------------------------------------------------- |
-| May 24th - Jun 13th | Students submit application          |
-| Jun 14th - Jun 21th | Mentors review the applications      |
-| Jun 30th            | Accepted student projects announced  |
-| Jul 1st - Aug 15th  | The 1st phase of developing project  |
-| Aug 16th - Aug 22th | Mentors review mid-term report       |
-| Aug 30th            | Announcement of the mid-term results |
-| Aug 16th - Sep 30th | The 2nd phase of developing project  |
-| Oct 1st - Oct 14th  | Mentors review final-term report     |
-| Oct 22th            | Announcement of the final results     |
-| Early November      | Announcement of excellent projects    |
+ **The default timezone is ‘UTC+8’*
+ 
+ 
+| Date           | Event                                  |
+| -------------- | -------------------------------------- |
+| 3/20-4/5       | Community Registration                 |
+| 4/6-4/13       | Project Number Communication           |
+| 4/13-4/30      | Project Release and Committee Review   |
+| 4/13-5/20      | Communication                          |
+| 5/21-6/4       | Students submit Application            |
+| 6/5-6/12       | Project Application Review (Mentor)    |
+| 6/13-6/15      | Project Application Review (Committee) |
+| 6/16           | Accepted Student Projects Announced    |
+| 6/17-6/30      | Project Warm-up                        |
+| 7/1-9/30       | Development                            |
+| 10/1-10/31     | Final Term Review                      |
+| Early November | Announcement of the Final Results      |
 
 Tips: All students who pass final assessment will receive full awards of his/her project, no matter whether the project will be rated as excellent.
 
