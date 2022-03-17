@@ -1,10 +1,10 @@
-# The Role in Summer 2021
+# The Role in Summer of Open Source
 
 The main roles of the participants are students, communities and mentors.
 
 ## Community
 
-The community provides a list and description of the project, and arranges for a mentor to communicate the program with the applicant and select one of the applicants to undertake the project. During the three-month development period, the mentor guides the students in developing the corresponding projects.
+The community provides a list and description of the project, and arranges for a mentor to communicate the program with applicants and select one of the applicants to undertake the project. During the three-month development period, the mentor guides the students in developing the corresponding projects.
 
 See [Community Guide](community.md) for details.
 
@@ -18,12 +18,9 @@ See [Student Guide](student.md) for details.
 
 For each project, the community assigns a mentor to work with the students to develop appropriate plan and guide the students to complete the task as planned.
 
-See [Mentor's Guide](mentor.md) for details.
+See [Mentor Guide](mentor.md) for details.
 
 ## Organizing Committee
 
 The organizing committee is composed of staff arranged by the organizer and is responsible for the organization and management of the activities.
 
-## Steering Committee
-
-The organizer invites experts in the field to become members of the steering committee, which guides the work of the organization committee and is responsible for the evaluation and awarding of the final project.
