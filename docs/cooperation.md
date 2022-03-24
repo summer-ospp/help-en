@@ -6,7 +6,7 @@ As long as you support to promote this activity, whether you are companies, rese
 
 ## How to apply for cooperation partner
 
-Please send the following information to summer@iscas.ac.cn. The organizing committee of the event will arrange people to connect with the partners and discuss the follow-up cooperation.
+Please send the following information to org@summer-ospp.ac.cn. The organizing committee of the event will arrange people to connect with the partners and discuss the follow-up cooperation.
 
 - Name of the partner:
 - Contact name:
@@ -14,5 +14,5 @@ Please send the following information to summer@iscas.ac.cn. The organizing comm
 
 ## What do cooperation partners need to do
 
-1. Promoting the program via the website of your organization, the official account, the circle of friends, and the WeChat group, which based on the official website information. The Official Website: https://summer.iscas.ac.cn
+1. Promoting the program via the website of your organization, the official account, the circle of friends, and the WeChat group, which based on the official website information. The Official Website: [https://summer-ospp.ac.cn](https://summer-ospp.ac.cn)
 2. Other matters to promote this program.
