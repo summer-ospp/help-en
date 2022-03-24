@@ -103,7 +103,7 @@ Open Source Promotion Plan gives priority to supporting development projects, wh
 
 ## What does the community need to do after signing up for the program
 
-Please refer to the [community guide](community.m) for detailed description of community participation program.
+Please refer to the [community guide](community.md) for detailed description of community participation program.
 
 
 
