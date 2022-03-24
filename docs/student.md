@@ -22,7 +22,7 @@ Students are required to download, sign, scan and upload a signed version of the
 
 - Must be at least 18 years old at time of registration.
 
-- Must be at least 18 years old at time of registration.
+- The students who will graduate in this summer can submit the project application as long as your student ID card is valid at the time of application submission.
 
 - Overseas students can provide the Admission Letter/student ID Card/Certificate of Enrollment.
 
