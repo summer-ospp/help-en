@@ -1,6 +1,6 @@
 # Mentor Guide
 
-Mentors are required to download, sign, scan and upload a signed version of the [Mentor Participant Agreement](./assets/MENTOR-PARTICIPANT-AGREEMENT.pdf) in the system after the student has completed the project and before the bonus is paid.
+Mentors are required to download, sign, scan and upload a signed version of the [Mentor Participant Agreement](./assets/SIGNATURE-MENTOR-PARTICIPANT-AGREEMENT.pdf) in the system after the student has completed the project and before the bonus is paid.
 
 
 
