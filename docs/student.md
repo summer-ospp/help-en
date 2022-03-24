@@ -14,11 +14,9 @@ Students are required to download, sign, scan and upload a signed version of the
 
 - Receiving gifts, bonus, certificate from the organizing committee.
 
-  i.  All the selected students will receive a gift package from the organizing committee.
+  i. Students who pass the final term assessment will receive the project bonus, certificate of completion and a gift package from the organizing committee.
 
-  ii. Students who pass the final term assessment will receive the project bonus.
-
-  iii.  Students who pass the mid-term assessment will obtain the certificate of completion or outstanding student certificate.
+  ii.  Students who pass the final term assessment will obtain the certificate of completion or outstanding student certificate.
 
 ## Student Eligibility
 
@@ -39,7 +37,7 @@ Students are required to download, sign, scan and upload a signed version of the
 | 1         | 04/21-05/20    | Pick the projects that you are interested in<br/>Communicate with mentor and prepare the application materials. | You can Sign up from April 21st                              |
 | 2         | 05/21-06/04    | Submit the Project Application                               |                                                              |
 | 3         | 06/15          | Accepted student projects announced<br/>Check the official website | The accepted students will receive Gitlab account            |
-| 4         | 06/16-06/30    | Project warm-up period                                       |                                                              |
+| 4         | 06/16-06/30    | Project warm-up period                                       | The accepted students can further communicate with the community and mentor about the project and warm up for project development.                                                             |
 | 5         | 07/01-09/30    | Project developing period                                    |                                                              |
 | 6         | Early November | Check the final-term result                                  | Students who passed the review will receive bonus and certificate |
 | 7         | Mid November   | Announcement of excellent students                           |                                                              |
