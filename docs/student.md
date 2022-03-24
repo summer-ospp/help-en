@@ -16,9 +16,9 @@ Students are required to download, sign, scan and upload a signed version of the
 
   i.  All the selected students will receive a gift package from the organizing committee.
 
-  ii. Students who pass the final term assessment will receive the project bonus.
+  ii. Students who pass the final assessment will receive the project bonus.
 
-  iii.  Students who pass the mid-term assessment will obtain the certificate of completion or outstanding student certificate.
+  iii.  Students who pass the final assessment will obtain the certificate of completion or outstanding student certificate.
 
 ## Student Eligibility
 
