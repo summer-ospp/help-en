@@ -1,4 +1,4 @@
-# The Role in Summer of Open Source
+# The Role in Open Source Promotion Plan
 
 The main roles of the participants are students, communities and mentors.
 
@@ -23,4 +23,3 @@ See [Mentor Guide](mentor.md) for details.
 ## Organizing Committee
 
 The organizing committee is composed of staff arranged by the organizer and is responsible for the organization and management of the activities.
-
