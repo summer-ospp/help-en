@@ -2,7 +2,7 @@
 
 # Calendar of Events
 
-## Open Souce Promotion Plan Timeline
+## Open Source Promotion Plan Timeline
 
 **The default timezone is ‘UTC+8’*
 
