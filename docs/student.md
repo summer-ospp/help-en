@@ -189,11 +189,12 @@ Students can choose the programming language according to the needs of community
 
    - Payee's Full Name
    - Gender
+   - ID Card Number
    - Nationality
-   - Passport Number
    - Date of Birth
-   - Payee's Bank Name and Address
+   - Telephone Number
    - Payee's Address
+   - Payee's Bank Name and Address
    - Payee's Bank Account
    - Swiftcode
 
