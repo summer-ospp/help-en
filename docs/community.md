@@ -89,10 +89,6 @@ The difficulty of the project is divided into normal and advanced levels, and th
 
   - Functional tasks, such as adding one or several important features to the community open source project, etc.
 
-- For example:
-
-  - ***Pick 3 examples each for normal and advanced level（Links，src:优秀学生难度池子）***
-
 
 
 ## Recommended Open Knowledge License
