@@ -21,7 +21,7 @@ Open Source Promotion Plan is a summer program of  Open Source Software Supply C
 
 Students can choose the projects they are interested in to apply, and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive the bonus and certificate of "Open Source Promotion Plan" .
 
-The website of Summer 2021: https://summer.iscas.ac.cn
+The website of Summer 2021: https://summer-ospp.ac.cn/2021/
 
 
 
