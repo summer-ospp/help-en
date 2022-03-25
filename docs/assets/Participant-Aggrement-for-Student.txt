@@ -1,4 +1,4 @@
-## Summer 2021 of Open Source Promotion Plan
+## Open Source Promotion Plan
 
 ## STUDENT PARTICIPANT AGREEMENT
 
@@ -28,7 +28,7 @@ The words "**include**" and "**including**" as used in this Agreement mean “in
 
 2.2 Ownership. You retain all ownership rights you had in your Submissions before submitting them.
 
-2.3 License. You grant Organizers a non-exclusive, worldwide, perpetual, irrevocable, free license (with right to sublicense) to reproduce, prepare derivative works of, distribute, perform, display, and otherwise use your Submissions for the purpose of administering the Program and promoting Summer 2021 of Open Source Promotion Plan .
+2.3 License. You grant Organizers a non-exclusive, worldwide, perpetual, irrevocable, free license (with right to sublicense) to reproduce, prepare derivative works of, distribute, perform, display, and otherwise use your Submissions for the purpose of administering the Program and promoting Open Source Promotion Plan .
 
 3. Privacy.
 
@@ -94,6 +94,6 @@ You will indemnify Organizers and its affiliates, directors, officers, and emplo
 
 8. Payment rules
 
-8.1 50% of the project bonus will be paid after passing the mid-term assessment and 50% of the project bonus will be paid after passing the final assessment.
+8.1 100% of the project bonus will be paid after passing the final assessment.
 
 8.2 The bonus will be paid to the personal account designated by the participant of this activity and the person signing this agreement.
