@@ -47,11 +47,10 @@ The mentor cannot help students to develop the project by coding directly or hel
 
     - Payee's Full Name
     - Gender
-    - Nationality
-    - Passport Number
+    - Payee's Nationality
+    - ID Card Number
     - Date of Birth
     - Payee's Bank Name and Address
-    - Payee's Address
     - Payee's Bank Account
     - Swiftcode
 
