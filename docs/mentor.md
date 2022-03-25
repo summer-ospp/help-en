@@ -30,6 +30,26 @@ The mentor cannot help students to develop the project by coding directly or hel
 
 
 
+## Assessment Criteria
+
+The community organizes its members (mentors and other community developers, the number of members is decided by the community) to give review opinions with following aspects and submit the review opinions in the system.
+
+   - Project undertaken by student need to be merged and submitted as PR to community’s project repository.
+
+   - Whether the project outputs meet the goals and requirements of the project.
+
+   - The contributions made to the community.
+
+   - The evaluation of the operation of project outputs.
+
+   - The completeness of project-related documentation.
+
+   - For research and development projects, whether the final report provides the corresponding test to confirm the results.
+
+   - Any other aspects that the community and mentor deem necessary to assess.
+
+
+
 ## Instructions about mentors' bonus
 
 1. How much bonus amount will I receive?
@@ -58,7 +78,7 @@ The mentor cannot help students to develop the project by coding directly or hel
 
    The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (Unit: CNY):
 
-    - Below RMB 3,750, 3% tax rate (80% * 3%)
+   - Below RMB 3,750, 3% tax rate (80% * 3%)
    - Below RMB 15,000, 10% tax rate (bonus 80% * 10% - 210)
    - Below RMB 31,250, 20% tax rate is (bonus 80% * 20% - 1410)
 
