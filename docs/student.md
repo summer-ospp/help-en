@@ -97,9 +97,9 @@ Project-Application-Template.pdf ) and prepare the relevant materials according 
   i. Receive the platform account and help provided by the organizing committee.
 
   ii. By default, the Organizing Committee establishes a project repository for each student, in which the code repository and Wiki pages are publicly accessible, and the mentors and students have operation rights. Additionally, the repository contains the following contents:
-
-    - The project repository has the community set license by default;
-    - The wiki page provides the project application with hidden student information by default.
+  
+      - The project repository has the community-set license by default;
+      - The wiki page provides the project application with hidden student information by default.
 
   iii. Students can contact their mentors by email or through the program platform.
 
