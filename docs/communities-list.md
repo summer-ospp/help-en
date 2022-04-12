@@ -66,6 +66,9 @@ Before the deadline (April 15th, 2022) of application for community, this list w
 | 058  | LF Edge eKuiper | https://www.lfedge.org/projects/ekuiper/ |
 | 059  | Joomla | https://www.joomla.org/ |
 | 060  | Project C | https://gitlab.com/alfredchen/projectc |
+| 061  | DatenLord | https://datenlord.github.io/en/home.html |
+| 062  | OI Wiki | https://about.oi-wiki.org/ |
+| 063  | spring-cloud-alibaba | https://github.com/alibaba/spring-cloud-alibaba |
 | … | … | …  |
 
 > Note: Registered communities may not be reviewed because the organizing committee is still reviewing or community information is not completed. If your community did not receive the reply email from the organizing committee for more than five working days, you can send email to official email address org@summer-ospp.ac.cn or community contact mailing list ospp-orgcontacts@googlegroups.com for feedback.
