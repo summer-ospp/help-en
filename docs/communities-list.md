@@ -69,6 +69,19 @@ Before the deadline (April 15th, 2022) of application for community, this list w
 | 061  | DatenLord | https://datenlord.github.io/en/home.html |
 | 062  | OI Wiki | https://about.oi-wiki.org/ |
 | 063  | spring-cloud-alibaba | https://github.com/alibaba/spring-cloud-alibaba |
+| 064  | redis | https://github.com/redis/redis |
+| 065  | UbuntuKylin | https://www.ubuntukylin.com/index-cn.html |
+| 066  | Seata | https://seata.io/zh-cn/ |
+| 067  | Tarantool | https://www.tarantool.io/en/ |
+| 068  | milvus | https://www.milvus.io |
+| 069  | Apache wayang | https://wayang.apache.org/ |
+| 070  | Wechaty | https://wechaty.js.org/ |
+| 071  | OpenDigger | http://www.x-lab.info/open-digger/#/ |
+| 072  | JuiceFS | https://juicefs.com/ |
+| 073  | PaddlePaddle | https://www.paddlepaddle.org.cn/ |
+| 074  | Emacs China | https://emacs-china.org/ |
+| 075  | HybridOS | https://hybridos.fmsoft.cn/ |
+| 076  | MindSpore | https://www.mindspore.cn/ |
 | … | … | …  |
 
 > Note: Registered communities may not be reviewed because the organizing committee is still reviewing or community information is not completed. If your community did not receive the reply email from the organizing committee for more than five working days, you can send email to official email address org@summer-ospp.ac.cn or community contact mailing list ospp-orgcontacts@googlegroups.com for feedback.
