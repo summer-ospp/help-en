@@ -109,4 +109,22 @@
 | 103  | Datafuse Labs | https://github.com/datafuselabs |
 | 104  | matrixone | https://github.com/matrixorigin/matrixone |
 | 105  | Karmada | https://karmada.io/ |
-
+| 106  | RIOS | https://rioslab.org/ |
+| 107  | TDengine | https://www.taosdata.com/ |
+| 108  | Apache Flink | https://flink.apache.org/ |
+| 109  | Cloudpods | https://www.cloudpods.org/zh/ |
+| 110  | xquic | https://github.com/alibaba/xquic |
+| 111  | Buddy Compiler | https://buddy-compiler.github.io/ |
+| 112  | Apache ECharts | https://echarts.apache.org/ |
+| 113  | IEC61131PLCCOMPILER | https://gitee.com/iec61131-plccompiler |
+| 114  | OpenMessaging | https://openmessaging.cloud/ |
+| 115  | EMQX | https://www.emqx.io/zh |
+| 116  | DevStream | https://www.devstream.io/ |
+| 117  | Alluxio | https://www.alluxio.io |
+| 118  | Dromara | https://dromara.org/ |
+| 119  | LUG @ USTC | https://lug.ustc.edu.cn/ |
+| 120  | LCUI | https://lcui.lc-soft.io |
+| 121  | DevLake | https://github.com/merico-dev/lake |
+| 122  | ChaosBlade | https://chaosblade.io/ |
+| 123  | Talent Plan | https://tidb.io/talent-plan |
+| 124  | Element Plus | https://element-plus.org/ |
