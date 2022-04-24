@@ -83,7 +83,7 @@ The difficulty of the project is divided into normal and advanced levels, and th
 
 - Advanced Level： Bonus RMB 12000
 
-  - The advanced level is to optimize the class work, improve the time, reduce the memory occupation, provide performance and so on.
+  - The advanced level is to optimize the class work,  provide performance, reduce the resource occupation and so on.
 
 - Normal Level： Bonus RMB 8000
 
