@@ -96,8 +96,8 @@ Project-Application-Template.pdf ) and prepare the relevant materials according 
 
 ##### DEVELOPING PROJECT
 
-- The code repository used by students in the process of project development can be communicated and determined by the community. It can be stored in the open repository of the designated platform in the community, or in the repository provided by the organizing committee. If students only use the organizing committee repository to submit milestone achievements, they need to publicize the actual repository address in the wiki page;
-- Students need to submit the complete project code to the organizing committee platform repository before the mid-term submission deadline (this requirement is mainly for students whose output code is not stored in the organizing committee platform), and submit the report to [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/).
+- The code repository used by students in the process of project development can be communicated and determined by the community. 
+- Students need to submit the report to [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/).
 - By the end of the project development (i.e. by 9/30) , students need to submit PR to community's repository and submit final report to [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/).
 
 
