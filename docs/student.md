@@ -36,7 +36,7 @@ Students are required to download, sign, scan and upload a signed version of the
 | --------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1         | 04/21-05/20    | Pick the projects that you are interested in<br/>Communicate with mentor and prepare the application materials. | You can Sign up from April 21st                              |
 | 2         | 05/21-06/04    | Submit the Project Application                               |                                                              |
-| 3         | 06/15          | Accepted student projects announced<br/>Check the official website | The accepted students will receive Gitlab account            |
+| 3         | 06/15          | Accepted student projects announced<br/>Check the official website |                                        |
 | 4         | 06/16-06/30    | Project warm-up period                                       | The accepted students can further communicate with the community and mentor about the project and warm up for project development.                                                             |
 | 5         | 07/01-09/30    | Project developing period                                    |                                                              |
 | 6         | Early November | Check the final-term result                                  | Students who passed the review will receive bonus and certificate |
