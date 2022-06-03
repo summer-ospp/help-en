@@ -69,7 +69,7 @@ Students are required to download, sign, scan and upload a signed version of the
 
 ##### PREPARE THE APPLICATION MATERIALS
 
-- Please sign up in [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/) to complete the personal information before June 3, 2022 UTC+8. 
+- Please sign up in [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/) to complete the personal information. 
 - Please see the [Project Application Template](./assets/
 Project-Application-Template.pdf ) and prepare the relevant materials according to the requirements.
 - The quality of the project application is the main criteria for the organizing committee to assess whether the student is passed or not.
