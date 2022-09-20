@@ -131,7 +131,6 @@ Yes, PR merged into the main line is the most important criteria to determine th
 
 1. During the project development process, students should follow the community requirements and submit the code to the community's designated platform;
 2. By the end of the project development (i.e. by 9/30) , students need to submit PR to the required community project repository and submit their final report to Open Source Promotion Plan Management System;
-3. **In addition to submitting the code to the community repository, students need to submit a mirror of the complete project repository to the git repository provided by the organizer, and create a branch named summer2022-student in the git repository based on the community's completed merged branch for checking.**
 
 
 
