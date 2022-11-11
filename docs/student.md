@@ -14,7 +14,7 @@ Students are required to download, sign, scan and upload a signed version of the
 
 - Receiving gifts, bonus, certificate from the organizing committee.
 
-  i. Students who pass the final term assessment will receive the project bonus, certificate of completion and a gift package from the organizing committee.
+  i. Students who pass the final term assessment will receive the project bonus, certificate of completion from the organizing committee.
 
   ii.  Students who pass the final term assessment will obtain the certificate of completion or outstanding student certificate.
 
