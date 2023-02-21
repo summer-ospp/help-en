@@ -1,5 +1,4 @@
 
-
 # Calendar of Events
 
 ## Open Source Promotion Plan Timeline

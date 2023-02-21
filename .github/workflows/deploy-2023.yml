@@ -2,14 +2,14 @@ name: deploy
 
 on:
   push:
-    branches: [ 2022 ]
+    branches: [ 2023 ]
   pull_request:
-    branches: [ 2022 ]
+    branches: [ 2023 ]
 
 env:
-  REGISTRY: swr.ap-southeast-1.myhuaweicloud.com
+  REGISTRY: hub.oepkgs.net
 
-  IMAGE_NAME: summer-ospp/help-en
+  IMAGE_NAME: summer-ospp/help
 
 jobs:
   deploy:
@@ -62,7 +62,7 @@ jobs:
 
       - name: Build and push Docker image
         id: push-metb
-        uses: docker/build-push-action@ad44023a93711e3deb337508980b4b5e9bcdc5dc
+        uses: docker/build-push-action@v4.0.0
         with:
           context: .
           push: ${{ github.event_name != 'pull_request' }}
@@ -83,6 +83,6 @@ jobs:
           script_stop: true
           envs: SHA,IMAGE
           script: |
-            SHA=$SHA;IMAGE=$IMAGE;kubectl set image deployment/summer2022-help-en summer2022-help-en=$IMAGE:$SHA -n summer2022;
+            SHA=$SHA;IMAGE=$IMAGE;kubectl set image deployment/summer2023-help-en summer2023-help-en=$IMAGE:$SHA -n summer2023;
             sleep 20
-            kubectl get pod -n summer2022
+            kubectl get pod -n summer2023

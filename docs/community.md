@@ -1,110 +1,140 @@
-# Community Guide
+**请认真阅读并理解本参与指南****，如有疑问，请联系组委会：org@summer-ospp.ac.cn**
 
-## Which communities can participate
+## **一、这是什么活动**
 
-This program is open, as long as the repository in the open source community adopts [ OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](#_10) and other open and shared licenses are all supported by this program.
+1. 活动介绍（跳转至 热点问题）
+2. 活动流程
 
-For a list of recommended Open Knowledge License supported by this program, please refer to： [Recommended Open Knowledge License](#_10).
+|序号|日期|事项|备注|
+|:----|:----|:----|:----|
+|1|02/28-03/13|社区报名|社区可在点亮计划管理系统中注册账号并填写社区信息|
+|2|03/14-03/20|社区报名审核|报名审核通过的社区会陆续上线官网|
+|3|03/21|完整社区名单公示|    |
+|4|03/25-04/17|社区提交开源之夏项目|项目数量包含两部分：组委会可支持项目数量、社区自愿发布数量，详见“项目发布数量”|
+|5|04/18-04/24|项目审核|审核通过的项目陆续上线官网|
+|6|04/25|完整项目清单公示|    |
+|7|04/25-05/10|学生挑选项目，与导师沟通并准备项目申请材料|04/25 起，学生可在点亮计划管理系统中注册账号并填写个人资料|
+|8|05/11-06/04|学生提交项目申请书|    |
+|9|06/05-06/25|项目申请审核|06/05-06/11 为导师审核阶段<br>06/12-06/18 为社区审核及决策是否赞助限定数量外项目阶段<br>06/19-06/25 为组委会审核阶段及项目赞助协议签订阶段<br>*申请书的质量是审核通过的重要标准|
+|10|06/26|中选公示|学生可在官网和点亮计划管理系统中查看申请结果|
+|11|06/26-06/30|项目开发预热期|中选学生可以与社区及导师进一步就项目进行沟通，明确项目需求、开发方案与时间规划，为项目开发预热|
+|12|07/01-09/30|项目开发|    |
+|13|10/01-10/31|导师结项审核-PR/MR 合并阶段|在此期间，学生开发者依然可以对提交的 PR/MR 进行完善，直至合并|
+|14|11/01-11/07|组委会结项审核-成果审核阶段|    |
+|15|11/08|结项项目公示|学生可在官网和点亮计划管理系统中查看结项结果，成果结项的学生可在系统中上传参与协议并补充银行卡信息。|
+|16|11月|年度优秀学生评选|结项审核结束后由导师和社区推荐|
 
-Regarding the open source community focusing on promoting open source, welcome to contact the organizing committee to negotiate how to promote this program and to conduct the subsequent cooperation.
+## **二、哪些社区可以报名参与**
 
+* 本活动面向开源社区开放报名，只要社区仓库采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [推荐的开放知识协议](https://#_10) ，均可报名参加活动。
+* 本活动支持的开放知识协议列表请参考：[推荐的开放知识协议](https://#_10)。
 
+## **三、参与社区可以获得什么？**
 
-## How does the community sign up
+开源之夏活动作为国内规模最大、举办时间最长的暑期高校开源活动，积累了丰富的经验与资源。活动举办三年以来，获得了广大高校学生与开源社区的认可，在开源领域形成了较大影响力。社区可通过参与开源之夏活动，提升社区曝光率，扩大品牌知名度，同时吸引优秀的高校开发者加入社区，为社区带来新生力量，参与开源社区的生态建设与维护。
 
-- The [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/) has been officially released. From now on, the community can apply for program and release projects in the system.
+## **四、社区参与流程**
 
-- Official Contact E-mail: org@summer-ospp.ac.cn.
+**各阶段流程操作均在点亮计划管理系统内进行*
 
-  Tips: The communities who applied successfully via e-mail still need to register in the system and fill out the information. The following processes, including student project application, mentor selection of students, mid-term review as well as final review, will be operated in the system, which will be released in coming weeks.
+**注：本届活动不提供导师结项奖金*
 
+### **1. 社区报名**
 
+社区联络人可通过活动官网首页的社区登录入口注册、登录点亮计划管理系统（以下简称“系统”）、填写社区信息并完成社区报名。
 
-## Number of projects that can be released by the community
+* 若社区联络人与导师身份重合，请使用不同邮箱注册系统；已有账号的社区请使用原账号登录；
+* 社区联络人在活动期间将作为组委会与社区的沟通桥梁，负责协调并推进活动相关事宜；
+* 社区联络人所填写社区信息需真实有效，避免因信息不准确导致社区报名失败。
 
-- Open Source Promotion Plan will limit the number of projects, and the organizing committee will allocate the number of projects released by the community according to the registration status of the community by April 20.
-- Communities can voluntarily provide sponsorship for projects, and the organizing committee will adjust the number of projects according to the sponsorship.
+### **2. 发布项目**
 
+**项目发布数量**
 
+开源之夏活动采取组委会项目支持限额制。组委会将在 3 月 25 日前，根据社区报名情况及往届活动情况确定组委会可支持的项目数量。在项目发布阶段，社区可在系统中提交 X+N 个项目（其中 X 表示组委会支持的本社区的项目数量，N 表示本社区自愿增加并提供奖金支持的项目数量，项目要求和奖金同活动规则）。社区须做好支持全部前述 N 项目的准备，合理安排导师，规划奖金预算，社区审核阶段不得以非学生申请质量原因废除或拒绝项目。（在学生申请审核阶段确认最终中选项目）。
 
-## Whether the project whose license is not approved by OSI will have change to be accepted
+**活动支持项目类型**
 
-Yes, open and shared licenses could be accepted. The licenses in OSI list and recommended Open Knowledge License is suggested. We understand the OSI list is dynamic, and some licenses is under review. we are open for more type of open source projects. But if the community whose license is not in OSI list, organizing committee need to spend more time on investigating and evaluating the community.
+* 对应开源软件采用 [OSI 组织认证开源协议](https://opensource.org/licenses) 的开发类项目，对应仓库采用推荐的开放知识协议的开放知识类项目，具体列表参考 [推荐的开放知识协议](https://#_10)。对于开源协议不在 OSI 列表中的开源项目，组委会持开放态度，并将对其进行审核和评估；
+* 功能类的任务，例如为本社区开源项目增加一个或若干个重要特性等（类型不限于此）；优化类的任务，例如提升速度、降低资源占用、提高性能等（类型不限于此）； 文档类任务，例如为本社区开源项目增加、翻译文档、增加最佳实践（类型不限于此）等；
+* 建议已经开源并且公开运营半年及以上的项目参与活动；
+* *本年度开源之夏重点支持RISC-V、操作系统相关项目。
+**项目难度及奖金设置**
+* **进阶难度：**学生结项奖金税前人民币 13000 元。
+  * 进阶难度项目数量占比不低于 60%。
+* **基础难度：**学生结项奖金税前人民币 7000 元。
+  * 基础难度项目不高于 40%。
 
+i. 项目开发预估工作量为 2 至 3 个月 ，结项的重要标准是学生贡献的代码必须以 PR/MR 形式合并到项目所在本社区的仓库，即项目发布时标注的仓库；
 
+ii. 项目开发里程碑结束后有一个月的项目 PR/MR 合并期；
 
-## Can the community propose development projects for upstream open source software repository
+iii. 参考示例：
 
-It can be proposed, but the following conditions should be met:
+* 基础和进阶各挑 3 个示例（超链接）
 
-1. The agreement of upstream open source software warehouse should belong to [organization certified open source agreement](https://opensource.org/licenses) or [recommended Open Knowledge License](#_10)；
-2. The mentor designated by the community has the ability to guide the students to complete the development work of the corresponding project. For example, the mentor is an active developer in the upstream community.
+iv. 一般情况下，组委会尊重社区设定的项目难度。对于难度设定不合理的项目，组委会将与社区沟通调整难度级别。
 
+### **3. 指定项目导师**
 
+* 社区针对每个项目需要指定一名社区导师，导师一般应是与该项目相关的开发者（Maintainer、Committer、Contributor），每位导师最多可指导一个项目；
+* 社区在系统内发布项目时选定已有导师或新增导师账号信息；
+* 中选学生不得以导师身份参与活动，反之亦然；
+* 本届活动不再提供导师结项奖金。
 
-## What is the bonus of each project
+### **4. 社区审核**
 
-- The difficulty of the project is divided into normal and advanced levels, and the corresponding pre tax bonus is 8000 RMB and 12000 RMB (Note: the amount of bonus is pre tax RMB);
-- The difficulty level is determined by the community according to the project task；
-- The organizer will fund the projects that students will eventually apply for. Within the budget, the organizer will support as many projects as possible;
+本届活动在学生项目申请审核阶段增加社区审核流程，只有导师、社区、组委会三方审核通过的学生才能被认定为项目中选学生。
 
-In general, the committee will respect the difficulty setting of the community and the committee will also check the difficulty setting in the community page. If the difficulty setting is not reasonable, it will communicate with the community to adjust the difficulty level.
+* 社区联络人可在系统中查看本社区各项目的申请与审核状态；
+* 社区审核将在导师审核结束后（即 6 月 12 日至 18 日  UTC+8）进行。社区应自行组织内部讨论，在本社区导师审核通过的学生申请中，择优选出学生与项目，在点亮计划管理系统中审核通过，社区审核通过的项目数量不得超出组委会设定的该社区支持项目数量；
+* 若社区希望增加通过审核的项目，应与组委会签署社区赞助合作协议，通过社区赞助形式增加；
+* 社区审核流程在系统组织账号中进行操作，实际审核人员由社区自行决定；
+* 社区审核前，应与项目导师与申请学生充分沟通，了解项目申请与审核情况，进行社区内部讨论，商定最终审核通过的学生与项目。
 
+### **5. 社区赞助项目**
 
+超出组委会支持数量的项目，可在与组委会签署社区赞助合作协议后，以社区赞助项目形式发布。
 
-## What does the community need to do after the registration for program
+* 社区提供指定项目奖金赞助，赞助经费将全额用于支付指定项目的结项奖金与税金。若赞助项目未结项，则社区无需支付该项目的赞助经费。社区实际赞助金额，以组委会在结项项目公示后出具的《社区结项项目清单》为准；
+* 社区应与组委会在项目中选结果公示之前签署社区赞助合作协议，协议中应明确社区赞助项目的数量、名称、难度及奖金金额；
+* 社区赞助项目将在社区列表中用特殊符号标注；
+* 社区赞助合作协议模板如下：开源之夏赞助合作协议 - 模板。
 
-1. The community should launch the "Open Source Promotion Plan" page (HTML, Wiki, etc.) on the community official website (or project open repository), including the detailed list of all project tasks provided by the community / project team, providing the project task information and corresponding reference materials with the estimated development workload of 3 months.
-2. The community needs to appoint a community mentor for each project, which is generally the developer (maintainer, committer, contributor) related to the project. Each mentor can be the mentor of three projects at most at the same time. Please refer to [Mentor guide](mentor.md) for mentor participation, specifically responsible for:
+### 6. 社区职责
 
-- After being invited to register for the system, mentors can post their own mentoring projects in the system.
-- Provide project task details by project template.
-- Communicate with potential applicants for the project, review the application and confirm the chosen student.
-- Provide support towards the students in the development process.
-- Evaluate the development achievements of students.
+* 社区应在社区官网（或项目对外公开仓库）上线 “开源之夏” 页面（HTML、Wiki 等方式不限）。页面内容应包括本社区或项目组提供的所有项目任务清单、项目任务详情以及相应的参考资料；
+* 社区在审核项目申请前，应与导师和学生充分沟通，了解项目申请与导师审核情况，共同商定审核通过的学生与项目，并在规定时间内登录系统完成社区审核；
+* 社区如需赞助项目，应在中选公示之前与组委会签署社区赞助合作协议；
+* 社区应在项目开发预热期组织导师和中选学生进行必要的基础培训；
+* 社区应在项目开发期间给予相应帮助，协调解决学生导师在开发过程中所遇到的问题；
+* 活动进行过程中，社区如需更改账号信息、修改社区介绍及项目信息、更换导师等，请向组委会发送申请邮件至 org@summer-ospp.ac.cn，提交信息修改申请表，组委会不建议修改公示后的相关信息，请在发布时认真核对确认。
+* 社区导师职责可请参考[导师指南](https://github.com/summer-ospp/help/blob/main/docs/mentor.md)，主要但不限于负责：
+  * 按项目模板提供项目信息；
+  * 与该项目的潜在申请者沟通、审核该项目的申请并确认最终中选学生；
+  * 对学生在开发过程中遇到的问题给予帮助；
+  * 对学生开发成果进行评定。
 
+## **五、推荐的开放知识协议**
 
+本次活动接受采用以下开放知识协议的项目：
 
-## How does the community know which projects are supported
+* [Creative Commons CCZero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
+* [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
+* [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+* [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendatacommons.org/licenses/pddl/)
+* [Open Data Commons Attribution License (ODC-BY)](https://opendatacommons.org/licenses/by/)
+* [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/)
 
-General requirements for funded projects:
+## **六、主办方声明**
 
-1. The open source software corresponding to the development project adopts [OSI organization certified open source license](https://opensource.org/licenses).
-2. The repository corresponding to the open knowledge project adopts [recommended Open Knowledge License](#推荐的开放知识协议). For detailed list, please refer to：[ Recommended Open Knowledge License](#_10).
-3. It is suggested that the projects that have been open source and open for more than half a year will be supported.
+1. 主办方对活动中学生的开发成果无任何知识产权诉求；
+2. 相关知识产权成果由社区依据本社区开发贡献指南与学生确定（例如：与学生开发者签订 CLA）。
+3. 隐私权。
 
-The organizing committee will announce the final list of supported projects and students on the official website.
-
-
-
-## How to set project difficulty in community
-
-The difficulty of the project is divided into normal and advanced levels, and the community can set it according to the following reference standards：
-
-- Advanced Level： Bonus RMB 12000
-
-  - The advanced level is to optimize the class work,  provide performance, reduce the resource occupation and so on.
-
-- Normal Level： Bonus RMB 8000
-
-  - Functional tasks, such as adding one or several important features to the community open source project, etc.
-
-
-
-## Recommended Open Knowledge License
-
-The following open knowledge agreement projects are accepted in this program:
-
-- [Creative Commons CCZero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
-- [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
-- [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
-- [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendatacommons.org/licenses/pddl/)
-- [Open Data Commons Attribution License (ODC-BY)](https://opendatacommons.org/licenses/by/)
-- [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/)
-
-
-
-## Organizer's Statement
-
-1. The organizer has no intellectual property claim for the development achievements of the students in this program;
-2. Relevant intellectual property achievements are determined by the community and students according to the guidelines for participating in the community development (for instance, signing CLA with student developers).
+* 组织方将处理在注册过程中以及活动的后续交流中提供的个人信息， 以管理本活动(包括验证是否有资格报名本活动，参与本活动以及发送有关本活动的通知);
+* 组织方还将出于统计目的使用汇总的非个人身份信息;
+* 参与者在注册过程中创建的活动参与名称将在相关网站、档案及文案中公开显示，并将与组织共享，以便与参与者交流，回答他们的问题并审查。
+* 学生的提交内容和联系信息(电子邮箱和活动参与名称)将由组织方共享以管理该活动;
+* 组织方可能会公开您对活动的参与和活动的结果，包括已接受项目的名称，已接受项目的内容以及您在项目工作中所产生的代码。 组织方可能会在相关网站(包括中国科学院软件研究所官网、智能软件研究中心官网与 openEuler 社区官网等)上显示您的信息，包括活动参与名称，项目摘 要和最终项目材料;
+* 在活动期内，参与者可以在其项目文档中访问，更新，删除和限制其 个人信息的处理。如果您希望在本活动结束后编辑此类信息，反对对该信息进行处理或导出，则可以通过组织方联系方式(官网、邮箱、公众号) 联系组织方。

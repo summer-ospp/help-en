@@ -1,197 +1,264 @@
-# Student Guide
+# 学生指南
 
-Students should read Student Participant Agreement before participating in the program. 
+* 参与活动前，请学生认真阅读 学生参与协议**（添加协议电子文本）**，正式申请项目表示同意本协议全部内容。
+* 学生结项后，需在点亮计划管理系统内下载、手签、上传签字版学生参与协议电子扫描件，并在系统中填写收款银行卡信息。
+* 请务必认真对待并坚持自己的选择。
 
-Students are required to download, sign, scan and upload a signed version of the Students Participant Agreement in the system after the project is completed and before the bonus is paid.
+## 一. 这是什么活动
 
-## 1. What kind of support can the selected students gain in the program
+* 活动介绍，跳转至 热点问题
+* 查找开源社区，跳转至 社区列表
+* 查找项目任务，跳转至 项目列表
 
-- Meeting open source partners and technical experts.
+## 二. 中选学生可以获得什么
 
-- Professional guidance of community mentors.
+* 结识开源界小伙伴和技术大牛
+* 获得社区导师的专业指导，与开源项目开发者深度交流
+* 丰富项目实践经验，提升项目开发技能
+* 为学习方向提供参考，为职业发展积累人脉
+* 获得结项奖金和结项证书：通过结项考核的学生将有机会获得优秀学生证书。
 
-- Gaining experience in open source projects to enrich your CV.
+## 三. 面向哪些学生
 
-- Receiving gifts, bonus, certificate from the organizing committee.
+* 本活动面向年满 18 周岁在校学生。
+* 暑期即将毕业的学生，只要在申请时学生证处在有效期内，就可以提交申请。
+* 中国籍学生参与活动需提供身份证、学生证、教育部学籍在线验证报告（学信网）或在读证明。
+* 外籍学生参与活动需提供护照，同时提供录取通知书、学生卡、在读证明等文件用于证明学生身份。
 
-  i. Students who pass the final term assessment will receive the project bonus, certificate of completion from the organizing committee.
+## 四. 参与流程
 
-  ii.  Students who pass the final term assessment will obtain the certificate of completion or outstanding student certificate.
+### （一）认真阅读并理解本参与指南
 
-## Student Eligibility
+### （二）熟悉活动流程
 
-- Must be at least 18 years old at time of registration.
+|序号|日期|事项|备注|
+|:----|:----|:----|:----|
+|1|02/28-03/13|社区报名|    |
+|2|03/14-03/20|社区报名审核|审核通过的社区会陆续上线官网|
+|3|03/21-04/24|社区提交开源之夏项目及审核|审核通过的项目会陆续上线官网|
+|4|04/25-05/10|学生挑选项目，与导师沟通并准备项目申请材料|04/25 起，可在点亮计划管理系统中注册账号并填写个人资料|
+|5|05/11-06/04|学生提交项目申请书|    |
+|6|06/05-06/25|项目申请审核|06/05-06/11 为导师审核阶段<br>06/12-06/18 为社区审核及决策是否赞助限定数量外项目阶段<br>06/19-06/25 为组委会审核阶段及项目赞助协议签订阶段|
+|7|06/26|项目申请审核结果公示|学生可在官网和点亮计划管理系统中查看申请结果|
+|8|06/26-06/30|项目开发预热期|中选学生可以与社区及导师进一步就项目进行沟通，明确项目需求、开发方案与时间规划，为项目开发预热|
+|9|07/01-09/30|项目开发|    |
+|10|10/01-10/31|结项审核-PR/MR 合并阶段|在此期间，学生开发者依然可以对提交的 PR/MR 进行完善，直至合并|
+|11|11/01-11/08|结项审核-成果审核阶段|    |
+|12|11/09|结项项目公示|学生可在官网和点亮计划管理系统中查看结项结果，成果结项的学生可在系统中上传参与协议并补充银行卡信息。|
+|13|11月|年度优秀学生评选|    |
 
-- The students who will graduate in this summer can submit the project application as long as your student ID card is valid at the time of application submission.
+### （三）学生参与流程详情
 
-- Overseas students can provide the Admission Letter/student ID Card/Certificate of Enrollment.
+**各阶段流程操作均在点亮计划管理系统内进行*
 
-  
+#### 1. 项目沟通
 
-## Participation Process
+**注册报名**
 
-### （1）Calendar
+* 学生可通过活动官网首页学生登录入口，注册并登录点亮计划管理系统（以下简称：系统），并按活动要求填写信息完成报名。往届学生可登录原账号更新信息。
+* 学生在社区开源仓库中提交的 git email 必须使用学生报名所使用的邮箱。
+*注：学生不得同时以导师身份参加本活动。
 
-| **Stage** | **Date**       | **Issue**                                                    | **Remark**                                                   |
-| --------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1         | 04/21-05/20    | Pick the projects that you are interested in<br/>Communicate with mentor and prepare the application materials. | You can Sign up from April 21st                              |
-| 2         | 05/21-06/04    | Submit the Project Application                               |                                                              |
-| 3         | 06/15          | Accepted student projects announced<br/>Check the official website |                                        |
-| 4         | 06/16-06/30    | Project warm-up period                                       | The accepted students can further communicate with the community and mentor about the project and warm up for project development.                                                             |
-| 5         | 07/01-09/30    | Project developing period                                    |                                                              |
-| 6         | Early November | Check the final-term result                                  | Students who passed the review will receive bonus and certificate |
-| 7         | Mid November   | Announcement of excellent students                           |                                                              |
+**挑选项目**
 
+* 从 [官网-查看项目](https://summer-ospp.ac.cn/#/org) 中，获取项目列表。
+* 学生最多可以提交三个项目的申请书，但最终只能承担一个项目。
+* 每个项目最多由一名学生承担。
+**与导师沟通**
 
+* 官网项目描述中有项目指定导师的姓名与联系邮箱，学生可通过电子邮箱与导师进行沟通，邮件沟通是参与社区活动的基本方式。
+* 请学生注意与导师沟通的基本礼仪，导师仅提供力所能及的指导和建议，项目本身的申请、设计和开发都是由学生自己完成。
+* 此阶段既是了解项目详情的时期，也是了解社区运作方式、熟悉社区礼仪的时期。
 
-### （2）Details for Participation Process
+#### 2. 项目申请
 
+**准备项目申请材料**
 
+* 查看 [项目申请模板](https://./assets/项目申请模板.pdf) 并根据要求准备相关材料。
+* 项目申请书的质量是组委会评定学生申请是否通过的最主要标准。
+**提交项目申请**
 
-#### 1.  Pick the projects that you are interested in and communicate with mentor and prepare the application materials.
+* 学生最多可以提交三个项目的申请书，但最终最多只能承担一个项目。
+* 在提交项目申请时，需要对本人申请的所有项目的中选优先级进行排序，若同时被多个项目选中，则根据该学生提交的项目排序，优先中选优先级高的项目。
+* 通过系统提交申请材料。
 
-##### PICK THE PROJECTS
+#### 3. 中选公示
 
-- Follow up the [Project List](https://summer-ospp.ac.cn/#/org).
+* 学生可在官网和系统中查看项目申请结果。
 
-- You can apply for up to three projects at the same time, but can only undertake one project in the end.
+#### 4. 开发预热
 
-- Each project is undertaken by only one student.
+* 中选学生可以与社区及导师进一步就项目进行沟通，明确项目需求、开发方案与时间规划，为项目开发预热。
 
-- Can students apply for projects not in the community project list?
+#### 5. 项目开发
 
-  No. If you would like to apply the projects not on official website, you can communicate with community to release this project in system before deadline. You could apply it after the review approved.
+* 项目研发过程中要使用的代码仓库即为项目详情下的链接仓库。
+* 学生需要在项目开发结束前（9 月 30 日 UTC+8）向上述社区项目仓库提交 PR/MR，并在点亮计划管理系统中上传项目结项报告并填写 PR/MR 链接。
+* 项目开发结束后有一个月的项目 PR/MR 合并期（10 月 1 日 - 10 月 30 日 UTC+8），已提交的 PR/MR 需在此期间完成合并。
+* 学生应独立完成项目研发，不能由导师或其他人员代为提交或修改 PR/MR。导师仅针对项目，指导学生制定计划、提供相关推荐文档链接、指导学生如何参与社区、提供针对实现方案的改进方向性建议等。
 
-##### COMMUNICATE WITH MENTOR
+#### 6. 结项考核
 
-- Students can enter into the project list of each community through the official website page of the program. There will be a designated mentor name and e-mail in each project description. It is suggested that students communicate with tutors through e-mail. E-mail is also the basic way to participate in the community.
-- Please pay attention to the basic etiquette of communication with the tutor. The mentor only provides guidance and suggestions within their capability. The application, design and development of the project are completed by the students themselves.
+**考核流程**
 
-##### PREPARE THE APPLICATION MATERIALS
+i. 学生在系统指定位置提交项目结项报告。
 
-- Please sign up in [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/) to complete the personal information. 
-- Please see the [Project Application Template](./assets/
-Project-Application-Template.pdf ) and prepare the relevant materials according to the requirements.
-- The quality of the project application is the main criteria for the organizing committee to assess whether the student is passed or not.
+ii. 导师就以下方面审核学生项目成果，并在系统中填写导师评审意见：
 
+* **学生承接的项目需要以 PR/MR 的形式提交到项目所在的开源社区仓库中并完成合并**
+* 评估项目产出是否符合项目最初设立的目标和要求
+* 提交给社区的贡献的列表
+* 评估项目产出运行情况
+* 项目相关文档的完善程度
+* 对于研发类项目，结项报告是否提供了对应的测试验证结果
+* 社区及导师认为需要评估的其他方面
 
+iii. 组委会组织评审团，针对项目产出进行评审，并综合社区的评审意见，给出最终评审结论（通过或未通过）。
 
-#### 2. Submit the Project Application
+**结项公示**
 
-- You can apply for up to three projects at the same time, but can only undertake one project in the end. When submitting the project applications, you need to rank the selected priority of all the projects you apply for. If you are selected by multiple projects at the same time, the project with higher priority will be selected according to the project ranking submitted.
+* 项目结项考核结果将在活动官网公示。
+* 通过结项考核的学生将获得项目奖金以及结项证书，并有机会参与优秀学生评选。
 
-- If I have already been a member of the community, can I apply for the community projects？
+#### 7. 年度优秀学生评选
 
-  Yes, You can apply. But the applicant can not participate as the mentor of any projects in this program at the same time.
+* 社区及导师根据结项学生的完成情况推荐开源之夏年度优秀学生人选，组委会根据推荐名单进行复审并确认最终优秀学生名单。
 
-- Submit the application via [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/) before June 4, 2022 UTC+8.
+### （四）注意事项
 
+#### 1. 学生已经是社区的一员，可以申请社区的项目吗？
 
+可以申请。但申请人不能同时作为本次活动中任一项目的导师参与活动。
 
-#### 3. Accepted student projects announced
+#### 2. 学生什么时候开始项目研发？是否可以提前研发？
 
+组委会正式公布中选学生后，中选学生可以开始项目研发。
 
+在组委会公布中选学生名单之前，项目中选人处于未确定状态，因此组委会不建议学生提前开始研发工作。中选公示前，学生应将精力放在完善项目申请书与项目方案上。磨刀不误砍柴工，无论是本次活动的项目，还是未来学生在工作中参与的项目，前期的项目规划和方案设计都是非常重要的。
 
-#### 4. Developing project and submit the developing output for final term assessment
+#### 3. 学生应该使用什么编程语言来开发项目？
 
-##### DEVELOPING PROJECT
+学生可根据社区项目的需求来选择编程语言，一般应当与社区使用的编程语言保持一致。
 
-- The code repository used by students in the process of project development can be communicated and determined by the community. 
-- Students need to submit the report to [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/).
-- By the end of the project development (i.e. by 9/30) , students need to submit PR to community's repository and submit final report to [Open Source Promotion Plan Management System](https://portal.summer-ospp.ac.cn/).
+## 五. 学生奖金说明
 
+### 1. 项目奖金额度是多少？
 
+项目难度分为基础和进阶两档，对应结项奖金分别为：税前人民币 7000 元和税前人民币 13000 元。
 
-#### 5.  Developing project and submit the developing output for final-term review
+### 2. 学生奖金将于何时发放？
 
-##### FINAL TERM REVIEW
+通过结项考核的学生将获得奖金。若结项评审未通过，则不予发放奖金。
 
-i. Students submit the project final report at the designated platform. 
+### 3. 学生奖金如何发放？
 
-ii.  Community members of community organizations (tutors and other community developers, the specific number of which is decided by the community) give evaluation opinions referring to the following aspects, and submit the evaluation opinions to the designated location of the platform:
+i. 结项奖金将根据《中华人民共和国个人所得税法》居民个人劳务报酬所得个税计算方式进行预扣预缴。满足个人所得税退税条件的学生，可在第二年的 3 至 6 月在个人所得税 APP 中申请退税。
 
-- **Projects undertaken by students need to be submitted as PR and merged into the open source community repository.**
-- Evaluate whether the project output meets the initial objectives and requirements of the project.
-- List of contributions submitted to the community.
-- Evaluate the operation of project output.
-- The perfection of project related documents.
-- For R & D projects, whether the closing report provides the corresponding test verification results.
-- Other aspects that the community and tutors think need to be evaluated.
+ii. 填写信息前，学生需确认所提供的收款银行卡属于一类银行卡（二类银行卡日转账限额将影响奖金发放）。
 
-iii. The organizing committee organizes a review panel to review the project output, and gives the final review conclusion (pass, fail) based on the review opinions of the community.
+iii. 学生奖金由银行转账方式发放，银行卡须为本人名下借记卡，结项的学生应及时在点亮计划管理系统内填写银行卡信息：
 
+* 收款人姓名：
+* 手机号：
+* 开户行：
+* 开户行号：
+* 银行卡号：
+* 身份证号：
 
+**注：采集数据仅用于此次活动，活动组委会将采取合理的措施来保护隐私数据、个人身份信息和其他敏感资料。*
 
-#### 6. Check the final-term result
+### 4. 外籍学生奖金如何发放？
 
-The result will be announced on the official webiste.
+i. 根据税务局管理要求，外籍学生奖金发放需提供本人护照扫描件。
 
-Students who passed the review will receive bonus, certificate of completion or outstanding student certificate.
+ii. 外籍学生奖金一律由美元结算，以奖金发放时的实时汇率为准。
 
+iii. 学生奖金由银行转账方式形式发放，银行卡须为本人名下，结项通过的同学在点亮计划管理系统内填写银行卡信息用于转账及中国税务管理机构审核：
 
+* Payee's Full Name
+* Gender
+* ID Card Number
+* Nationality
+* Date of Birth
+* Telephone Number
+* Payee's Address
+* Payee's Bank Name and Address
+* Payee's Bank Account
+* Swiftcode
+* Scancopy of Passport
+**注：以上为按现行的国际结算政策要求所需资料，活动组委会将采取合理的措施来保护隐私数据、个人身份信息和其他敏感资料。*
 
-#### 7. Announcement of excellent students
+iv. 根据税务条款中外国人员在中国境内取得收益的场景，组委会发放奖金时将代缴个人所得税，计算方法如下（单位：元）：
 
+* 3750 元 以下，税率 3% 税额 (奖金80%*3%)
+* 15000 元 以下，税率 10% 税额 (奖金80%*10%-210)
+**注：因收款人户名、收款人国别被* *FATF、联合国、公安部等外部机构列入制裁名单导致无法汇款的情况，由收款人自行承担后果。*
 
+## 六、项目申请建议
 
-### （3）Other Questions
+### （一）对申请参加活动的学生的建议
 
+* 认真阅读学生指南、热点问题、活动日程等内容。
+* 确认自己的时间安排，确保能够保证参与项目期间，每周至少 30 个小时能够投入在项目中。
+* 参与开源工作很重要一点是要有主观能动性，希望学生在与我们联系之前尽可能自己在帮助中找到解决办法。
+* 参与开源项目前请梳理自己在专业领域的技能、感兴趣的技术、感兴趣的编程语言等，这些都有利于选择合适的项目。
+* 主动与社区联络，仔细查看社区的文档，不仅仅是社区提供的项目列表，也应该要认真熟悉社区的参与方式、沟通渠道、社区软件设计文档、社区开源仓库代码等。
+* 专注在感兴趣的 1 - 2 个社区，申请多个社区反而会降低被选中的概率。
+* 认真编写项目申请书，无论你来自什么学校、什么专业，项目申请书的质量将作为最重要的中选标准。
+* 仔细阅读申请的要求，确保提交的申请材料满足组委会的要求，包括项目申请书、简历等内容。
+* 申请的时间顺序不会影响是否被选择，组委会会在截止日期后统一将申请材料整理后，转交对应的社区进行评审。
+* 请勿在最后一天提交，避免因不熟悉申请流程、缺少申请材料、网络等问题造成无法在指定时间内完成申请。组委会会严格按照截止时间来收集申请，延期提交的申请不会被接受。
+* 学生参与本次活动应遵守对应社区相关规范进行开发贡献。
 
+### （二）多与导师沟通
 
+和导师沟通是一个非常重要的环节，在沟通过程中，学生能够有以下收获：
 
-#### 1. When will the students start project development
+* 答疑解惑，对开源项目有一个全面的认识；
+* 细化方案，学生可以将自己的解决方案与导师沟通，根据项目需求完善调整项目申请书，提升可行性；
+* 展现良好的沟通能力，也将有助于提升学生的中选概率。
 
-After the organizing committee officially announced the selected students.
+### （三）选择中选学生的标准
 
-#### 2. Can the selected students develop in advance
+* 社区会根据学生提交的项目申请书（包括项目计划、项目实现方案等）、学生的简历，综合考虑选择中选学生。每个项目只能有一个学生承担。
+* 强烈建议学生在申请之前要积极与社区导师沟通项目细节和方案，项目申请书是中选标准的重点。
 
-Before the organizing committee publishes the list of selected students, the candidates of the funded students of the project are in an uncertain state, and any student's application may be rejected due to other students' better project plan or other reasons.
+### （四）如何写好项目申请书
 
-The organizing committee does not recommend that students start research and development work in advance, instead, should focus on improving the project application and project scheme. Whether it is the project of this program or the work project in the future, the early project planning and scheme design are very important.
+项目申请书总体上由两部分组成，即详细的技术方案和细致的时间规划，除此之外，学生还可以在项目申请书中描述选择该项目的理由、过去与项目技术相关的开发经历、课程等，并表达参与该项目并为社区提交贡献的意愿。
 
-#### 3. Which programming language should students use to develop projects
+#### 1. 技术方案
 
-Students can choose the programming language according to the needs of community projects. In general, it should be consistent with the programming language used by the community.
+i. 原则上，技术方案越详细越有利于社区理解和认可；
 
+ii. 在技术方案中，学生应该展示出自己对目标开源项目的理解程度，可以从以下几点入手：
 
+* 根据自己的理解拆解目标开源项目，并能明确描述各个模块的功能；
+* 基于项目拆解，对项目描述中提出的需求进行分析；
+* 明确描述自己的方案将对哪些模块中的哪些文件进行修改；
+* 或者，自己的方案将会添加哪些模块，以及这些模块如何与现有模块通信。
 
-## 4. Student Bonus Instruction
+iii. 最好能为自己的方案找到依据，以引用的形式在项目申请书中列出，包括但不限于：
 
-1. How much bonus amount will each student receive?
+* 其他项目的成功经验；
+* 论文等提供的理论依据。
 
-   Each project will be awarded RMB 12000 or RMB 8000 (before tax), which based on the level of project difficulty.
+#### 2. 时间规划
 
-2. When will the bonus be paid?
+* 建议时间规划的粒度不大于1周；
+* 为提高规划的可读性，可以先将时间划分为几个大的阶段（如，4周为一个阶段），并总结每个阶段的核心任务；
+* 在每个阶段内，以周为单位，描述自己一周内计划完成的任务。
 
-   Students who pass the final-term assessment will receive the bonus. Accordingly, the student will not receive the bonus if he/she fails the final evaluation.
+#### 3. 简历写点啥
 
-3. How to pay the foreign students’ bonus?
+i. 简历是为了让社区能够对每一位申请学生的技术能力有更清晰的认识；
 
-    i. The foreign students’ bonus shall be settled in dollars, subject to the real-time exchange rate at the time of bonus payment.
+ii. Github/Gitee/Gitlab 等开源代码平台的用户 ID；
 
-   ii. The students’ bonus will be paid by credit transfer method. There is no restriction on which bank but the bank account must be under your own name. Also, the organizing committee will collect the following information from the student on the basis of the requirements of State Taxation Administration of The People's Republic of China:
+iii. 学生切忌在简历中罗列不相关的信息，每一信息应该尽可能和自己所申请的项目相关，包括但不限于：
 
-   - Payee's Full Name
-   - Gender
-   - ID Card Number
-   - Nationality
-   - Date of Birth
-   - Telephone Number
-   - Payee's Address
-   - Payee's Bank Name and Address
-   - Payee's Bank Account
-   - Swiftcode
-
-
-	Note: The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information and other sensitive information.
-
-  iii. The tax payment or tax payment certificate including the amount of this payment is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes withheld and paid by the organizing committee on behalf. The calculation method is as follows (Unit: Yuan):
-
- - Below 3750, 3% tax rate (80% * 3%)
-
-- Below 15000, 10% tax rate (bonus 80% * 10% - 210)
-
-- Below 31250, 20% tax rate is (bonus 80% * 20% - 1410)    
-
-  	Note: If the Payee's account name or country is on the restricted list of FATF, the United Nations, the Ministry of Public Security or other external agencies, the payee will be responsible for the consequences of not being able to receive money.
-
+* 已经为该开源社区提交过贡献；
+* 为类似的开源软件及其社区提交过贡献；
+* 虽然未参与相关社区贡献，但是有开源贡献的经验；
+* 虽然未参与过开源，但是有类似功能软件的开发经验；
+* 若以上经验全无，应着重体现自己对社区使用技术栈的掌握程度，以及展现自己的学习能力。

@@ -1,150 +1,96 @@
-# Frequently Asked
+## 开源之夏是什么活动
 
-## Participation Guide
+* 开源之夏是开源软件供应链点亮计划系列暑期活动，由中国科学院软件研究所与 openEuler 社区共同举办，旨在鼓励在校学生积极参与开源软件的开发维护，促进优秀开源软件社区的蓬勃发展。活动联合各大开源社区，针对重要开源软件的开发与维护提供项目，并向全球高校学生开放报名。
+* 学生可自主选择感兴趣的项目进行申请，中选后在项目资深维护者（社区导师）的指导下进行开发。根据项目的难易程度和完成情况，结项者将获取开源之夏活动奖金和结项证书。
+* 往届活动信息请查阅 往届回顾（加链接）。
 
-- If you are a student, see [student guide](student.md).
-- If you are a community, see [community guide](community.md).
-- If you are a community mentor, see [mentor guide](mentor.md).
+## 活动参与指南
 
-Other help guide：
+* 如果你是学生，请查看 [学生指南](https://student.md)。
+* 如果你是社区，请查看 [社区指南](https://community.md)。
+* 如果你是导师，请查看 [导师指南](https://mentor.md)。
 
-- [Timeline](timeline.md)
-- [Communities List](communities-list.md)
-- [Cooperative Extension](cooperation.md)
-- [Contact us](contactus.md)
+## 其他帮助导航
 
+* [活动日程](https://timeline.md)
+* [社区名单](https://communities-list.md)
+* [合作推广](https://cooperation.md)
+* [联系我们](https://contactus.md)
 
+## 活动的组织方有哪些
 
-## What is Open Source Promotion Plan
+本次活动由中国科学院软件研究所、openEuler 社区主办。当前是第四届，欢迎更多机构参与。
 
-Open Source Promotion Plan is a summer program of  Open Source Software Supply Chain Promotion Plan, which is jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. We will cooperate with major open source communities to provide projects for the development and maintenance of important open source software, and will open enrollment to college students around the world.
+## 活动的参与方以及角色有哪些
 
-Students can choose the projects they are interested in to apply, and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive the bonus and certificate of "Open Source Promotion Plan" .
+活动参与方主要角色为学生、社区和导师。
 
-The website of Summer 2021: https://summer-ospp.ac.cn/2021/
+* 学生：学生自由选择项目，与社区导师沟通实现方案并撰写项目计划书。被选中的学生将在社区导师指导下，按计划完成开发工作，并将成果贡献给社区。社区评估学生的完成度，主办方根据评估结果发放资助金额给学生。
+* 社区：社区提供项目列表和描述，并安排项目对应的导师，导师与申请者沟通方案、并从申请者中选中一位承接项目。在为期三个月的开发周期中，导师指导学生进行对应项目的开发工作。
+* 导师：导师全程跟进项目沟通和项目开发，与学生一起制定合适的开发计划和方案，指导学生按计划完成开发，达成项目目标。
 
+## 项目的奖金是多少
 
+* 每个项目难度分为普通和进阶两档，对应奖金分别为税前人民币 7000 元和税前人民币 13000 元。
+* 难度分级由社区根据项目情况决定。
+* 通过结项考核的学生将获得奖金。
 
-## What is different from other Summer of Code activities
+## 面向哪些学生
 
-Inspired by other Summer of Code activities, this event hopes to further promote the development of open source communities, and the main highlights reflect as follows:
+本活动面向年满 18 周岁在校学生，具体条件请参照 [学生指南](https://student.md#面向哪些学生)。
 
-1. The difficulty range of supporting projects is wider
-   - According to the difficulty of the project, the amount of project funding can be divided into 12000 RMB, and 8000 RMB (Note: the amount of bonus is RMB before tax). Supporting more projects with different difficulty is to meet the different needs of community development, and it is also conducive to more students' participation.
-2. Support more types of open source projects
+## 学生如何报名申请项目
 
-   - This program supports the adoption of  [OSI organization certified open source license](https://opensource.org/licenses) In addition to the open source software project, it also supports the adoption of [recommended Open Knowledge License](community.md#推荐的开放知识协议) Open source knowledge projects, such as technical documents, knowledge documents, etc.
-3. More diverse forms of organization
+* 活动各阶段操作均在点亮计划管理系统中进行。
+* 学生参与活动的详细说明请查看 [学生指南](https://student.md)。
 
-   - In addition to encouraging students to contribute to the community, the organizing committee hopes to introduce the concept of open source to the students and help them understand the open source culture and participate in the open source community.
+## 哪些社区可以报名参与
 
+* 本次活动是开放的，只要是社区中的仓库是采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [推荐的开放知识协议](https://community.md#推荐的开放知识协议) 等开放共享的开源社区，均可报名参加活动。
+* 欢迎致力于推广开源的社区联系组委会，沟通讨论活动推广与后续合作事宜。
 
+## 社区如何报名
 
-## Who are the organizers of the event
+* 活动各阶段操作均在点亮计划管理系统中进行。
+* 社区参与活动的详细说明请查看 社区指南。
 
-This program is organized by Institute of software Chinese Academy of Sciences and openEuler community. This is the third series program. More institutions are welcome to participate.
+## 支持社区什么类型的项目
 
+开源之夏活动优先支持开发类项目，同时兼顾各类有利于社区发展的项目。例如，技术文档汉化等知识类的开源项目，支持的非开发类项目总占比不会超过 20% 。
 
+## 导师如何参与
 
-## What are the participants and roles of this program
+* 社区上线项目时会在系统内填写导师信息，导师通过点亮计划系统发出的邀请邮件链接注册登录系统，并在点亮计划系统内完成后续操作流程。
+* 已有账号的导师可以使用原账号登录。
 
-The main roles of participants are students, communities and mentors.
+## 是否可以同时作为导师和学生身份参与
 
-- Students: Students are free to choose projects and communicate with mentors on implementation plans in order to write project plans. The selected students will complete the development task as planned and contribute the results to the community under the guidance of the community mentor. The community evaluates student completion and the organizer committee grants the money award to students based on the evaluation results.
-- Community: The community provides a list and description of the project, and arranges for a mentor to communicate the program with the applicant and select one of the applicants to undertake the project. During the three-month development period, the mentor guides the students in developing the corresponding projects.
-- Mentor: For each project, the community assigns a mentor to work with the students to develop appropriate plan and guide the students to complete the task as planned.
+不可以，一人只能选择一种身份参与活动。
 
+## 导师是否可以协助学生开发
 
+导师不可以通过代码的方式指导学生开发，也不可以帮助学生调试项目。项目的实现应由学生独立完成。导师可以针对项目，指导学生制定计划、提供相关推荐文档链接、指导学生如何参与社区、提供针对实现方案的改进方向性建议等。
 
-## What is the bonus for the project
+## 学生贡献的代码必须以 PR/MR 形式合并到本社区仓库吗
 
-- The difficulty of each project is divided into normal and advanced two levels, and the corresponding pre tax bonus is 8000 RMB and 12000 RMB. (Note: the amount of bonus is RMB before tax).
-- The difficulty level is determined by the community according to the project task.
+是的，以 PR/MR 形式提交到项目所在开源社区仓库中并完成合并是判定结项的最重要标准。
 
+## 结项考核代码和报告分别提交在哪里
 
+1. 项目开发过程中，学生应遵循社区规范，将代码提交至项目所在社区仓库；
+2. 项目开发结束前（即 9/30 前）学生需要向仓库提交 PR/MR，并在点亮计划管理系统中上传项目结项报告并填写 PR/MR 链接。
 
-## Student Eligibility
+## 结项考核要素
 
-This program is for the students over 18 years old. Please refer to the [student guide](student.md#面向哪些学生) for specific conditions.
+1. 学生在社区开源仓库中提交的 git email 必须使用学生报名所使用的邮箱；
+2. 学生承接的项目需要以 PR/MR 的形式提交到开源社区仓库中并已完成合并；
+3. 进度方面，导师应根据学生的实际开发情况、开发任务难度综合考虑，确定是否符合项目计划书的相关规划；
+4. 成果方面，导师应确认学生提交的结项成果符合该项目的目标。
 
+## 如何成为合作单位
 
+只要是支持本次开源活动，帮助推广宣传本次活动，无论是公司、科研院所、高校或其他组织，我们都欢迎成为我们的合作伙伴。也希望能够建立长期合作关系，促进开源生态的发展。
 
-## How to apply for a project
+关于合作推广详情，请查看 [合作推广](https://cooperation.md)。
 
-Please refer to  for details of [student guide](student.md). *Note: the default time zone 'UTC + 8'*
-
-
-
-## Which communities can sign up for participation
-
-This program is open, as long as the repository in the open source community adopts [OSI organization approved open source license](https://opensource.org/licenses) or [recommended Open Knowledge License](community.md#推荐的开放知识协议), and other open and shared licenses are all supported by this program.
-
-For a list of recommended Open Knowledge License supported by this program, please refer to [community guide](community.md#推荐的开放知识协议).
-
-For the open source community focusing on promoting open source, welcome to contact the organizing committee to communicate how to promote this open source program and subsequent cooperation.
-
-
-
-## How does the community sign up
-
-1. The community please register the Open Source Promotion Plan Management System, and apply for program and release projects in the system.
-
-   Official Contact E-mail：org@summer-ospp.ac.cn
-
-2. Please click to view [community guide](community.md).
-
-
-
-## What kind of projects are supported 
-
-Open Source Promotion Plan gives priority to supporting development projects, while taking into account all kinds of projects that are conducive to community development, such as translation technical documents and other knowledge-based open-source projects. The total proportion of non development projects supported will not exceed 20%, at the same time, focusing on supporting projects in the field of basic software.
-
-
-
-## What does the community need to do after signing up for the program
-
-Please refer to the [community guide](community.md) for detailed description of community participation program.
-
-
-
-## Whether the mentor can assist the student in development process
-
-Mentors can't guide students to develop through code, and can't help students debug projects. Students should complete the project independently. Mentors can guide students to make plans, provide links to relevant recommendation documents, guide students how to participate in the community, and provide directional suggestions for the improvement of the implementation scheme.
-
-
-
-## How to become a cooperative partner
-
-As long as it supports this open source program, it will help promote this program. Whether it's companies, research institutes, universities or other organizations, we welcome to be our partners to promote this program. We also hope to establish a long-term cooperative relationship to promote the development of domestic open source ecology.
-
-For details of cooperative promotion, please check [Cooperative Extension](cooperation.md).
-
-
-
-## Must the code of student contribution be PR merged into the mainline
-
-Yes, PR merged into the main line is the most important criteria to determine the project closure.
-
-
-
-## Where should the final term assessment codes and reports be submitted respectively
-
-1. During the project development process, students should follow the community requirements and submit the code to the community's designated platform;
-2. By the end of the project development (i.e. by 9/30) , students need to submit PR to the required community project repository and submit their final report to Open Source Promotion Plan Management System;
-
-
-
-## How does the mentor review whether the student has passed the final-term assessment 
-
-1. The git email that students submit to the community open source repository must be the same email address they use to sign up;
-2. The project needs to be submitted to the community open source repository in the form of PR and have been merged;
-3. In terms of progress, tutors should consider the actual development situation of students and the difficulty of development tasks to determine whether they are in line with the relevant planning of the project plan;
-4. In terms of results, the tutor should confirm that the interim (final) results submitted by the students meet the objectives of the project.
-
-
-
-## Whether the mentor's review opinions should strictly refer to the template or enrich more content
-
-The mentor is encouraged to provide more abundant content in the evaluation opinions, which will showed in the feedback to the students.
-
-**Note: unless otherwise specified in this help document, the default time zone is 'UTC + 8'*
+**注：此帮助文档中除非特别注明，默认时区均为北京时间（UTC+8）*
