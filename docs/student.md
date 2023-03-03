@@ -1,4 +1,4 @@
-**Student Guide**
+# Student Guide
 
 * Before participating in the program, please carefully read the Student Participation Agreement, and the formal application for the project indicates agreement to all the contents of this agreement.
 * After the student's project is completed, they need to download, sign, and upload the signed electronic scan of the Student Participation Agreement in the OSPP System. The student also needs to fill in the bank card information in the system.
@@ -58,12 +58,14 @@
 * Previous participants can log in with their original account to update their information and apply.
 * The git email submitted by the student in the community repository must be the email used for registration.
 * Students cannot participate in the program as a mentor at the same time. 
-  **CHOOSING THE PROJECTS**
+  
+**CHOOSING THE PROJECTS**
 
 * Students can view the [Project List](https://summer-ospp.ac.cn/#/org) on the official website.
 * Students can apply for up to three projects at the same time, but can only undertake one project in the end.
 * Each project can only be undertaken by one student at most.
-  **COMMUNICATE WITH MENTORS**
+  
+**COMMUNICATE WITH MENTORS**
 
 * The official website's project descriptions include the project mentor's name and contact email of the project mentor. Students can communicate with mentors via email.
 * It is important to maintain basic etiquette when communicating with mentors. Mentors only provide guidance and advice within their capacity, and the student should complete the project's application, design, and development by themselves.
@@ -76,6 +78,7 @@
 * Students can download the [Project Application Template](./assets/ Project-Application-Template.pdf ) and prepare the required materials.
 * The quality of the project application is the most important criterion for the committee to evaluate whether the student's application is approved or not.
 * This is the time to understand the project details and to become familiar with the community operation and etiquette.
+
 **SUBMITTING THE APPLICATION**
 
 * Submit the application materials through the OSPP system.
@@ -110,7 +113,8 @@ i. Mentors will review the student's project results in the following aspects an
 * Evaluate the completeness of the project-related documents.
 * For R & D projects, whether the final report provides the corresponding test verification results.
 * Other aspects that the community and mentor believe need to be evaluated.
-  ii. The organizing committee organizes an evaluation team to review the project output, and gives the final review conclusion (pass or fail) based on the review opinions of the community.
+  
+ii. The organizing committee organizes an evaluation team to review the project output, and gives the final review conclusion (pass or fail) based on the review opinions of the community.
 
 **RESULT ANNOUNCED**
 
@@ -168,7 +172,7 @@ iii. The students' bonus will be paid by credit transfer method. There is no res
 * Swiftcode
 * Scancopy of Passport
 
-  ***Note: The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information**,**and other sensitive information.*
+  ***Note: The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information,and other sensitive information.*
 
 iv. The tax payment or tax payment certificate, including the amount of this payment, is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes are withheld and paid by the organizing committee on their behalf. The calculation method is as follows (Unit: Yuan):
 
