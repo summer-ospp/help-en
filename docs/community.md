@@ -1,123 +1,142 @@
-**请认真阅读并理解本参与指南****，如有疑问，请联系组委会：org@summer-ospp.ac.cn**
+Please read and understand this participation guide carefully. If you have any questions, please email the organizing committee at org@summer-ospp.ac.cn.
 
-## **一、这是什么活动**
+## 1. What is Open Source Promotion Plan
 
-1. 活动介绍（跳转至 热点问题）
-2. 活动流程
+（1）OSPP introduction（skip to Frequently Asked）
 
-|序号|日期|事项|备注|
-|:----|:----|:----|:----|
-|1|02/28-03/13|社区报名|社区可在点亮计划管理系统中注册账号并填写社区信息|
-|2|03/14-03/20|社区报名审核|报名审核通过的社区会陆续上线官网|
-|3|03/21|完整社区名单公示|    |
-|4|03/25-04/17|社区提交开源之夏项目|项目数量包含两部分：组委会可支持项目数量、社区自愿发布数量，详见“项目发布数量”|
-|5|04/18-04/24|项目审核|审核通过的项目陆续上线官网|
-|6|04/25|完整项目清单公示|    |
-|7|04/25-05/10|学生挑选项目，与导师沟通并准备项目申请材料|04/25 起，学生可在点亮计划管理系统中注册账号并填写个人资料|
-|8|05/11-06/04|学生提交项目申请书|    |
-|9|06/05-06/25|项目申请审核|06/05-06/11 为导师审核阶段<br>06/12-06/18 为社区审核及决策是否赞助限定数量外项目阶段<br>06/19-06/25 为组委会审核阶段及项目赞助协议签订阶段<br>*申请书的质量是审核通过的重要标准|
-|10|06/26|中选公示|学生可在官网和点亮计划管理系统中查看申请结果|
-|11|06/26-06/30|项目开发预热期|中选学生可以与社区及导师进一步就项目进行沟通，明确项目需求、开发方案与时间规划，为项目开发预热|
-|12|07/01-09/30|项目开发|    |
-|13|10/01-10/31|导师结项审核-PR/MR 合并阶段|在此期间，学生开发者依然可以对提交的 PR/MR 进行完善，直至合并|
-|14|11/01-11/07|组委会结项审核-成果审核阶段|    |
-|15|11/08|结项项目公示|学生可在官网和点亮计划管理系统中查看结项结果，成果结项的学生可在系统中上传参与协议并补充银行卡信息。|
-|16|11月|年度优秀学生评选|结项审核结束后由导师和社区推荐|
+（2）Activity process
 
-## **二、哪些社区可以报名参与**
+| No.  | Date            | Issue                                                        | Remarks                                                      |
+| :--- | :-------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 1    | 03/06-03/30<br> | Community Application and Review                             | Sign up and fill in community information in the OSPP system. <br>Approved communities will be posted on the official website.<br>Deadline: 03/30 18:00 UTC+8 |
+| 2    | 03/31           | Community Announced                                          |                                                              |
+| 3    | 04/01-04/03     | Committee Confirms the Supported Project Quantity and Notifies Community | Refer to the participation processes.                        |
+| 4    | 04/04-04/26     | Project Release                                              | Refer to the participation processes.<br>Deadline: 04/26 18:00 UTC+8 |
+| 5    | 04/26-04/28     | Committee Review                                             | Approved projects will be posted on the official website.    |
+| 6    | 04/29           | Project Announced                                            |                                                              |
+| 7    | 04/29-06/04     | Student Registration, Communication, and Project Application Submission | Deadline for student registration: 06/02 15:00 UTC+8.<br>Deadline for project application: 06/04 18:00 UTC+8. |
+| 8    | 06/05-06/25     | Project Application Review                                   | 06/05-06/11 Mentor Review.<br>06/12-06/18 Community Review and submit community cooperation agreement.<br>06/19-06/25 Committee Review and sign a community cooperation agreement. |
+| 9    | 06/26           | Accepted Student Projects Announced                          | Students can check the application results on the official website and OSPP system. |
+| 10   | 06/26-06/30     | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
+| 11   | 07/01-09/30     | Coding and Development                                       | Deadline for project report and PR/MR links submission：09/30 24:00 UTC+8 |
+| 12   | 10/01-10/31     | Evaluations – Mentor Final Term Review and PR/MR Merge       | In the meantime, student developers can still refine their PR/MR until they are merged. |
+| 13   | 11/01-11/08     | Evaluations – Committee Final Term Review                    |                                                              |
+| 14   | 11/09           | Results Announced                                            | Students can view the final results on the official website and management system and then fill in the bank information in the management system. |
+| 15   | November        | Outstanding Students Selection                               | Recommended by mentors and communities.                      |
 
-* 本活动面向开源社区开放报名，只要社区仓库采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [推荐的开放知识协议](https://#_10) ，均可报名参加活动。
-* 本活动支持的开放知识协议列表请参考：[推荐的开放知识协议](https://#_10)。
+## 2. Which communities can participate in the program?
 
-## **三、参与社区可以获得什么？**
+* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or OKF recommended Open Knowledge License.
 
-开源之夏活动作为国内规模最大、举办时间最长的暑期高校开源活动，积累了丰富的经验与资源。活动举办三年以来，获得了广大高校学生与开源社区的认可，在开源领域形成了较大影响力。社区可通过参与开源之夏活动，提升社区曝光率，扩大品牌知名度，同时吸引优秀的高校开发者加入社区，为社区带来新生力量，参与开源社区的生态建设与维护。
+## 3. What can you achieve?
 
-## **四、社区参与流程**
+As the most extensive and longest-running open source summer program in China, the OSPP has accumulated rich experience and resources. Since the event was held for three years, it has gained recognition from college students and open source communities, and has significantly impacted in the open source field. By participating in the OSPP, communities can increase their exposure, expand their brand awareness, and attract outstanding university developers to join their community, bringing new energy to the community and participating in the construction and maintenance of the open source community.
 
-**各阶段流程操作均在点亮计划管理系统内进行*
+## 4. Participation Processes
 
-**注：本届活动不提供导师结项奖金*
+**All processes will be operated in the OSPP system.*
 
-### **1. 社区报名**
+### （1）Community Registration
 
-社区联络人可通过活动官网首页的社区登录入口注册、登录点亮计划管理系统（以下简称“系统”）、填写社区信息并完成社区报名。
+Community liaisons can register a community account and log in to the OSPP system through the community login portal on the official website, fill in community information, and complete community registration.
 
-* 若社区联络人与导师身份重合，请使用不同邮箱注册系统；已有账号的社区请使用原账号登录；
-* 社区联络人在活动期间将作为组委会与社区的沟通桥梁，负责协调并推进活动相关事宜；
-* 社区联络人所填写社区信息需真实有效，避免因信息不准确导致社区报名失败。
+* If the community liaison is also a mentor, please use a different email address to register for the system. 
+* Communities that already have an account should use their original account to log in.
+* The community liaison will serve as the communication bridge between the organizing committee and the community, coordinating and promoting related matters.
+* The information provided by the community liaison must be valid to avoid registration failure due to inaccurate information.
 
-### **2. 发布项目**
+### （2）Project Release
 
-**项目发布数量**
+**PROJECT INSTRUCTIONS**
 
-开源之夏活动采取组委会项目支持限额制。组委会将在 3 月 25 日前，根据社区报名情况及往届活动情况确定组委会可支持的项目数量。在项目发布阶段，社区可在系统中提交 X+N 个项目（其中 X 表示组委会支持的本社区的项目数量，N 表示本社区自愿增加并提供奖金支持的项目数量，项目要求和奖金同活动规则）。社区须做好支持全部前述 N 项目的准备，合理安排导师，规划奖金预算，社区审核阶段不得以非学生申请质量原因废除或拒绝项目。（在学生申请审核阶段确认最终中选项目）。
+**A. Number of Projects**
 
-**活动支持项目类型**
+* Before the Project Release (April 4, UTC+8), the organizing committee will determine the number of projects it can support (represented by X) based on community registration and previous program information, and inform the community. 
+* During the Project Release phase, the community can submit any number of projects in the system based on their needs. Approved projects will be gradually published on the official website. 
+* During the Community Review phase (see section 4. Community Review), the community will discuss and determine the approved projects. If the number of projects approved by the community is less than or equal to X, then all projects are supported by the organizing committee. If the number of projects approved by the community is more than X, the community needs to indicate in the system which projects are supported by the organizing committee and which are community-supported. The community needs to sign a community cooperation agreement with the organizing committee for community-supported projects. See section 5. Community-Supported Projects for details.
+  **B. Project Types**
 
-* 对应开源软件采用 [OSI 组织认证开源协议](https://opensource.org/licenses) 的开发类项目，对应仓库采用推荐的开放知识协议的开放知识类项目，具体列表参考 [推荐的开放知识协议](https://#_10)。对于开源协议不在 OSI 列表中的开源项目，组委会持开放态度，并将对其进行审核和评估；
-* 功能类的任务，例如为本社区开源项目增加一个或若干个重要特性等（类型不限于此）；优化类的任务，例如提升速度、降低资源占用、提高性能等（类型不限于此）； 文档类任务，例如为本社区开源项目增加、翻译文档、增加最佳实践（类型不限于此）等；
-* 建议已经开源并且公开运营半年及以上的项目参与活动；
-* *本年度开源之夏重点支持RISC-V、操作系统相关项目。
-**项目难度及奖金设置**
-* **进阶难度：**学生结项奖金税前人民币 13000 元。
-  * 进阶难度项目数量占比不低于 60%。
-* **基础难度：**学生结项奖金税前人民币 7000 元。
-  * 基础难度项目不高于 40%。
+* OSPP prioritizes development projects and considers various projects that benefit community development. For example, functional tasks, such as adding one or more important features to the community's open-source project (not limited to this); optimization tasks, such as improving speed, reducing resource consumption, and improving performance (not limited to this); documentation tasks, such as adding or translating documentation for the community's open-source project, adding best practices (not limited to this), etc.
+* It is recommended that projects participating in the program have been open source and publicly operated for at least six months. 
+  *This year's OSPP focuses on supporting RISC-V and operating system related projects.
 
-i. 项目开发预估工作量为 2 至 3 个月 ，结项的重要标准是学生贡献的代码必须以 PR/MR 形式合并到项目所在本社区的仓库，即项目发布时标注的仓库；
+**C. Difficulty and Bonus**
 
-ii. 项目开发里程碑结束后有一个月的项目 PR/MR 合并期；
+* **Advanced level**: 
+  * Students who complete the project will receive a pre-tax bonus of RMB 12,000
+  * No less than 60% of projects will be advanced level
+* **Basic level**: 
+  * Students who complete the project will receive a pre-tax bonus of RMB 8,000
+  * No more than 40% of projects will be basic level
+    i. The difficulty setting of the project should be based on project requirements, technical thresholds, and estimated project development workloads. 
 
-iii. 参考示例：
+ii. The key criterion for project review is that the student's contribution code must be merged into the community project repository (published on the official website) in the form of a PR/MR.
 
-* 基础和进阶各挑 3 个示例（超链接）
+iii. After the project development, there is a one-month period for project PR/MR merging.
 
-iv. 一般情况下，组委会尊重社区设定的项目难度。对于难度设定不合理的项目，组委会将与社区沟通调整难度级别。
+iv. Reference Example :
 
-### **3. 指定项目导师**
+* **Basic level**: 
 
-* 社区针对每个项目需要指定一名社区导师，导师一般应是与该项目相关的开发者（Maintainer、Committer、Contributor），每位导师最多可指导一个项目；
-* 社区在系统内发布项目时选定已有导师或新增导师账号信息；
-* 中选学生不得以导师身份参与活动，反之亦然；
-* 本届活动不再提供导师结项奖金。
+[Example 1](https://summer-ospp.ac.cn/#/org/prodetail/22b970142)[ ](https://summer-ospp.ac.cn/#/org/prodetail/22b970142)
 
-### **4. 社区审核**
+[Example 2](https://summer-ospp.ac.cn/#/org/prodetail/2298a0007)
 
-本届活动在学生项目申请审核阶段增加社区审核流程，只有导师、社区、组委会三方审核通过的学生才能被认定为项目中选学生。
+[Example 3](https://summer-ospp.ac.cn/#/org/prodetail/227cc0121)
 
-* 社区联络人可在系统中查看本社区各项目的申请与审核状态；
-* 社区审核将在导师审核结束后（即 6 月 12 日至 18 日  UTC+8）进行。社区应自行组织内部讨论，在本社区导师审核通过的学生申请中，择优选出学生与项目，在点亮计划管理系统中审核通过，社区审核通过的项目数量不得超出组委会设定的该社区支持项目数量；
-* 若社区希望增加通过审核的项目，应与组委会签署社区赞助合作协议，通过社区赞助形式增加；
-* 社区审核流程在系统组织账号中进行操作，实际审核人员由社区自行决定；
-* 社区审核前，应与项目导师与申请学生充分沟通，了解项目申请与审核情况，进行社区内部讨论，商定最终审核通过的学生与项目。
+* **Advanced level**:
 
-### **5. 社区赞助项目**
+[Example 1](https://summer-ospp.ac.cn/#/org/prodetail/22b970263)
 
-超出组委会支持数量的项目，可在与组委会签署社区赞助合作协议后，以社区赞助项目形式发布。
+[Example 2](https://summer-ospp.ac.cn/#/org/prodetail/22b970023)
 
-* 社区提供指定项目奖金赞助，赞助经费将全额用于支付指定项目的结项奖金与税金。若赞助项目未结项，则社区无需支付该项目的赞助经费。社区实际赞助金额，以组委会在结项项目公示后出具的《社区结项项目清单》为准；
-* 社区应与组委会在项目中选结果公示之前签署社区赞助合作协议，协议中应明确社区赞助项目的数量、名称、难度及奖金金额；
-* 社区赞助项目将在社区列表中用特殊符号标注；
-* 社区赞助合作协议模板如下：开源之夏赞助合作协议 - 模板。
+[Example 3](https://summer-ospp.ac.cn/#/org/prodetail/228d90270)
 
-### 6. 社区职责
+v. In general, the organizing committee respects the project difficulty set by the community. For projects with unreasonable difficulty levels, the organizing committee will communicate with the community to adjust the difficulty level;
 
-* 社区应在社区官网（或项目对外公开仓库）上线 “开源之夏” 页面（HTML、Wiki 等方式不限）。页面内容应包括本社区或项目组提供的所有项目任务清单、项目任务详情以及相应的参考资料；
-* 社区在审核项目申请前，应与导师和学生充分沟通，了解项目申请与导师审核情况，共同商定审核通过的学生与项目，并在规定时间内登录系统完成社区审核；
-* 社区如需赞助项目，应在中选公示之前与组委会签署社区赞助合作协议；
-* 社区应在项目开发预热期组织导师和中选学生进行必要的基础培训；
-* 社区应在项目开发期间给予相应帮助，协调解决学生导师在开发过程中所遇到的问题；
-* 活动进行过程中，社区如需更改账号信息、修改社区介绍及项目信息、更换导师等，请向组委会发送申请邮件至 org@summer-ospp.ac.cn，提交信息修改申请表，组委会不建议修改公示后的相关信息，请在发布时认真核对确认。
-* 社区导师职责可请参考[导师指南](https://github.com/summer-ospp/help/blob/main/docs/mentor.md)，主要但不限于负责：
-  * 按项目模板提供项目信息；
-  * 与该项目的潜在申请者沟通、审核该项目的申请并确认最终中选学生；
-  * 对学生在开发过程中遇到的问题给予帮助；
-  * 对学生开发成果进行评定。
+vi. Project Bonus Sources: The organizing committee-supported project's bonus will be provided by the organizing committee, while the community will provide the community-supported project's bonus.
 
-## **五、推荐的开放知识协议**
+### （3）Designated Mentor
 
-本次活动接受采用以下开放知识协议的项目：
+* The community needs to appoint a mentor for each project, who should generally be a developer (Maintainer, Committer, Contributor) of that project. Each mentor can only guide one project.
+* The community account selects the mentor when publishing the project in the system. If the mentor information is not included in the system, the mentor's account information needs to be added.
+* Accepted students are not allowed to participate in activities as mentors. Otherwise, the bonus will be canceled.
+
+### （4）Community Review
+
+The OSPP adds a community review process during the student project application review phase. Only students who have been approved by the mentor, community and organizing committee can be recognized as selected students for the project.
+
+* The community accounts can view the application and status of the community's projects in the system. 
+* **The quality of the project application is the main criterion for evaluating whether the student's application is approved.**
+* The community review will be conducted after the mentor review. Before the community review, the community should communicate with the mentor and student, understand the project application and review status, organize internal discussions within the community, and determine the final community-approved project application among the applications approved by the mentor. The number of projects approved by the community review should not exceed the number of supported projects X informed by the organizing committee. 
+* If the community wants to increase the number of projects approved, they should sign a community cooperation agreement with the organizing committee and add it as a community-supported project (see section 5 below). 
+* The community review process should be operated in a community account, and the actual reviewers are determined by the community.
+
+### （5）Community-Supported Projects
+
+If the number of projects approved by the community review exceeds the number of organizing committee-supported projects X, the community needs to sign a community cooperation agreement with the organizing committee and increase it as a community-supported project. The bonus and tax of community-supported projects will be provided by the community. 
+
+* Before the accepted students are announced, the community should sign the community cooperation agreement ( Community Cooperation Agreement - Template), which should specify the number, name, difficulty, and bonus amount of the community-supported projects. 
+* The community provides funds for the designated project's bonus, which will be used in full to pay the bonus and taxes for the designated project. The community does not need to pay the support funds if the supported project is not completed. The actual amount of community support will be based on the "Community Completion Project List" issued by the organizing committee after the final review. 
+* The community-supported project will be marked with a special symbol in the community and project list.
+
+### （6）Community Responsibilities
+
+* The community should launch an OSPP page on the community's official website or public repository of the project. The page content should include a project list, project details, and related reference materials. The format (HTML, Wiki, etc.) is not limited. 
+* Before the community review, the community should communicate with mentors and students to understand the project application and mentor review process, jointly determine the students and projects that pass the review and complete the community review before the deadline.
+* If the community wants to support projects, they should sign a community cooperation agreement with the organizing committee before the accepted students are announced.
+* During the bonding period, the community should organize training for mentors and students.
+* The community should provide corresponding assistance during the project development period, and coordinate and solve problems encountered by students and mentors in the development process.
+* If the community needs to change account information, modify community introductions, project descriptions, or change mentors, please send an application email to [org@summer-ospp.ac.cn](mailto:org@summer-ospp.ac.cn) and submit an information modification application form. The organizing committee does not recommend modifying relevant information after the announcement, so please carefully check and confirm before publishing.
+* Please refer to the mentor guide for mentor responsibilities, which include but are not limited to:
+  * Providing project information according to the project template.
+  * Communicating with potential applicants, reviewing the project application, and confirming the final selected student.
+  * Assisting students in the development process.
+  * Evaluating the student's development results.
+
+## 5. Recommended Open Knowledge License
+
+The following open knowledge agreement projects are accepted in this program:
 
 * [Creative Commons CCZero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 * [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
@@ -126,15 +145,15 @@ iv. 一般情况下，组委会尊重社区设定的项目难度。对于难度�
 * [Open Data Commons Attribution License (ODC-BY)](https://opendatacommons.org/licenses/by/)
 * [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/)
 
-## **六、主办方声明**
+## 6. Organizer's Statement
 
-1. 主办方对活动中学生的开发成果无任何知识产权诉求；
-2. 相关知识产权成果由社区依据本社区开发贡献指南与学生确定（例如：与学生开发者签订 CLA）。
-3. 隐私权。
+* The organizer has no intellectual property claim for the development achievements of the students in this program;
+* The community and students determine relevant intellectual property achievements according to the guidelines for participating in community development (for instance, signing CLA with student developers).
+* Privacy
+  * Organizers will process the personal information provided during registration and in any subsequent communications to administer the Program (including verifying eligibility to participate in the Program, running the Program, and sending notifications regarding the Program).
+  * Organizers will also use aggregated, non-personally identifiable information for statistical purposes.
+  * The display name that Participants create during registration will be displayed publicly on the Program Website and any archives of the Program Website, and will be shared with Organizations to communicate with the Participants to answer their questions and review Student proposals and work.
+  * Mentor's Project Submissions and contact information (email address and display name) will be shared with the Organizations (including Members) to administer the Program.
+  * Organizers may publicize your participation in the Program and the results of the Program, including announcements of accepted Project Proposals, the text of accepted Project Proposals, and the resulting code from your work on the Project. Organizers may display your information, including your display name, Project abstract, and Final Project Materials, on Organizers-run websites, including ISCAS Official Website, Intelligent Software Research Center Official Website, openEuler Community Official Website and the Program Website.
+  * Participants can access, update, remove and restrict the processing of their personal information in their Program profile during the Program Period. If you would like to edit such information after the Program has concluded, object to the processing of the information, or export it to another service, you may write to Organizers (Official Website, E-mail, WeChat Official Accounts). 
 
-* 组织方将处理在注册过程中以及活动的后续交流中提供的个人信息， 以管理本活动(包括验证是否有资格报名本活动，参与本活动以及发送有关本活动的通知);
-* 组织方还将出于统计目的使用汇总的非个人身份信息;
-* 参与者在注册过程中创建的活动参与名称将在相关网站、档案及文案中公开显示，并将与组织共享，以便与参与者交流，回答他们的问题并审查。
-* 学生的提交内容和联系信息(电子邮箱和活动参与名称)将由组织方共享以管理该活动;
-* 组织方可能会公开您对活动的参与和活动的结果，包括已接受项目的名称，已接受项目的内容以及您在项目工作中所产生的代码。 组织方可能会在相关网站(包括中国科学院软件研究所官网、智能软件研究中心官网与 openEuler 社区官网等)上显示您的信息，包括活动参与名称，项目摘 要和最终项目材料;
-* 在活动期内，参与者可以在其项目文档中访问，更新，删除和限制其 个人信息的处理。如果您希望在本活动结束后编辑此类信息，反对对该信息进行处理或导出，则可以通过组织方联系方式(官网、邮箱、公众号) 联系组织方。
