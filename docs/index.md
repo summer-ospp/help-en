@@ -1,96 +1,91 @@
-## 开源之夏是什么活动
+# Frequently Asked
 
-* 开源之夏是开源软件供应链点亮计划系列暑期活动，由中国科学院软件研究所与 openEuler 社区共同举办，旨在鼓励在校学生积极参与开源软件的开发维护，促进优秀开源软件社区的蓬勃发展。活动联合各大开源社区，针对重要开源软件的开发与维护提供项目，并向全球高校学生开放报名。
-* 学生可自主选择感兴趣的项目进行申请，中选后在项目资深维护者（社区导师）的指导下进行开发。根据项目的难易程度和完成情况，结项者将获取开源之夏活动奖金和结项证书。
-* 往届活动信息请查阅 往届回顾（加链接）。
+## What is Open Source Promotion Plan
 
-## 活动参与指南
+* Open Source Promotion Plan is a summer program organized by the Open Source Software Supply Chain Promotion Plan of the Institute of Software Chinese Academy of Sciences. It aims to encourage college students to actively participate in developing and maintaining open source software and promote the vigorous development of an excellent open source software community. We have united with domestic and international open source communities to propose project tasks for developing and maintaining the essential open source software. We are open enrollment to college students around the world.
+* Students can choose the projects they are interested in to apply and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive a bonus and certificate of completion.
+* For information on previous events, please refer to the [previous program](https://summer-ospp.ac.cn/help/).
 
-* 如果你是学生，请查看 [学生指南](https://student.md)。
-* 如果你是社区，请查看 [社区指南](https://community.md)。
-* 如果你是导师，请查看 [导师指南](https://mentor.md)。
+## Participation Guide
 
-## 其他帮助导航
+* If you are a student, see the [student guide](https://summer-ospp.ac.cn/help/en/student/). 
+* If you are a community, see the [community guide](https://summer-ospp.ac.cn/help/en/community/).
+* If you are a community mentor, see the [mentor guide](https://summer-ospp.ac.cn/help/en/mentor/).
 
-* [活动日程](https://timeline.md)
-* [社区名单](https://communities-list.md)
-* [合作推广](https://cooperation.md)
-* [联系我们](https://contactus.md)
+## Other Guides：
 
-## 活动的组织方有哪些
+* [Communities List](https://summer-ospp.ac.cn/help/en/communities-list/)
+* [Cooperative Extension](https://summer-ospp.ac.cn/help/en/cooperation/)
+* [Contact us](https://summer-ospp.ac.cn/help/en/contactus/)
 
-本次活动由中国科学院软件研究所、openEuler 社区主办。当前是第四届，欢迎更多机构参与。
+## Who are the organizers of the event?
 
-## 活动的参与方以及角色有哪些
+This program is organized by the Institute of Software Chinese Academy of Sciences and the openEuler community. This is the fourth series program. More institutions are welcome to participate.
 
-活动参与方主要角色为学生、社区和导师。
+## What is the bonus for the project?
 
-* 学生：学生自由选择项目，与社区导师沟通实现方案并撰写项目计划书。被选中的学生将在社区导师指导下，按计划完成开发工作，并将成果贡献给社区。社区评估学生的完成度，主办方根据评估结果发放资助金额给学生。
-* 社区：社区提供项目列表和描述，并安排项目对应的导师，导师与申请者沟通方案、并从申请者中选中一位承接项目。在为期三个月的开发周期中，导师指导学生进行对应项目的开发工作。
-* 导师：导师全程跟进项目沟通和项目开发，与学生一起制定合适的开发计划和方案，指导学生按计划完成开发，达成项目目标。
+* The difficulty of each project is divided into Basic and Advanced, and the corresponding student bonus is 8000 RMB before tax and 12000 RMB before tax. 
+* The community determines the difficulty level according to the project task.
+* Students who pass the final assessment will receive a bonus.
 
-## 项目的奖金是多少
+## Student Eligibility
 
-* 每个项目难度分为普通和进阶两档，对应奖金分别为税前人民币 7000 元和税前人民币 13000 元。
-* 难度分级由社区根据项目情况决定。
-* 通过结项考核的学生将获得奖金。
+This program is for students over 18 years old. Please refer to the [student guide](https://summer-ospp.ac.cn/help/en/student/#%E9%9D%A2%E5%90%91%E5%93%AA%E4%BA%9B%E5%AD%A6%E7%94%9F) for specific conditions.
 
-## 面向哪些学生
+## How to apply for a project?
 
-本活动面向年满 18 周岁在校学生，具体条件请参照 [学生指南](https://student.md#面向哪些学生)。
+All processes should be operated in the management system.
 
-## 学生如何报名申请项目
+For detailed information, please refer to the [student guide](https://summer-ospp.ac.cn/help/en/student/). 
 
-* 活动各阶段操作均在点亮计划管理系统中进行。
-* 学生参与活动的详细说明请查看 [学生指南](https://student.md)。
+## Which communities can apply to participate?
 
-## 哪些社区可以报名参与
+* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or OKF recommended Open Knowledge License.
+* Communities committed to promoting open source are welcome to contact the organizing committee to discuss the event promotion and cooperation.
 
-* 本次活动是开放的，只要是社区中的仓库是采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [推荐的开放知识协议](https://community.md#推荐的开放知识协议) 等开放共享的开源社区，均可报名参加活动。
-* 欢迎致力于推广开源的社区联系组委会，沟通讨论活动推广与后续合作事宜。
+## How does the community sign up?
 
-## 社区如何报名
+* Please register, apply for the program, and release projects in the OSPP System.
+* For detailed information, please refer to the [community guide](https://summer-ospp.ac.cn/help/en/community/).
 
-* 活动各阶段操作均在点亮计划管理系统中进行。
-* 社区参与活动的详细说明请查看 社区指南。
+## What kind of projects are supported?
 
-## 支持社区什么类型的项目
+Open Source Promotion Plan prioritizes supporting development projects while considering all kinds of projects that are conducive to community development.
 
-开源之夏活动优先支持开发类项目，同时兼顾各类有利于社区发展的项目。例如，技术文档汉化等知识类的开源项目，支持的非开发类项目总占比不会超过 20% 。
+## How to be a mentor?
 
-## 导师如何参与
+* The community liaisons will fill in the mentor's information in the system when they submit the projects. Mentors will receive an invitation letter, log in to the system via the link in the email, and then complete the process in the OSPP system.
+* Mentors who already have an account can use their original account to log in.
 
-* 社区上线项目时会在系统内填写导师信息，导师通过点亮计划系统发出的邀请邮件链接注册登录系统，并在点亮计划系统内完成后续操作流程。
-* 已有账号的导师可以使用原账号登录。
+## Can I participate as a mentor and a student at the same time?
 
-## 是否可以同时作为导师和学生身份参与
+No, you can only choose one role to participate in the event.
 
-不可以，一人只能选择一种身份参与活动。
+## Whether the mentor can assist the student in the development process?
 
-## 导师是否可以协助学生开发
+Mentors can't guide students to develop through code and can't help students debug projects. Students should complete the project independently. Mentors can guide students to make plans, provide links to relevant recommendation documents, advise students on participating in the community, and provide directional suggestions for improving the implementation scheme.
 
-导师不可以通过代码的方式指导学生开发，也不可以帮助学生调试项目。项目的实现应由学生独立完成。导师可以针对项目，指导学生制定计划、提供相关推荐文档链接、指导学生如何参与社区、提供针对实现方案的改进方向性建议等。
+## Must the code of student contribution be PR/MR merged into the mainline?
 
-## 学生贡献的代码必须以 PR/MR 形式合并到本社区仓库吗
+Yes, PR/MR merged into the main line is the essential criterion to determine the project closure.
 
-是的，以 PR/MR 形式提交到项目所在开源社区仓库中并完成合并是判定结项的最重要标准。
+## Where should the final term assessment codes and reports be submitted?
 
-## 结项考核代码和报告分别提交在哪里
+1. During the project development process, students should follow the community requirements and submit codes to the community's repository.
+2. Before the end of the project development (9/30, UTC+8), students must submit a PR/MR and upload the final project report to the OSPP system and provide the PR/MR links.
 
-1. 项目开发过程中，学生应遵循社区规范，将代码提交至项目所在社区仓库；
-2. 项目开发结束前（即 9/30 前）学生需要向仓库提交 PR/MR，并在点亮计划管理系统中上传项目结项报告并填写 PR/MR 链接。
+## How does the mentor review whether the student has passed the final-term assessment?
 
-## 结项考核要素
+1. The git email that students submit to the community open source repository must be the same email address they use to sign up.
+2. The project needs to be submitted to the community open source repository in the form of PR/MR and has been merged.
+3. In terms of progress, mentors should consider the actual development situation of students and the difficulty of development tasks to determine whether they align with the project plan's relevant planning.
+4. In terms of results, the tutor should confirm that the final results submitted by the students meet the project's objectives.
 
-1. 学生在社区开源仓库中提交的 git email 必须使用学生报名所使用的邮箱；
-2. 学生承接的项目需要以 PR/MR 的形式提交到开源社区仓库中并已完成合并；
-3. 进度方面，导师应根据学生的实际开发情况、开发任务难度综合考虑，确定是否符合项目计划书的相关规划；
-4. 成果方面，导师应确认学生提交的结项成果符合该项目的目标。
+## How to become a cooperative partner?
 
-## 如何成为合作单位
+As long as it supports this open source program, whether it's companies, research institutes, universities, or other organizations, we welcome you to be our partners in promoting this program. We also hope to establish a long-term cooperative relationship to promote the development of domestic open source ecology.
 
-只要是支持本次开源活动，帮助推广宣传本次活动，无论是公司、科研院所、高校或其他组织，我们都欢迎成为我们的合作伙伴。也希望能够建立长期合作关系，促进开源生态的发展。
+For details on the cooperative promotion, please check [Cooperative Extension](https://summer-ospp.ac.cn/help/en/cooperation/).
 
-关于合作推广详情，请查看 [合作推广](https://cooperation.md)。
+**Note: unless otherwise specified , the default time zone is 'UTC + 8.'*
 
-**注：此帮助文档中除非特别注明，默认时区均为北京时间（UTC+8）*
