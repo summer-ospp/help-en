@@ -1,70 +1,109 @@
-# 导师指南
+# Mentor Guide
 
-* 导师不得同时以学生开发者的身份参加本活动。
-* 本届活动不提供导师结项奖金。
-* 在活动进行过程中，导师如需更改账号信息、项目描述、更换导师等，请由社区联络人向组委会提交申请。
+* Mentors cannot participate in this program as student developers at the same time.
+* During the program, if mentors need to change their account information, project description or replace a mentor, please have the community liaisons submit an application to the organizing committee.
+* After the student's project is completed, the mentor needs to download, sign, and upload the signed electronic scan of the Mentor Participation Agreement and fill in the bank card information in the OSPP system.
 
-## 一、了解活动流程
+### 1. Participation Processes
 
-|序号|日期|事项|备注|
-|:----|:----|:----|:----|
-|1|02/28-03/13|社区报名|    |
-|2|03/14-03/20|社区报名审核|报名审核通过的社区会陆续上线官网|
-|3|03/21|完整社区名单公示|    |
-|4|03/25-04/17|社区提交开源之夏项目|    |
-|5|04/18-04/24|项目审核|审核通过的项目陆续上线官网|
-|6|04/25|完整项目清单公示|    |
-|7|04/25-05/10|学生挑选项目，与导师沟通并准备项目申请材料|04/25 起，学生可在点亮计划管理系统中注册账号并填写个人资料|
-|8|05/11-06/04|学生提交项目申请书|    |
-|9|06/05-06/25|项目申请审核|06/05-06/11 为导师审核阶段<br>06/12-06/18 为社区审核及决策是否赞助限定数量外项目阶段<br>06/19-06/25 为组委会审核阶段及项目赞助协议签订阶段<br>*申请书的质量是审核通过的重要标准|
-|10|06/26|中选公示|学生可在官网和点亮计划管理系统中查看申请结果|
-|11|06/26-06/30|项目开发预热期|中选学生可以与社区及导师进一步就项目进行沟通，明确项目需求、开发方案与时间规划，为项目开发预热|
-|12|07/01-09/30|项目开发|    |
-|13|10/01-10/31|导师结项审核-PR/MR 合并阶段|在此期间，学生开发者依然可以对提交的 PR/MR 进行完善，直至合并|
-|14|11/01-11/07|组委会结项审核-成果审核阶段|    |
-|15|11/08|结项项目公示|学生可在官网和点亮计划管理系统中查看结项结果，成果结项的学生可在系统中上传参与协议并补充银行卡信息。|
-|16|11月|年度优秀学生评选|结项审核结束后由导师和社区推荐|
+| No.  | Date                 | Issue                                                        | Remarks                                                      |
+| :--- | :------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 1    | 03/06-03/30<br>18:00 | Community Application and Review                             | The community can sign up and fill in community information in OSPP system. <br>Approved communities will be posted on the official website.<br>Deadline: 03/30 18:00 UTC+8 |
+| 2    | 03/31                | Community Announced                                          |                                                              |
+| 3    | 04/01-04/03          | Committee Confirms Supported Project Quantity and Notifies Community |                                                              |
+| 4    | 04/04-04/26          | Project Release                                              | Deadline: 04/26 18:00 UTC+8                                  |
+| 5    | 04/26-04/28          | Committee Review                                             | Approved projects will be posted on the official website.    |
+| 6    | 04/29                | Project Announced                                            |                                                              |
+| 7    | 04/29-06/04          | Student Registration, Communication and Project Application Submission | Deadline for student registration: 06/02 15:00 UTC+8.<br>Deadline for project application: 06/04 18:00 UTC+8. |
+| 8    | 06/05-06/25          | Project Application Review                                   | 06/05-06/11 Mentor Review<br>06/12-06/18 Community Review and Submit Community Cooperation Agreement<br>06/19-06/25 Committee Review and Sign Community Cooperation Agreement |
+| 9    | 06/26                | Accepted Student Projects Announced                          | Students can check the application results on the official website and management system. |
+| 10   | 06/26-06/30          | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
+| 11   | 07/01-09/30          | Coding and Development                                       | Deadline for project report and PR/MR links submission：09/30 24:00 UTC+8 |
+| 12   | 10/01-10/31          | Evaluations – Mentor Final Term Review and PR/MR Merge       | In the meantime, student developers can still refine their PR/MR until they are merged. |
+| 13   | 11/01-11/08          | Evaluations – Committee Final Term Review                    |                                                              |
+| 14   | 11/09                | Results Announced                                            | Students can view the final results on the official website and management system and then fill in the bank information in the management system. |
+| 15   | November             | Outstanding Students Selection                               | Recommended by mentors and communities.                      |
 
-## 二、如何成为导师
+### 2. How to Become a Mentor
 
-* 本次活动的项目导师由社区内部推荐；
-* 已有账号的导师可以使用原账号登录；
-* 每位导师最多可指导一个项目；
-* 导师不得同时以学生开发者的身份参加本活动。
+* The community recommends a mentor for each project and adds their information to the OSPP system.
+* Mentors who already have an account can use their original account to log in.
+* Each mentor can only guide one project. 
+* Mentors are not allowed to participate in this program as student developers at the same time.
 
-## 三、导师参与流程
+### 3. Mentor Participation Process
 
-**各阶段流程操作均在点亮计划管理系统（以下简称系统）内进行*
+**All processes should be operated in the OSPP system.*
 
-1. 准备项目具体内容，并由社区联络人在系统内发布；
-2. 与意向学生沟通，指导学生准备申请材料；
-3. 项目申请审核；
-4. 指导学生进行项目开发工作；
-5. 结项审核并填写导师评语；
-6. 优秀学生推荐。
+- Prepare project descriptions and submit them in the system through a community account.
+- Communicate with potential students and guide them in preparing application materials.
+- Project application review. The mentor needs to review and prioritize all received project applications.
+- Guide students in their project development work.
+- Final project review and fill out mentor comments.
+- Outstanding student recommendation.
 
-## 四、导师的职责
+### 4. Mentor Responsibilities
 
-1. 对学生提出的项目问题进行解答；
-2. 在学生项目申请阶段，导师应积极给予方向性的指导、分享相关技术材料，协助学生制定项目可行性方案；
-3. 指导学生使用社区常用沟通工具（电子邮箱、IRC、邮件列表等）、社区代码管理平台及其他工具，引导学生遵循社区规范，成为社区的一份子；
-4. 项目开发期间，与学生保持定期沟通，持续了解学生开发进度，督促学生按计划完成项目开发，组委会建议至少保证每周一到两次的沟通；
-5. 应顾及到学生的专业水平和年龄，友好耐心地进行沟通，鼓励学生独立并积极地开展工作；
-6. 促进学生的贡献被社区接受；
-7. 按活动要求及时审核学生项目申请书与结项成果，按模板填写导师评语。
+- Answer project questions raised by students.
+- During the student project application stage, mentors should actively provide directional guidance, share relevant technical materials, and assist students in formulating feasible project plans.
+- Guide students to use communication tools in the community (email, IRC, mailing lists, etc.), community code management platforms, and other tools, and guide students to follow community rules and become a part of the community.
+- Maintain regular communication with students during the project development period, understand the student's development progress, urge students to complete project development according to the plan, and the organizing committee recommends at least one to two communications per week.
+- Consider the student's professional level and age, communicate in a friendly and patient manner, encourage students to work independently and actively.
+- Promote the student's contributions to be accepted by the community.
+- Review the student project application and project report according to the requirements, and fill in mentor comments according to the template on time.
 
-**导师是否可以协助学生开发**
+### Whether the mentor can assist the student in the development process?
 
-导师不可以通过代码的方式指导学生开发，不可以帮助学生调试项目，也不可代替学生提交 PR/MR。
+Mentors cannot guide students' development through code, help debug projects, or submit PR/MR on behalf of a student.
 
-## 五、结项审核标准
+### 5. Review Criteria
 
-导师参考以下方面进行结项审核，根据评审结果模板填写导师评语，并在系统提交：
+Mentors will review the student's project performance in the following aspects and fill in the review comments according to the template in the system:
 
-* 学生承接的项目需要以 PR/MR 的形式提交到项目所在的开源社区仓库中并完成合并；
-* 评估项目产出是否符合项目最初设立的目标和要求；
-* 提交给社区的贡献的列表；
-* 评估项目产出运行情况；
-* 项目相关文档的完善程度；
-* 对于研发类项目，结项报告是否提供了对应的测试验证结果；
-* 社区及导师认为需要评估的其他方面。
+* The project needs to be submitted to the open-source community repository in the form of PR/MR and merged.
+* Evaluate whether the project outputs meet the goals and requirements of the project.
+* List the contributions made to the community.
+* Evaluate the running status of project outputs.
+* Evaluate the completeness of project-related documents.
+* For R & D projects, whether the final report provides the corresponding test verification results.
+* Other aspects that the community and mentors believe need to be evaluated.
+  *The git email submitted by the student in the community repository must be the email used for registration.
+
+### 6. Mentor Bonus
+
+**（1）How much is the mentor bonus?** 
+
+The mentor bonus is RMB 3000 before tax.
+
+**（2）When will the mentor bonus be issued?**
+
+All mentor bonuses will be issued after their students pass the project review. If the student fails the review, the bonus will not be issued.
+
+**（3）How to pay the mentor bonus?**
+
+i. According to the requirements of the Revenue Department, a scanned copy of the  mentor's passport is required to pay the bonus.
+
+ii. The mentor bonus shall be settled in US dollars, subject to the real-time exchange rate at the time of bonus payment.
+
+iii. The mentor bonus will be paid by credit transfer method. There is no restriction on which bank, but the account must be under your own name. Also, the organizing committee will collect the following information from the mentor based on the requirements of the State Taxation Administration of The People's Republic of China:
+
+* Payee's Full Name
+* Gender
+* ID Card Number
+* Nationality
+* Date of Birth
+* Telephone Number
+* Payee's Address
+* Payee's Bank Name and Address
+* Payee's Bank Account
+* Swiftcode
+* Scancopy of Passport
+  
+**Note: The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information, and other sensitive information.*
+
+iv. The tax payment or tax payment certificate, including the amount of this payment, is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes are withheld and paid by the organizing committee on their behalf. The calculation method is as follows (Unit: Yuan):
+
+* Below 3750 RMB, 3% tax rate (80% * 3%)
+
+**Note: If the Payee's account name or country is on the restricted list of FATF, the United Nations, the Ministry of Public Security, or other external agencies, the payee will be responsible for the consequences of not being able to receive money.*
+
