@@ -75,7 +75,7 @@
 
 **PREPARING APPLICATION MATERIALS**
 
-* Students can download the [Project Application Template](./assets/ Project-Application-Template.pdf ) and prepare the required materials.
+* Students can download the [Project Application Template](./assets/Project-Application-Template.pdf ) and prepare the required materials.
 * The quality of the project application is the most important criterion for the committee to evaluate whether the student's application is approved or not.
 * This is the time to understand the project details and to become familiar with the community operation and etiquette.
 
