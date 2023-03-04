@@ -4,7 +4,7 @@ Please read and understand this participation guide carefully. If you have any q
 
 ## 1. What is Open Source Promotion Plan
 
-（1）OSPP introduction（skip to Frequently Asked）
+（1）[OSPP introduction](index.md)
 
 （2）Activity process
 
@@ -17,7 +17,7 @@ Please read and understand this participation guide carefully. If you have any q
 | 5    | 04/26-04/28     | Committee Review                                             | Approved projects will be posted on the official website.    |
 | 6    | 04/29           | Project Announced                                            |                                                              |
 | 7    | 04/29-06/04     | Student Registration, Communication, and Project Application Submission | Deadline for student registration: 06/02 15:00 UTC+8.<br>Deadline for project application: 06/04 18:00 UTC+8. |
-| 8    | 06/05-06/25     | Project Application Review                                   | 06/05-06/11 Mentor Review.<br>06/12-06/18 Community Review and submit community cooperation agreement.<br>06/19-06/25 Committee Review and sign a community cooperation agreement. |
+| 8    | 06/05-06/25     | Project Application Review                                   | 06/05-06/11 Mentor Review.<br>06/12-06/18 Community Review and submit community cooperation agreement.<br>06/19-06/25 Committee Review and sign a community cooperation agreement. <br>The quality of the project application is the main criterion for evaluating whether the student's application is approved.|
 | 9    | 06/26           | Accepted Student Projects Announced                          | Students can check the application results on the official website and OSPP system. |
 | 10   | 06/26-06/30     | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
 | 11   | 07/01-09/30     | Coding and Development                                       | Deadline for project report and PR/MR links submission：09/30 24:00 UTC+8 |
@@ -28,11 +28,11 @@ Please read and understand this participation guide carefully. If you have any q
 
 ## 2. Which communities can participate in the program?
 
-* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or OKF recommended Open Knowledge License.
+* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or [OKF](##5) recommended Open Knowledge License.
 
 ## 3. What can you achieve?
 
-As the most extensive and longest-running open source summer program in China, the OSPP has accumulated rich experience and resources. Since the event was held for three years, it has gained recognition from college students and open source communities, and has significantly impacted in the open source field. By participating in the OSPP, communities can increase their exposure, expand their brand awareness, and attract outstanding university developers to join their community, bringing new energy to the community and participating in the construction and maintenance of the open source community.
+By participating in the OSPP, communities can increase their exposure, expand their brand awareness, and attract outstanding university developers to join their community, bringing new energy to the community and participating in the construction and maintenance of the open source community.
 
 ## 4. Participation Processes
 
@@ -54,24 +54,24 @@ Community liaisons can register a community account and log in to the OSPP syste
 **A. Number of Projects**
 
 * Before the Project Release (April 4, UTC+8), the organizing committee will determine the number of projects it can support (represented by X) based on community registration and previous program information, and inform the community. 
-* During the Project Release phase, the community can submit any number of projects in the system based on their needs. Approved projects will be gradually published on the official website. 
+* During the Project Release phase, the community can submit in the system based on their needs(the number of projects is not limited). Approved projects will be gradually published on the official website. 
 * During the Community Review phase (see section 4. Community Review), the community will discuss and determine the approved projects. If the number of projects approved by the community is less than or equal to X, then all projects are supported by the organizing committee. If the number of projects approved by the community is more than X, the community needs to indicate in the system which projects are supported by the organizing committee and which are community-supported. The community needs to sign a community cooperation agreement with the organizing committee for community-supported projects. See section 5. Community-Supported Projects for details.
  
  **B. Project Types**
 
-* OSPP prioritizes development projects and considers various projects that benefit community development. For example, functional tasks, such as adding one or more important features to the community's open-source project (not limited to this); optimization tasks, such as improving speed, reducing resource consumption, and improving performance (not limited to this); documentation tasks, such as adding or translating documentation for the community's open-source project, adding best practices (not limited to this), etc.
+* OSPP prioritizes development projects and considers various projects that benefit community development. For example, functional tasks, such as adding one or more important features to the community's open-source project (not limited to this); optimization tasks, such as improving speed, reducing resource consumption, and improving performance (not limited to this), etc.
 * It is recommended that projects participating in the program have been open source and publicly operated for at least six months. 
-  *This year's OSPP focuses on supporting RISC-V and operating system related projects.
+  *This year's OSPP focuses on supporting RISC-V and basic software related projects.
 
 **C. Difficulty and Bonus**
 
 * **Advanced level**: 
   * Students who complete the project will receive a pre-tax bonus of RMB 12,000
-  * No less than 60% of projects will be advanced level
+  
 * **Basic level**: 
   * Students who complete the project will receive a pre-tax bonus of RMB 8,000
-  * No more than 40% of projects will be basic level
-    i. The difficulty setting of the project should be based on project requirements, technical thresholds, and estimated project development workloads. 
+ 
+i. The difficulty setting of the project should be based on project requirements, technical thresholds, and estimated project development workloads. 
 
 ii. The key criterion for project review is that the student's contribution code must be merged into the community project repository (published on the official website) in the form of a PR/MR.
 
@@ -95,15 +95,13 @@ iv. Reference Example :
 
 [Example 3](https://summer-ospp.ac.cn/#/org/prodetail/228d90270)
 
-v. In general, the organizing committee respects the project difficulty set by the community. For projects with unreasonable difficulty levels, the organizing committee will communicate with the community to adjust the difficulty level;
-
-vi. Project Bonus Sources: The organizing committee-supported project's bonus will be provided by the organizing committee, while the community will provide the community-supported project's bonus.
+v. Project Bonus Sources: The organizing committee-supported project's bonus will be provided by the organizing committee, while the community will provide the community-supported project's bonus.
 
 ### （3）Designated Mentor
 
 * The community needs to appoint a mentor for each project, who should generally be a developer (Maintainer, Committer, Contributor) of that project. Each mentor can only guide one project.
 * The community account selects the mentor when publishing the project in the system. If the mentor information is not included in the system, the mentor's account information needs to be added.
-* Accepted students are not allowed to participate in activities as mentors. Otherwise, the bonus will be canceled.
+* One can only participate in activities as mentor or student. Otherwise, the bonus will be canceled.
 
 ### （4）Community Review
 
@@ -113,7 +111,7 @@ The OSPP adds a community review process during the student project application 
 * **The quality of the project application is the main criterion for evaluating whether the student's application is approved.**
 * The community review will be conducted after the mentor review. Before the community review, the community should communicate with the mentor and student, understand the project application and review status, organize internal discussions within the community, and determine the final community-approved project application among the applications approved by the mentor. The number of projects approved by the community review should not exceed the number of supported projects X informed by the organizing committee. 
 * If the community wants to increase the number of projects approved, they should sign a community cooperation agreement with the organizing committee and add it as a community-supported project (see section 5 below). 
-* The community review process should be operated in a community account, and the actual reviewers are determined by the community.
+* The community review process should be operated in a community account.
 
 ### （5）Community-Supported Projects
 
@@ -128,13 +126,13 @@ If the number of projects approved by the community review exceeds the number of
 * The community should launch an OSPP page on the community's official website or public repository of the project. The page content should include a project list, project details, and related reference materials. The format (HTML, Wiki, etc.) is not limited. 
 * Before the community review, the community should communicate with mentors and students to understand the project application and mentor review process, jointly determine the students and projects that pass the review and complete the community review before the deadline.
 * If the community wants to support projects, they should sign a community cooperation agreement with the organizing committee before the accepted students are announced.
-* During the bonding period, the community should organize training for mentors and students.
+* During the bonding period, the community should organize communication for mentors and students.
 * The community should provide corresponding assistance during the project development period, and coordinate and solve problems encountered by students and mentors in the development process.
 * If the community needs to change account information, modify community introductions, project descriptions, or change mentors, please send an application email to [org@summer-ospp.ac.cn](mailto:org@summer-ospp.ac.cn) and submit an information modification application form. The organizing committee does not recommend modifying relevant information after the announcement, so please carefully check and confirm before publishing.
 * Please refer to the mentor guide for mentor responsibilities, which include but are not limited to:
   * Providing project information according to the project template.
   * Communicating with potential applicants, reviewing the project application, and confirming the final selected student.
-  * Assisting students in the development process.
+  * Mentoring students in the development process.
   * Evaluating the student's development results.
 
 ## 5. Recommended Open Knowledge License
