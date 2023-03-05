@@ -1,79 +1,68 @@
-## 申请建议
+# Project Application Recommendations
 
-### （一）对申请参加活动的学生的建议
+## （1）Suggestions for students participation
 
-- 认真阅读学生指南、热点问题、活动日程等内容。
-- 确认自己的时间安排，确保能够保证参与项目期间，每周至少 30 个小时能够投入在项目中。
-- 参与开源工作很重要一点是要有主观能动性，希望学生在与我们联系之前尽可能自己在帮助中找到解决办法。
-- 参与开源项目前请梳理自己在专业领域的技能、感兴趣的技术、感兴趣的编程语言等，这些都有利于选择合适的项目。
-- 主动与社区联络，仔细查看社区的文档，不仅仅是社区提供的项目列表，也应该要认真熟悉社区的参与方式、沟通渠道、社区软件设计文档、社区开源仓库代码等。
-- 专注在感兴趣的 1 - 2 个社区，申请多个社区反而会降低被选中的概率。
-- 认真编写项目申请书，无论你来自什么学校、什么专业，项目申请书的质量将作为最重要的中选标准。
-- 仔细阅读申请的要求，确保提交的申请材料满足组委会的要求，包括项目申请书、简历等内容。
-- 申请的时间顺序不会影响是否被选择，组委会会在截止日期后统一将申请材料整理后，转交对应的社区进行评审。
-- 请勿在最后一天提交，避免因不熟悉申请流程、缺少申请材料、网络等问题造成无法在指定时间内完成申请。组委会会严格按照截止时间来收集申请，延期提交的申请不会被接受。
-- 学生参与本次活动应遵守对应社区相关规范进行开发贡献。
+- Read the information and help provided in this document in detail, and the organizing committee will try our best to write the contents considered in this help document.
+- Confirm your schedule to ensure that you can participate in the project at least 30 hours a week.
+- It is vital to devote the open source project with personal initiative. We hope that students can find solutions by themselves before contacting us. At least read the student guide, key issues as well as timeline, etc.
+- Before participating in open source projects, please sort out your professional skills, interested technologies, interested programming languages, etc., which are conducive to the selection of appropriate projects.
+- Carefully check the community's documents, not only the list of projects provided by the community, but also be familiar with the community's participation methods, communication channels, community software design documents and community open source repository, etc.
+- Focusing on 1-2 communities of interest, applying for multiple communities will reduce the probability of being selected.
+- Carefully prepare the project application. No matter which school or major you come from, the quality of the project application is the main factor to be selected.
+- Read the requirements of the application carefully to ensure that the application materials submitted meet the requirements of the organizing committee, including project application, identity certificate, etc.
+- The order of application will not affect whether it is selected or not. The organizing committee will sort out the application materials together after the deadline and transfer them to the corresponding community for review.
+- However, please do not submit on the last day to avoid not being familiar with the application process, such as lack of application materials, network and other problems, resulting in unable to complete the application within the specified time. The organizing committee will collect applications in strict accordance with the deadline, and applications submitted late will not be accepted.
+- Students should abide by the relevant norms of the corresponding community to contribute to the development.
 
-### （二）多与导师沟通
+## （2）Purpose of communicating with mentors
 
-和导师沟通是一个非常重要的环节，在沟通过程中，学生能够有以下收获：
+Communication with mentor is a vital link, in which students can obtain the following benefits:
 
-- 答疑解惑，对开源项目有一个全面的认识；
-- 细化方案，学生可以将自己的解决方案与导师沟通，根据项目需求完善调整项目申请书，提升可行性；
-- 展现良好的沟通能力，也将有助于提升学生的中选概率。
+- Answer questions and embrace a comprehensive understanding of open source projects;
+- Refine the plan so that students can communicate their solutions with their mentors, and learn from them to improve feasibility;
+- Demonstrating good communication skills will also help to improve students' chances of being selected.
 
-### （三）选择中选学生的标准
+## （3）Criteria for the selected students
 
-- 社区会根据学生提交的项目申请书（包括项目计划、项目实现方案等）、学生的简历，综合考虑选择中选学生。每个项目只能有一个学生承担。
+- The selected students by community chosen are based on the project application (including project plan, project implementation plan, etc.) submitted by students and their resumes. Each project can only be undertaken by one student.
+- It is strongly recommended that students should actively communicate with the community mentor about the project details and plans before applying. The project application is the focus of the selection criteria.
 
-- 强烈建议学生在申请之前要积极与社区导师沟通项目细节和方案，项目申请书是中选标准的重点。
+## （4）How to Write Project Application
 
-### （四）如何写好项目申请书
+The project application in general consists of two parts, detailed technical proposal and detailed time plan. In addition, students can describe the reasons for choosing the project, past development experiences related to the project technology, courses, etc. in the project application and express their willingness to participate in the project and contribute to the community.
 
-项目申请书总体上由两部分组成，即详细的技术方案和细致的时间规划，除此之外，学生还可以在项目申请书中描述选择该项目的理由、过去与项目技术相关的开发经历、课程等，并表达参与该项目并为社区提交贡献的意愿。
+### 1. Technical Solutions
 
-#### 1. 技术方案
+i. In principle, the more detailed the technical program shows, the better understanding and recognition for the community will have;
 
-i. 原则上，技术方案越详细越有利于社区理解和认可；
+ii. In the technical program, students should show their understanding of the target open source project from the following points:
 
-ii. 在技术方案中，学生应该展示出自己对目标开源项目的理解程度，可以从以下几点入手：
+- Disassemble the target open source project according to your own understanding and clearly describe the functions of each module;
+- Based on project dismantling, analyze the requirements raised in the project description;
+- Explicitly describe which files in which modules your schema will be modified;
+- Or, which modules will be added to your solution and how they communicate with existing modules;
 
-- 根据自己的理解拆解目标开源项目，并能明确描述各个模块的功能；
-  
-- 基于项目拆解，对项目描述中提出的需求进行分析；
-  
-- 明确描述自己的方案将对哪些模块中的哪些文件进行修改；
-  
-- 或者，自己的方案将会添加哪些模块，以及这些模块如何与现有模块通信。
+iii. It is best to find a basis for your own project and list it as a reference in the project application, including, but not limited to:
 
-iii. 最好能为自己的方案找到依据，以引用的形式在项目申请书中列出，包括但不限于：
+- Successful experience in other projects;
+- Thesis and other theoretical basis provided.
 
-- 其他项目的成功经验；
-  
-- 论文等提供的理论依据。
+### 2. Time Planning
 
-#### 2. 时间规划
+- The granularity of the proposed time plan is not more than one week;
+- To improve the readability of the plan, you can first divide the time into several large phases (for example, four weeks as a phase) and summarize the core tasks of each phase.
+- In each stage, describe the tasks you plan to accomplish in a week in weeks.
 
-- 建议时间规划的粒度不大于1周；
+### 3. Write something on your resume
 
-- 为提高规划的可读性，可以先将时间划分为几个大的阶段（如，4周为一个阶段），并总结每个阶段的核心任务；
+i. Resumes are designed to enable the community to have a clear understanding of each applicant's technical capabilities;
 
-- 在每个阶段内，以周为单位，描述自己一周内计划完成的任务。
+ii. User IDs of open source platforms such as Github/Gitee/Gitlab;
 
-#### 3. 简历写点啥
+iii. Students should never include irrelevant information in their resumes. Each information should be as relevant as possible to the project they are applying for, including, but not limited to:
 
-i. 简历是为了让社区能够对每一位申请学生的技术能力有更清晰的认识；
-
-ii. Github/Gitee/Gitlab 等开源代码平台的用户 ID；
-
-iii. 学生切忌在简历中罗列不相关的信息，每一信息应该尽可能和自己所申请的项目相关，包括但不限于：
-
-- 已经为该开源社区提交过贡献；
-  
-- 为类似的开源软件及其社区提交过贡献；
-  
-- 虽然未参与相关社区贡献，但是有开源贡献的经验；
-  
-- 虽然未参与过开源，但是有类似功能软件的开发经验；
-  
-- 若以上经验全无，应着重体现自己对社区使用技术栈的掌握程度，以及展现自己的学习能力。
+- Past contribution on this open source community;
+- Contributed to similar open source projects or communities;
+- Experience with open source contributions, although not participating in related community contributions;
+- Not involved in open source, but have experience in developing similar functional software;
+- If you have no experience at all, you should emphasize your mastery of using the technology stack in the community and demonstrate your learning ability.
