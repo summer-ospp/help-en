@@ -28,7 +28,7 @@ Please read and understand this participation guide carefully. If you have any q
 
 ## 2. Which communities can participate in the program?
 
-* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or [OKF](##5) recommended Open Knowledge License.
+* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](##_5).
 
 ## 3. What can you achieve?
 
@@ -61,6 +61,7 @@ Community liaisons can register a community account and log in to the OSPP syste
 
 * OSPP prioritizes development projects and considers various projects that benefit community development. For example, functional tasks, such as adding one or more important features to the community's open-source project (not limited to this); optimization tasks, such as improving speed, reducing resource consumption, and improving performance (not limited to this), etc.
 * It is recommended that projects participating in the program have been open source and publicly operated for at least six months. 
+    
   *This year's OSPP focuses on supporting RISC-V and basic software related projects.
 
 **C. Difficulty and Bonus**
@@ -130,10 +131,11 @@ If the number of projects approved by the community review exceeds the number of
 * The community should provide corresponding assistance during the project development period, and coordinate and solve problems encountered by students and mentors in the development process.
 * If the community needs to change account information, modify community introductions, project descriptions, or change mentors, please send an application email to [org@summer-ospp.ac.cn](mailto:org@summer-ospp.ac.cn) and submit an information modification application form. The organizing committee does not recommend modifying relevant information after the announcement, so please carefully check and confirm before publishing.
 * Please refer to the mentor guide for mentor responsibilities, which include but are not limited to:
-  * Providing project information according to the project template.
-  * Communicating with potential applicants, reviewing the project application, and confirming the final selected student.
-  * Mentoring students in the development process.
-  * Evaluating the student's development results.
+
+    * Providing project information according to the project template.
+    * Communicating with potential applicants, reviewing the project application, and confirming the final selected student.
+    * Mentoring students in the development process.
+    * Evaluating the student's development results.
 
 ## 5. Recommended Open Knowledge License
 
@@ -151,10 +153,11 @@ The following open knowledge agreement projects are accepted in this program:
 * The organizer has no intellectual property claim for the development achievements of the students in this program;
 * The community and students determine relevant intellectual property achievements according to the guidelines for participating in community development (for instance, signing CLA with student developers).
 * Privacy
-  * Organizers will process the personal information provided during registration and in any subsequent communications to administer the Program (including verifying eligibility to participate in the Program, running the Program, and sending notifications regarding the Program).
-  * Organizers will also use aggregated, non-personally identifiable information for statistical purposes.
-  * The display name that Participants create during registration will be displayed publicly on the Program Website and any archives of the Program Website, and will be shared with Organizations to communicate with the Participants to answer their questions and review Student proposals and work.
-  * Mentor's Project Submissions and contact information (email address and display name) will be shared with the Organizations (including Members) to administer the Program.
-  * Organizers may publicize your participation in the Program and the results of the Program, including announcements of accepted Project Proposals, the text of accepted Project Proposals, and the resulting code from your work on the Project. Organizers may display your information, including your display name, Project abstract, and Final Project Materials, on Organizers-run websites, including ISCAS Official Website, Intelligent Software Research Center Official Website, openEuler Community Official Website and the Program Website.
-  * Participants can access, update, remove and restrict the processing of their personal information in their Program profile during the Program Period. If you would like to edit such information after the Program has concluded, object to the processing of the information, or export it to another service, you may write to Organizers (Official Website, E-mail, WeChat Official Accounts). 
+
+    * Organizers will process the personal information provided during registration and in any subsequent communications to administer the Program (including verifying eligibility to participate in the Program, running the Program, and sending notifications regarding the Program).
+    * Organizers will also use aggregated, non-personally identifiable information for statistical purposes.
+    * The display name that Participants create during registration will be displayed publicly on the Program Website and any archives of the Program Website, and will be shared with Organizations to communicate with the Participants to answer their questions and review Student proposals and work.
+    * Mentor's Project Submissions and contact information (email address and display name) will be shared with the Organizations (including Members) to administer the Program.
+    * Organizers may publicize your participation in the Program and the results of the Program, including announcements of accepted Project Proposals, the text of accepted Project Proposals, and the resulting code from your work on the Project. Organizers may display your information, including your display name, Project abstract, and Final Project Materials, on Organizers-run websites, including ISCAS Official Website, Intelligent Software Research Center Official Website, openEuler Community Official Website and the Program Website.
+    * Participants can access, update, remove and restrict the processing of their personal information in their Program profile during the Program Period. If you would like to edit such information after the Program has concluded, object to the processing of the information, or export it to another service, you may write to Organizers (Official Website, E-mail, WeChat Official Accounts). 
 

@@ -8,7 +8,7 @@ Welcome to Open Source Promotion Plan
 
 Open Source Promotion Plan is a summer program for college students jointly organized by Institute of Software Chinese Academy of Sciences and openEuler community. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community.
 
-Official Website: <https://summer.iscas.ac.cn/>.
+Official Website: <https://summer-ospp.ac.cn/>.
 
 ## How to Contribute
 

@@ -40,7 +40,7 @@ For detailed information, please refer to the [student guide](https://summer-os
 
 ## Which communities can apply to participate?
 
-* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or OKF recommended Open Knowledge License.
+* This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](community.md##5).
 * Communities committed to promoting open source are welcome to contact the organizing committee to discuss the event promotion and cooperation.
 
 ## How does the community sign up?

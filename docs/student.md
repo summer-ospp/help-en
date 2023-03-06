@@ -1,15 +1,15 @@
 # Student Guide
 
-* Before participating in the program, please carefully read the Student Participation Agreement, and the formal application for the project indicates agreement to all the contents of this agreement.
+* Before participating in the program, please carefully read the [Student Participation Agreement](assets/Participant-Aggrement-for-Student.txt), and the formal application for the project indicates agreement to all the contents of this agreement.
 * After the student's project is completed, they need to download, sign, and upload the signed electronic scan of the Student Participation Agreement in the OSPP System. The student also needs to fill in the bank card information in the system.
 * Students cannot participate in this program as a mentor at the same time.
 * Please take your choices seriously and stick to them.
 
 ## 1. What is Open Source Promotion Plan?
 
-* OSPP Introduction, skip to Frequently Asked.
-* Search for Community, skip to Community List.
-* Search for Project, skip to Project List.
+* OSPP Introduction, skip to [Frequently Asked](index.md).
+* Search for Community, skip to [Community List](https://summer-ospp.ac.cn/org/orglist).
+* Search for Project, skip to [Project List](https://summer-ospp.ac.cn/org/projectlist).
 
 ## 2. What can you achieve?
 
@@ -96,8 +96,8 @@
 #### 5. Project Development and Project Report Submission
 
 * The repository shown in the project description is the code repository to be used during the project development.
-* Before the end of the project development (UTC+8 September 30th), students need to submit PR/MR to the above community project repository, upload the Project Report and fill in the PR/MR link in the OSPP system.
-* There is a one-month period for the project PR/MR merge (October 1st - October 30th UTC+8 ). The submitted PR/MR needs to be merged during this period.
+* Before the end of the project development (September 30th, UTC+8), students need to submit PR/MR to the above community project repository, upload the Project Report and fill in the PR/MR link in the OSPP system.
+* There is a one-month period for the project PR/MR merge (October 1st - October 30th, UTC+8 ). The submitted PR/MR needs to be merged during this period.
 * Students should complete the project development independently. Mentors can only guide students to develop a plan, provide relevant recommended document links, guide students on participating in the community, and provide directional suggestions for improving the implementation plan.
 
 #### 6. Final Term Review
@@ -172,12 +172,12 @@ iii. The students' bonus will be paid by credit transfer method. There is no res
 * Swiftcode
 * Scancopy of Passport
 
-  ***Note: The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information,and other sensitive information.*
+  **Note: The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information,and other sensitive information.*
 
 iv. The tax payment or tax payment certificate, including the amount of this payment, is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes are withheld and paid by the organizing committee on their behalf. The calculation method is as follows (Unit: Yuan):
 
 * Below 3750 RMB, 3% tax rate (80% * 3%)
 * Below 15000 RMB, 10% tax rate (80% * 10% - 210)
 
-  ***Note: If the Payee's account name or country is on the restricted list of FATF, the United Nations, the Ministry of Public Security,or other external agencies, the payee will be responsible for the consequences of not being able to receive money.*
+  **Note: If the Payee's account name or country is on the restricted list of FATF, the United Nations, the Ministry of Public Security,or other external agencies, the payee will be responsible for the consequences of not being able to receive money.*
 

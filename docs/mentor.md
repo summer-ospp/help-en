@@ -67,6 +67,7 @@ Mentors will review the student's project performance in the following aspects a
 * Evaluate the completeness of project-related documents.
 * For R & D projects, whether the final report provides the corresponding test verification results.
 * Other aspects that the community and mentors believe need to be evaluated.
+
   *The git email submitted by the student in the community repository must be the email used for registration.
 
 ### 6. Mentor Bonus
