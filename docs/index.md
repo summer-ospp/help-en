@@ -4,7 +4,7 @@
 
 * Open Source Promotion Plan is a summer program organized by the Open Source Software Supply Chain Promotion Plan of the Institute of Software Chinese Academy of Sciences. It aims to encourage college students to actively participate in developing and maintaining open source software and promote the vigorous development of an excellent open source software community. We have united with domestic and international open source communities to propose project tasks for developing and maintaining the essential open source software. We are open enrollment to college students around the world.
 * Students can choose the projects they are interested in to apply and obtain the opportunity of the senior maintainer (community mentor) to guide them. According to the difficulty and completion of the project, participants will also receive a bonus and certificate of completion.
-* For information on previous events, please refer to the [previous program](https://summer-ospp.ac.cn/help/).
+* For information on previous events, please refer to the [previous program](https://summer-ospp.ac.cn/2022/).
 
 ## Participation Guide
 
