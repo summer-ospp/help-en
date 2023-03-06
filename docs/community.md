@@ -66,11 +66,9 @@ Community liaisons can register a community account and log in to the OSPP syste
 
 **C. Difficulty and Bonus**
 
-* **Advanced level**: 
-  * Students who complete the project will receive a pre-tax bonus of RMB 12,000
+* **Advanced level**: Students who complete the project will receive a pre-tax bonus of RMB 12,000
   
-* **Basic level**: 
-  * Students who complete the project will receive a pre-tax bonus of RMB 8,000
+* **Basic level**: Students who complete the project will receive a pre-tax bonus of RMB 8,000
  
 i. The difficulty setting of the project should be based on project requirements, technical thresholds, and estimated project development workloads. 
 
@@ -82,19 +80,19 @@ iv. Reference Example :
 
 * **Basic level**: 
 
-[Example 1](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970142)
+    [Example 1](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970142)
 
-[Example 2](https://summer-ospp.ac.cn/2022/#/org/prodetail/2298a0007)
+    [Example 2](https://summer-ospp.ac.cn/2022/#/org/prodetail/2298a0007)
 
-[Example 3](https://summer-ospp.ac.cn/2022/#/org/prodetail/227cc0121)
+    [Example 3](https://summer-ospp.ac.cn/2022/#/org/prodetail/227cc0121)
 
 * **Advanced level**:
 
-[Example 1](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970263)
+    [Example 1](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970263)
 
-[Example 2](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970023)
+    [Example 2](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970023)
 
-[Example 3](https://summer-ospp.ac.cn/2022/#/org/prodetail/228d90270)
+    [Example 3](https://summer-ospp.ac.cn/2022/#/org/prodetail/228d90270)
 
 v. Project Bonus Sources: The organizing committee-supported project's bonus will be provided by the organizing committee, while the community will provide the community-supported project's bonus.
 
