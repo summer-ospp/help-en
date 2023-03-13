@@ -37,7 +37,7 @@
 
 - Prepare project descriptions and submit them in the system through a community account.
 - Communicate with potential students and guide them in preparing application materials.
-- Project application review. The mentor needs to review and prioritize all received project applications. *The quality of the project application is the main criterion for evaluating whether the student's application is approved.
+- Project application review. The mentor needs to review and prioritize all received project applications. **The quality of the project application is the main criterion for evaluating whether the student's application is approved**.
 - Guide students in their project development work.
 - Final project review and fill out mentor comments.
 - Outstanding student recommendation.
