@@ -116,7 +116,7 @@ The OSPP adds a community review process during the student project application 
 
 If the number of projects approved by the community review exceeds the number of organizing committee-supported projects X, the community needs to sign a community cooperation agreement with the organizing committee and increase it as a community-supported project. The bonus and tax of community-supported projects will be provided by the community. 
 
-* Before the accepted students are announced, the community should sign the community cooperation agreement ( Community Cooperation Agreement - Template), which should specify the number, name, difficulty, and bonus amount of the community-supported projects. 
+* Before the accepted students are announced, the community should sign the [Community Cooperation Agreement](https://github.com/summer-ospp/help-en/blob/1d8392664f2b5d690d0d48fb596eed56ce89e708/docs/assets/2023%20OPEN%20SOURCE%20PROMOTION%20PLAN%20COOPERATION%20AGREEMENT%20-%20Template.docx), which should specify the number, name, difficulty, and bonus amount of the community-supported projects. 
 * The community provides funds for the designated project's bonus, which will be used in full to pay the bonus and taxes for the designated project. The community does not need to pay the support funds if the supported project is not completed. The actual amount of community support will be based on the "Community Completion Project List" issued by the organizing committee after the final review. 
 * The community-supported project will be marked with a special symbol in the community and project list.
 
@@ -124,10 +124,10 @@ If the number of projects approved by the community review exceeds the number of
 
 * The community should launch an OSPP page on the community's official website or public repository of the project. The page content should include a project list, project details, and related reference materials. The format (HTML, Wiki, etc.) is not limited. 
 * Before the community review, the community should communicate with mentors and students to understand the project application and mentor review process, jointly determine the students and projects that pass the review and complete the community review before the deadline.
-* If the community wants to support projects, they should sign a community cooperation agreement with the organizing committee before the accepted students are announced.
+* If the community wants to support projects, they should sign a [Community Cooperation Agreement](https://github.com/summer-ospp/help-en/blob/1d8392664f2b5d690d0d48fb596eed56ce89e708/docs/assets/2023%20OPEN%20SOURCE%20PROMOTION%20PLAN%20COOPERATION%20AGREEMENT%20-%20Template.docx) with the organizing committee before the accepted students are announced.
 * During the bonding period, the community should organize communication for mentors and students.
 * The community should provide corresponding assistance during the project development period, and coordinate and solve problems encountered by students and mentors in the development process.
-* If the community needs to change account information, modify community introductions, project descriptions, or change mentors, please send an application email to [org@summer-ospp.ac.cn](mailto:org@summer-ospp.ac.cn) and submit an information modification application form. The organizing committee does not recommend modifying relevant information after the announcement, so please carefully check and confirm before publishing.
+* If the community needs to change account information, modify community introductions, project descriptions, or change mentors, please send an application email to [org@summer-ospp.ac.cn](mailto:org@summer-ospp.ac.cn) and submit an [Information Modification Application Form](https://github.com/summer-ospp/help/blob/49a7c7b92d0e0502f9218607327d70b384caa3ef/docs/assets/%E7%A4%BE%E5%8C%BA%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9%E7%94%B3%E8%AF%B7%E8%A1%A8-Community-Information-Modification.xlsx). The organizing committee does not recommend modifying relevant information after the announcement, so please carefully check and confirm before publishing.
 * Please refer to the mentor guide for mentor responsibilities, which include but are not limited to:
 
     * Providing project information according to the project template.
