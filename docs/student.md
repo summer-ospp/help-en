@@ -61,7 +61,7 @@
   
 **CHOOSING THE PROJECTS**
 
-* Students can view the [Project List](https://summer-ospp.ac.cn/#/org) on the official website.
+* Students can view the [Project List](https://summer-ospp.ac.cn/org) on the official website.
 * Students can apply for up to three projects at the same time, but can only undertake one project in the end.
 * Each project can only be undertaken by one student at most.
   
