@@ -109,7 +109,7 @@ i. Mentors will review the student's project results in the following aspects an
 * **The project needs to be submitted to the open-source community repository in the form of PR/MR and merged.**
 * Evaluate whether the project output meets the goals and requirements of the project.
 * List the contributions made to the community.
-* Evaluate of the running status of project outputs.
+* Evaluate the running status of project outputs.
 * Evaluate the completeness of the project-related documents.
 * For R & D projects, whether the final report provides the corresponding test verification results.
 * Other aspects that the community and mentor believe need to be evaluated.
