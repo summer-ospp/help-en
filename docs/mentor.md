@@ -15,7 +15,7 @@
 | 4    | 04/04-04/27 | Project Submission                                           | Refer to the participation processes. Deadline: 04/27 18:00 UTC+8 |
 | 5    | 04/04-04/29 | Committee Review                                             | Approved projects will be posted on the official website. Deadline for mentor identity verification: 04/28 24:00 UTC+8 |
 | 6    | 04/29       | Project Announced                                            |                                                              |
-| 7    | 04/29-06/04 | Student Registration, Communication and Project Application Submission | Deadline for student registration: 06/03 15:00 UTC+8. Deadline for project application: 06/04 18:00 UTC+8. |
+| 7    | 04/30-06/04 | Student Registration, Communication and Project Application Submission | Deadline for student registration: 06/03 15:00 UTC+8. Deadline for project application: 06/04 18:00 UTC+8. |
 | 8    | 06/05-06/25 | Project Application Review                                   | 06/05-06/11 Mentor Review 06/12-06/18 Community Review and Submit Community Cooperation Agreement 06/19-06/25 Committee Review and Sign Community Cooperation Agreement *The quality of the project application is the main criterion for evaluating whether the student's application is approved. |
 | 9    | 06/26       | Accepted Student Projects Announced                          | Students can check the application results on the official website and management system. |
 | 10   | 06/26-06/30 | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
