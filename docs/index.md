@@ -35,7 +35,7 @@ No, you can only choose one role to participate in the program. If this situatio
 
 ### How to apply for projects?
 
-- Student registration is open from April 29 to June 4.
+- Student registration is open from April 30 to June 4.
 - All processes should be operated in the management system.
 - For detailed information, please refer to the [Student Guide](https://summer-ospp.ac.cn/help/en/student/).
 

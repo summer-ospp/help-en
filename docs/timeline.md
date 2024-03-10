@@ -7,9 +7,9 @@
 
 | Date           | Event                                  |
 | :------------- | :------------------------------------- |
-| 03/06-03/30    | Community Registration and Review      |
-| 04/04-04/28    | Project Release and Review             |
-| 04/29-06/04    | Student Registration, Mentor Communication, and Project Application |
+| 03/11-03/31    | Community Registration and Review      |
+| 04/04-04/29    | Project Publish and Review             |
+| 04/30-06/04    | Student Registration, Mentor Communication, and Project Application |
 | 06/05-06/25    | Project Application Review             |
 | 06/26          | Accepted Student Projects Announced    |
 | 06/26-06/30    | Community Bonding                      |
