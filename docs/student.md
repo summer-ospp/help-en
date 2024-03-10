@@ -35,11 +35,13 @@
 
 | No.  | Date        | Issue                                                        | Remarks                                                      |
 | ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | 03/06-03/31 | Community Registration and Review                            | Approved communities will be posted on the official website. |
-| 2    | 04/01-04/28 | Project Publish and Committee Review                         | Approved projects will be posted on the official website     |
+| 1    | 03/11-03/31 | Community Registration and Review                            | Approved communities will be posted on the official website. |
+| 2    | 04/01-04/28 | Project Publish and Committee Review                         | Approved projects will be posted on the official website.     |
 | 3    | 04/29       | Project Announced                                            |                                                              |
 | 4    | 04/29-06/04 | Student Registration, Communication and Project Application Submission | Students can sign up and fill out their information from April 29th. Students can submit their project applications after their personal information has been approved. *Deadline for registration: 06/03 15:00 UTC+8. Deadline for project application: 06/04 18:00 UTC+8. |
-| 5    | 06/05-06/25 | Project Application Review                                   | 06/05-06/11 Mentor Review 06/12-06/18 Community Review 06/19-06/25 Committee Review |
+| 5    | 06/05-06/25 | Project Application Review                                   | 06/05-06/11 Mentor Review 
+06/12-06/18 Community Review 
+06/19-06/25 Committee Review |
 | 6    | 06/26       | Accepted Student Projects Announced                          | Students can check their application results on the official website and OSPP system. |
 | 7    | 06/26-06/30 | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
 | 8    | 07/01-09/30 | Coding and Development                                       | Deadline for project report and PR/MR links submission：09/30 24:00 UTC+8 |
