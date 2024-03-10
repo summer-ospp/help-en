@@ -10,13 +10,13 @@ Please read and understand this participation guide carefully. If you have any q
 
 | No.  | Date        | Issue                                                        | Remarks                                                      |
 | ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | 03/06-03/31 | Community Registration and Review                            | Sign up and fill in community information in the OSPP system. Approved communities will be posted on the official website. Deadline: 03/31 18:00 UTC+8 |
+| 1    | 03/11-03/31 | Community Registration and Review                            | Sign up and fill in community information in the OSPP system. Approved communities will be posted on the official website. Deadline: 03/31 18:00 UTC+8 |
 | 2    | 04/01       | Community List Announced                                     |                                                              |
 | 3    | 04/01-04/03 | Committee Confirms the Supported Project Quantity and Informs Community | Refer to the participation processes.                        |
 | 4    | 04/04-04/27 | Project Submission                                           | Refer to the participation processes. Deadline: 04/27 18:00 UTC+8 |
 | 5    | 04/04-04/29 | Committee Review                                             | Approved projects will be posted on the official website. Deadline for mentor identity verification: 04/28 24:00 UTC+8 |
 | 6    | 04/29       | Project Announced                                            |                                                              |
-| 7    | 04/29-06/04 | Student Registration, Communication, and Project Application Submission | Deadline for student registration: 06/03 15:00 UTC+8. Deadline for project application: 06/04 18:00 UTC+8. |
+| 7    | 04/30-06/04 | Student Registration, Communication, and Project Application Submission | Deadline for student registration: 06/03 15:00 UTC+8. Deadline for project application: 06/04 18:00 UTC+8. |
 | 8    | 06/05-06/25 | Project Application Review                                   | 06/05-06/11 Mentor Review. 06/12-06/18 Community Review and submit community cooperation agreement. 06/19-06/25 Committee Review and sign a community cooperation agreement. *The quality of the project application is the main criterion for evaluating whether the student's application is approved. |
 | 9    | 06/26       | Accepted Student Projects Announced                          | Students can check the application results on the official website and OSPP system. |
 | 10   | 06/26-06/30 | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
