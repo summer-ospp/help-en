@@ -1,29 +1,31 @@
 # Student Guide
 
-* Before participating in the program, please carefully read the [Student Participation Agreement](assets/Participant-Aggrement-for-Student.txt), and the formal application for the project indicates agreement to all the contents of this agreement.
-* After the student's project is completed, they need to download, sign, and upload the signed electronic scan of the Student Participation Agreement in the OSPP System. The student also needs to fill in the bank card information in the system.
-* Students cannot participate in this program as a mentor at the same time.
-* Please take your choices seriously and stick to them.
+## Student Guide
+
+- Students cannot participate in this program as both mentors and students. If this is discovered during the program, the committee will cancel their eligibility for participation, mentor bonus, and student bonus.
+- Before participating in this program, please carefully read the [Student Participation Agreement](https://summer-ospp.ac.cn/help/en/assets/Participant-Aggrement-for-Student.txt), and the formal application for the project indicates agreement to all the contents of this agreement.
+- After completing the project, students need to download, sign, and upload a scanned copy of the signed Student Participation Agreement in the system, and also provide their bank account information.
+- Please take your choices seriously and stick to them.
 
 ## 1. What is Open Source Promotion Plan?
 
-* OSPP Introduction, skip to [Frequently Asked](index.md).
-* Search for Community, skip to [Community List](https://summer-ospp.ac.cn/org/orglist).
-* Search for Project, skip to [Project List](https://summer-ospp.ac.cn/org/projectlist).
+- [OSPP Introduction](https://summer-ospp.ac.cn/help/en/)
+- Search for Community, skip to [Community List](https://summer-ospp.ac.cn/org/orglist).
+- Search for Project, skip to [Project List](https://summer-ospp.ac.cn/org/projectlist).
 
 ## 2. What can you achieve?
 
-* Meet open source partners and technical experts.
-* Receive professional guidance from community mentors and have in-depth discussions with open source project developers.
-* Gain project practical experience and improve project development skills.
-* Receive a reference for learning direction and accumulate contacts for career development.
-* Obtain the bonus and certificate: Students who pass the final assessment will have the opportunity to obtain an outstanding student certificate.
+- Connect with open source peers and tech experts.
+- Receive professional guidance from community mentors, and have in-depth discussions with open source developers.
+- Enhance project experience, and improve development skills.
+- Gain insights for learning direction and build professional networks for career development.
+- Earn bonus and certificate: Students who pass the final evaluation will have the opportunity to receive an outstanding student certificate.
 
 ## 3. Student Eligibility
 
-* Must be at least 18 years old at the time of registration.
-* Students who will graduate soon during the summer can still apply if their student ID is valid at the time of application.
-* International students should provide their Passport and Admission Letter/Student ID Card/Certificate of Enrollment.
+- Must be at least 18 years old at the time of registration.
+- Students who are about to graduate in the summer can still apply for the program as long as their student ID is valid at the time of application.
+- International students should provide their Passport and Admission Letter/Student ID Card/Certificate of Enrollment etc., to prove their student status.
 
 ## 4. Participation Process
 
@@ -32,12 +34,12 @@
 ### （2）Familiarize yourself with the process.
 
 | No.  | Date        | Issue                                                        | Remarks                                                      |
-| :--- | :---------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 1    | 03/06-03/31 | Community Application and Review                             | Approved communities will be posted on the official website. |
-| 2    | 04/01-04/28 | Project Release and Committee Review                         | Approved projects will be posted on the official website     |
+| ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | 03/06-03/31 | Community Registration and Review                            | Approved communities will be posted on the official website. |
+| 2    | 04/01-04/28 | Project Publish and Committee Review                         | Approved projects will be posted on the official website     |
 | 3    | 04/29       | Project Announced                                            |                                                              |
-| 4    | 04/29-06/04 | Student Registration, Communication and Project Application Submission | Students can sign up and fill out their information from April 29th. Students can submit their project applications after their personal information has been approved.<br>*Deadline for registration: 06/03 15:00 UTC+8.<br>Deadline for project application: 06/04 18:00 UTC+8. |
-| 5    | 06/05-06/25 | Project Application Review                                   | 06/05-06/11 Mentor Review<br>06/12-06/18 Community Review<br>06/19-06/25 Committee Review |
+| 4    | 04/29-06/04 | Student Registration, Communication and Project Application Submission | Students can sign up and fill out their information from April 29th. Students can submit their project applications after their personal information has been approved. *Deadline for registration: 06/03 15:00 UTC+8. Deadline for project application: 06/04 18:00 UTC+8. |
+| 5    | 06/05-06/25 | Project Application Review                                   | 06/05-06/11 Mentor Review 06/12-06/18 Community Review 06/19-06/25 Committee Review |
 | 6    | 06/26       | Accepted Student Projects Announced                          | Students can check their application results on the official website and OSPP system. |
 | 7    | 06/26-06/30 | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
 | 8    | 07/01-09/30 | Coding and Development                                       | Deadline for project report and PR/MR links submission：09/30 24:00 UTC+8 |
@@ -50,134 +52,148 @@
 
 **All processes will be operated in the OSPP system. The default time zone is UTC+8.*
 
-#### 1. Project Communication
+**1. Project Communication**
 
 **REGISTRATION**
 
-* Students can register and log in to the OSPP System through the student login portal on the official website, and complete the application by providing the required information as per the program requirements. 
-* Previous participants can log in with their original account to update their information and apply.
-* The git email submitted by the student in the community repository must be the email used for registration.
-* Students cannot participate in the program as a mentor at the same time. 
-  
+- Students can register and log in to the system through the student login portal on the official website, and fill in their personal information according to the requirements. Once the information is approved by the committee, the registration will be considered successful.
+- Previous participants can log in with their existing account to update their information and apply.
+- The git email submitted by the student in the community repository must be the email used for registration.
+- Students cannot participate in this program as both mentors and students. If this is discovered during the program, the committee will cancel their eligibility for participation, mentor bonus, and student bonus.
+
 **CHOOSING THE PROJECTS**
 
-* Students can view the [Project List](https://summer-ospp.ac.cn/org) on the official website.
-* Students can apply for up to three projects at the same time, but can only undertake one project in the end.
-* Each project can only be undertaken by one student at most.
-  
+- Students can view the [Project List](https://summer-ospp.ac.cn/org) on the official website.
+- Students can submit applications for up to three projects but can only take on one project in the end.
+- Each project can only be undertaken by one student.
+
 **COMMUNICATE WITH MENTORS**
 
-* The official website's project descriptions include the project mentor's name and contact email of the project mentor. Students can communicate with mentors via email.
-* It is important to maintain basic etiquette when communicating with mentors. Mentors only provide guidance and advice within their capacity, and the student should complete the project's application, design, and development by themselves.
-* This stage is both a period of understanding project details and a time to get familiar with community operations and etiquette.
+- The official website's project descriptions include project mentors' names and contact emails. Students can communicate with mentors via email, which is the basic way to participate in community activities.
+- Students should pay attention to basic etiquette when communicating with mentors. Mentors provide guidance and advice to the best of their abilities, but the application, design, and development of the project should be completed by the students themselves.
+- This is the time to understand the project details and to become familiar with the community operation and etiquette.
 
-#### 2. Project Application
+**2. Project Application**
 
 **PREPARING APPLICATION MATERIALS**
 
-* Students can download the [Project Application Template](./assets/Project-Application-Template.pdf ) and prepare the required materials.
-* The quality of the project application is the most important criterion for the committee to evaluate whether the student's application is approved or not.
-* This is the time to understand the project details and to become familiar with the community operation and etiquette.
+- Please carefully read the [Project Application Suggestions](https://summer-ospp.ac.cn/help/en/student/).
+- Prepare relevant materials based on the project requirements and refer to the [Project Application Template](https://summer-ospp.ac.cn/help/en/assets/Project-Application-Template.pdf).
+- The quality of the project application is the primary criterion for the committee to evaluate whether the student's application is approved or not.
+- This is the time to understand the project details and to become familiar with the community operation and etiquette.
 
 **SUBMITTING THE APPLICATION**
 
-* Submit the application materials through the OSPP system.
-* Each student can apply for up to three projects, but can only undertake one project in the end. 
-* When submitting the application, students should rank the selection priority of the projects they have applied for. If a student is selected by multiple projects, the project with the higher priority will take precedence.
+- Submit the application materials through the system.
+- Students can submit applications for up to three projects but can only take on one project in the end.
+- When submitting the application, students need to prioritize the selection order of all the projects they have applied for.  If a student is selected for multiple projects simultaneously, the project with a higher priority will be given preference.
 
-#### 3. Accepted student projects announced
+**3. Accepted student projects announced**
 
-* Students can check the project application results on the official website and the OSPP system.
+- Students can view the project application results on the official website and the system.
 
-#### 4. Communicating and Bonding
+**4. Communicating and Bonding**
 
-* Accepted students can communicate further with the community and mentors to clarify project requirements, development plans, and time planning to prepare for project development.
+- Accepted students can further communicate with the community and mentors to clarify project requirements, development plans, and timelines, preparing for the project development.
 
-#### 5. Project Development and Project Report Submission
+**5. Project Development and Project Report Submission**
 
-* The repository shown in the project description is the code repository to be used during the project development.
-* Before the end of the project development (September 30th, UTC+8), students need to submit PR/MR to the above community project repository, upload the Project Report and fill in the PR/MR link in the OSPP system.
-* There is a one-month period for the project PR/MR merge (October 1st - October 30th, UTC+8 ). The submitted PR/MR needs to be merged during this period.
-* Students should complete the project development independently. Mentors can only guide students to develop a plan, provide relevant recommended document links, guide students on participating in the community, and provide directional suggestions for improving the implementation plan.
+- The repository shown in the project description is the code repository to be used during the project development.
+- Students should submit PR/MR to the project repository before the end of the project development (September 30th, UTC+8), provide the PR/MR link, and upload the project report in the system. Please refer to the [Project Report Template](https://github.com/summer-ospp/help/blob/da3b0ff0a799d634889ab1f7f991db8d8e5bb8d5/docs/assets/结项报告模板.txt) for specific format and details.
+- There is a one-month period for the project PR/MR merge (October 1st - October 30th, UTC+8 ). The submitted PR/MR should be merged during this period. 
+- Students should independently complete the project development and not have their PR/MR submitted or modified by the mentor or any other individuals. The mentor's role is to guide the student in planning the project, provide relevant recommended documentation links, guide the student on community participation, and provide directional suggestions for improving the implementation approach.
 
-#### 6. Final Term Review
+**Project Report**
 
-**ASSESSMENT PROCESS**
+The project report should include the following:
 
-i. Mentors will review the student's project results in the following aspects and fill in the review comments in the system:
+- The Accomplished Work: describe your work according to the original plan. It should correspond to the project application.
+- Problem and Solution: focus on describing the summary and experience.
+- Test Cases: Present the corresponding test validation results.
+- Subsequent Work Arrangement: demonstrate the progress and whether you need to adjust the plan.
 
-* **The project needs to be submitted to the open-source community repository in the form of PR/MR and merged.**
-* Evaluate whether the project output meets the goals and requirements of the project.
-* List the contributions made to the community.
-* Evaluate the running status of project outputs.
-* Evaluate the completeness of the project-related documents.
-* For R & D projects, whether the final report provides the corresponding test verification results.
-* Other aspects that the community and mentor believe need to be evaluated.
-  
-ii. The organizing committee organizes an evaluation team to review the project output, and gives the final review conclusion (pass or fail) based on the review opinions of the community.
+Please refer to the [Project Report Template](https://github.com/summer-ospp/help/blob/da3b0ff0a799d634889ab1f7f991db8d8e5bb8d5/docs/assets/结项报告模板.txt) for specific format and details.
+
+**6. Final Term Evaluation**
+
+**EVALUATION PROCESS**
+
+i. Mentors will review the student's project achievements based on the following aspects and provide their evaluation comments in the system. The mentor's comments will be displayed on the official website along with the list of project completions:
+
+- **The project needs to be submitted to the open-source community repository in the form of PR/MR and merged.**
+- All PR/MR must be completed by the student within the specified time. The git email used by the student for submissions in the community repository must match the email used during registration.
+- Evaluate whether the project output meets the goals and requirements of the project.
+- List the contributions made to the community.
+- Evaluate the running status of project outputs.
+- Evaluate the completeness of the project-related documents.
+- For R & D projects, whether the report provides the corresponding test verification results.
+- Other aspects that the community and mentor believe need to be evaluated.
+
+ii. The committee will form an evaluation team to assess the project outcomes, considering the mentor's comments, and provide the final evaluation conclusion (pass or fail).
 
 **RESULT ANNOUNCED**
 
-* The review result will be announced on the official website.
+- The evaluation result and the mentor's comments will be published on the official website.
+- Students who pass the final term evaluation will receive a bonus and a certificate of completion. They will also have the opportunity to participate in the selection of outstanding students.
 
-* Students who pass the final term review will receive a bonus, a certificate of completion, and the opportunity to participate in the Outstanding Student Award.
+**7. Annual Outstanding Student Selection**
 
-#### 7. Annual Outstanding Student Selection
-
-Based on the completion status of the students, the community and mentors recommend candidates for the annual outstanding students of the OSPP, and the organizing committee conducts a secondary review and confirms the final list of outstanding students.
+Based on the student's completion status, the community and mentors will recommend candidates for the annual outstanding students of the OSPP, and the committee will conduct a secondary review and confirm the final list of outstanding students.
 
 ### （4）Other Questions
 
-#### 1. Can students apply for community projects if they are already community members?
+**1. Can students who are already members of the community apply for community projects?**
 
 Yes, they can apply. However, applicants cannot participate in the program as a mentor.
 
-#### 2. When do students start project development? Can they start early?
+**2. When do students start project development? Can they start early?**
 
-After the organizing committee officially announced the accepted students.
+After the committee officially announces the accepted students, they can begin project development.
 
-Before the announcement, students are not considered selected and therefore the organizing committee does not recommend starting development early. Before the announcement, students should focus on improving their project proposals and plans. Planning and designing projects are essential for this program and future projects in which students may participate in their careers.
+The results are finalized only after matching the rankings of students and mentors and being approved by the community and committee. Before the announcement, the project selection is not confirmed. Mentors are not allowed to pre-select students, make unofficial promises, or ask students to start development work in advance. Any development or PR/MR submissions made before the announcement will not meet the project evaluation timeline requirements and will not be recognized. 
 
-#### 3. What programming language should students use to develop their projects?
+Before the announcement, students should focus on improving their project proposals and plans. Planning and designing projects are essential for this program and future projects in which students may participate in their careers.
 
-Students should choose a programming language based on the requirements of the community project, and it generally should be consistent with the programming language used by the community.
+**3. What programming language should students use to develop their projects?**
+
+Students should choose a programming language based on the requirements of the community project, generally aligning with the programming language used by the community.
 
 ## 5. Student Bonus
 
-**（1）How much is the studen bonus?** 
+**（1）What is the amount of the project bonus?**
 
-The project difficulty is divided into two levels: Basic level and Advanced level, and the corresponding project bonuses are pre-tax RMB 8000 and pre-tax RMB 12000.
+The project difficulty is divided into two levels: Basic level and Advanced level, and the corresponding project bonus is pre-tax CNY 8000 and pre-tax CNY 12000.
 
-**（2）When will the student bonus be issued?**
+**（2）When will the student bonus be disbursed?**
 
-Students who pass the final-term review will receive their bonus. Accordingly, the student will not receive it if they fail the final evaluation.
+Students who pass the final-term evaluation will receive their bonus. Accordingly, the student will not receive it if they fail the final evaluation.
 
-**（3）How to pay the international students' bonus?**
+**（3）How will the bonus be disbursed to international students?**
 
-i. According to the requirements of the Revenue Department, a scanned copy of the international student's passport is required to pay the bonus.
+i.  Currently, the committee can only make foreign exchange payments through the Society for Worldwide Interbank Financial Telecommunications (SWIFT) system. The bonus will be settled in US dollars based on the real-time exchange rate on the remittance day. If the personal bank account provided by the international student is disabled in the SWIFT system, they cannot receive the project bonus.
 
-ii. The international students' bonus shall be settled in US dollars, subject to the real-time exchange rate at the time of bonus payment.
+ii. According to the requirements of the Taxation Administration, a scanned copy of the international student's passport is required to disburse the bonus.
 
-iii. The students' bonus will be paid by credit transfer method. There is no restriction on which bank, but the account must be under your name. Also, the organizing committee will collect the following information from the student based on the requirements of the State Taxation Administration of The People's Republic of China:
+iii. The student bonus will be disbursed via bank transfer. There is no restriction on which bank, but the account must be in the student's name. Students who pass the final evaluation should fill in the following bank account information in the system for transfer and review by the State Taxation Administration of The People's Republic of China:
 
-* Payee's Full Name
-* Gender
-* ID Card Number
-* Nationality
-* Date of Birth
-* Telephone Number
-* Payee's Address
-* Payee's Bank Name and Address
-* Payee's Bank Account
-* Swiftcode
-* Scancopy of Passport
+- Payee's Full Name
+- Gender
+- Passport Number
+- Nationality
+- Date of Birth
+- Telephone Number
+- Payee's Address
+- Payee's Bank Name and Address
+- Payee's Bank Account
+- Swift Code
+- Scan copy of Passport
 
-  **Note: The above information is required according to the current international settlement policy. The organizing committee will take reasonable measures to protect private data, personal identity information,and other sensitive information.*
+**Note: The above information is required according to the current international settlement policy requirements. The committee will take reasonable measures to protect private data, personal identity information,* *and other sensitive information.*
 
-iv. The tax payment or tax payment certificate, including the amount of this payment, is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes are withheld and paid by the organizing committee on their behalf. The calculation method is as follows (Unit: Yuan):
+iv. The tax payment or tax payment certificate, including the amount of this payment, is applicable to the situation where Chinese and foreign personnel obtain income in China according to the tax terms, and individual income taxes are withheld and paid by the committee on their behalf. The calculation method is as follows (in CNY):
 
-* Below 3750 RMB, 3% tax rate (80% * 3%)
-* Below 15000 RMB, 10% tax rate (80% * 10% - 210)
+- Not exceeding 3,000 yuan, tax rate of 3%, tax amount (bonus 80% * 3%)
+- For the portion exceeding 3,000 yuan up to 12,000 yuan, tax rate of 10%, tax amount (bonus 80% * 10% - 210)
 
-  **Note: If the Payee's account name or country is on the restricted list of FATF, the United Nations, the Ministry of Public Security,or other external agencies, the payee will be responsible for the consequences of not being able to receive money.*
+*Note: If the Payee's account name or country is on the restricted list of FATF, the United Nations, the Ministry of Public Security, or other external agencies, the Payee will be responsible for the consequences of not being able to receive money.*
 
