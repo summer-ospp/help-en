@@ -4,7 +4,7 @@ repo_url: https://summer-ospp.ac.cn/help/
 site_url: https://summer-ospp.ac.cn/help/en/
 repo_name: 中文版
 
-copyright: Copyright &copy; 2020 - 2023 Open Source Promotion Plan Organizing Committee
+copyright: Copyright &copy; 2020 - 2024 Open Source Promotion Plan Organizing Committee
 
 theme:
   name: material
@@ -19,7 +19,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/solid/envelope
-      link: mailto:summer@iscas.ac.cn
+      link: mailto:org@summer-ospp.ac.cn
 
 extra_javascript:
     - 'js/tongji.js'
