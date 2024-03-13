@@ -79,7 +79,7 @@
 
 **PREPARING APPLICATION MATERIALS**
 
-- Please carefully read the [Project Application Suggestions](https://summer-ospp.ac.cn/help/en/student/).
+- Please carefully read the [Project Application Suggestions](https://summer-ospp.ac.cn/help/en/proj_apply/).
 - Prepare relevant materials based on the project requirements and refer to the [Project Application Template](https://summer-ospp.ac.cn/help/en/assets/Project-Application-Template.pdf).
 - The quality of the project application is the primary criterion for the committee to evaluate whether the student's application is approved or not.
 - This is the time to understand the project details and to become familiar with the community operation and etiquette.
