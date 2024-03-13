@@ -55,7 +55,7 @@ For more detailed information, please refer to the [Student Guide](https://summe
 
 ### Which communities can apply to participate?
 
-- Open source community repositories should adopt [OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](https://summer-ospp.ac.cn/help/en/community/##_5).
+- Open source community repositories should adopt [OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](https://summer-ospp.ac.cn/help/en/community/##_7).
 - Open source communities should have been publicly operational for at least six months.
 
 ### How does the community sign up?
@@ -72,7 +72,7 @@ For more details, please refer to the Community Guide.
 
 ### Which communities can apply to participate?
 
-- This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](https://summer-ospp.ac.cn/help/en/community/##5).
+- This program is open to open source communities whose repository adopts[ OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](https://summer-ospp.ac.cn/help/en/community/##_7).
 - Communities committed to promoting open source are welcome to contact the committee to discuss the event promotion and cooperation.
 
 ### How does the community sign up?
@@ -97,7 +97,7 @@ For more details, please refer to the Community Guide.
 
 Mentors can't guide students to develop through code and can't help students debug projects. Students should complete the project independently. Mentors can guide students to make plans, provide links to relevant recommendation documents, advise students on participating in the community, and provide directional suggestions for improving the implementation scheme.
 
-### **Can mentors pre-select students or allow students to start development early?**
+### Can mentors pre-select students or allow students to start development early?
 
 The project selection results are finalized only after student rankings and mentor rankings are matched and approved by the community and organizing committee. Until the organizing committee announces the selected students, the project selection remains uncertain. Therefore, mentors are not allowed to pre-select students, make private commitments to students regarding selection outcomes, or require students to start development work early. Any development or PR/MR links submitted before the announcement will not meet the project completion review time requirements and will not be recognized.
 
@@ -114,7 +114,7 @@ Yes, PR/MR merged into the main line is the essential criterion to determine the
 1. During the project development process, students should follow the community requirements and submit codes to the community's repository.
 2. Before the end of project development (9/30, UTC+8), students must submit PR/MR and upload the final project report to the OSPP system, and provide the PR/MR links.
 
-### **Project Review Criteria**
+### Project Review Criteria
 
 1. **The project needs to be submitted to the open-source community repository in the form of PR/MR and merged.**
 2. In terms of progress, mentors should consider the actual development situation of students and the difficulty of development tasks to determine whether they align with the project plan's relevant planning.
