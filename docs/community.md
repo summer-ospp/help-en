@@ -28,7 +28,7 @@ Please read and understand this participation guide carefully. If you have any q
 
 ## 2. Which communities can participate?
 
-- Open source community repositories should adopt [OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](https://summer-ospp.ac.cn/help/en/community/##_5).
+- Open source community repositories should adopt [OSI organization approved open source license](https://opensource.org/licenses) or [OKF recommended Open Knowledge License](https://summer-ospp.ac.cn/help/en/community/#7-recommended-open-knowledge-license).
 - Open source communities should have been publicly operational for at least six months.
 
 ## 3. What can participating communities gain?
@@ -123,7 +123,7 @@ Each community can recommend a maximum of 3 candidates for the following awards:
 ## 5. Community Responsibilities
 
 - The community should launch an OSPP page on the community's official website (or public repository for the project) using HTML, Wiki, or other formats. The page should include all project lists, project details, and relevant reference materials.
-- Communities are encouraged to create a **community introduction video** and submit it to the committee's email at [org@summer-ospp.ac.cn](mailto:org@summer-ospp.ac.cn). The committee will publish the video on the official website, WeChat public account, Bilibili, and other platforms. The video should ideally be under 20 minutes, covering community background, development directions, achievements showcase, plans, etc. Communities can use the [OSPP Presentation template](https://github.com/summer-ospp/publicity/blame/e45a7afc45abb4cfad45d084800a39ffd755aea5/2024/开源之夏社区宣讲PPT模板.pptx) to create the presentation file. Additionally, provide a video title within 17 characters and a video cover image sized at 1920x1080 pixels.
+- Communities are encouraged to create a **community introduction video** and submit it to the committee's email at [org@summer-ospp.ac.cn](mailto:org@summer-ospp.ac.cn). The committee will publish the video on the official website, WeChat public account, Bilibili, and other platforms. The video should ideally be under 20 minutes, covering community background, development directions, achievements showcase, plans, etc. Communities can use the [OSPP Presentation template](https://github.com/summer-ospp/publicity/blame/d08c1d1baaef1e63f9d75f7e43e2ab427c649a45/2024/%E5%BC%80%E6%BA%90%E4%B9%8B%E5%A4%8F2024%E7%A4%BE%E5%8C%BA%E5%AE%A3%E8%AE%B2PPT%E6%A8%A1%E6%9D%BF.pptx) to create the presentation file. Additionally, provide a video title within 17 characters and a video cover image sized at 1920x1080 pixels.
 - Before the community review, the community should engage in thorough communication with mentors and students to understand the project applications and mentor evaluations, and then jointly determine the students and projects that pass the review and complete the community review before the deadline.
 - If the community intends to support projects, they should sign a [Community Cooperation Agreement](https://summer-ospp.ac.cn/help/en/assets/2023-OPEN-SOURCE-PROMOTION-PLAN-COOPERATION-AGREEMENT-Template.docx) with the committee before the accepted students are announced.
 - During the bonding period, the community should organize necessary communication between mentors and students.
