@@ -10,7 +10,6 @@
 - Focusing on 1-2 communities of interest, applying for multiple communities will reduce the probability of being selected.
 - Carefully prepare the project application. No matter which school or major you come from, the quality of the project application is the main factor to be selected.
 - Read the requirements of the application carefully to ensure that the application materials submitted meet the requirements of the organizing committee, including project application, identity certificate, etc.
-- The order of application will not affect whether it is selected or not. The organizing committee will sort out the application materials together after the deadline and transfer them to the corresponding community for review.
 - However, please do not submit on the last day to avoid not being familiar with the application process, such as lack of application materials, network and other problems, resulting in unable to complete the application within the specified time. The organizing committee will collect applications in strict accordance with the deadline, and applications submitted late will not be accepted.
 - Students should abide by the relevant norms of the corresponding community to contribute to the development.
 
