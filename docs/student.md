@@ -45,7 +45,7 @@
 | 8    | 06/26       | Accepted Student Projects Announced                          | Students can check the application results on the official website and management system. |
 | 9   | 06/26-06/30 | Community Bonding                                            | The accepted students can further communicate with the community and mentor about the project and warm up for project development. |
 | 10   | 07/01-09/30 | Coding and Development                                       | Deadline for project report and PR/MR links submission：09/30 24:00 UTC+8 |
-| 11   | 10/01-10/31 | Evaluations – Mentor Final Term Review and PR/MR Merge       | In the meantime, student developers can still refine their PR/MR until they are merged. |
+| 11   | 10/01-10/31 | Evaluations – Mentor Final Term Review                       | In the meantime, student developers can still refine their PR/MR until they are merged. |
 | 12   | 11/01-11/08 | Evaluations – Committee Final Term Review                    |                                                              |
 | 13   | 11/09       | Results Announced                                            | Students can view the final results on the official website and management system and then fill in the bank information in the management system. |
 | 14   | November    | Outstanding Students Selection                               | Recommended by mentors and communities.                              |                                                              |
