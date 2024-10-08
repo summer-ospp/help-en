@@ -124,6 +124,7 @@ i. Mentors will review the student's project achievements based on the following
 
 - **The project needs to be submitted to the open-source community repository in the form of PR/MR and merged.**
 - All PR/MR must be completed by the student within the specified time. The git email used by the student for submissions in the community repository must match the email used during registration.
+- Whether the project development progress and outcomes meet the planned proposal and objectives outlined in the project application.
 - Evaluate whether the project output meets the goals and requirements of the project.
 - List the contributions made to the community.
 - Evaluate the running status of project outputs.
